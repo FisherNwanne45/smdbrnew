@@ -3403,12 +3403,8 @@
                                                     </option>
                                                   </select>
 
-                    <button type="button" class="next-button" data-next="section2">Next</button>
-                </fieldset>
-
-                <!-- Page 2: Products and Services Offered -->
-                <fieldset class="form-section" id="section2">
-                    <legend>2. Products and Services Offered</legend>
+                    
+              <legend>2. Products and Services Offered</legend>
                     <label for="productsServices">Products and Services:</label>
                     <textarea id="productsServices" name="productsServices" rows="5" required></textarea>
 
@@ -3423,12 +3419,16 @@
                     <input type="text" id="certificationDetails" name="certificationDetails"
                         placeholder="Specify certifications">
 
-                    <button type="button" class="prev-button" data-prev="section1">Previous</button>
-                    <button type="button" class="next-button" data-next="section3">Next</button>
+                   
+                    <button type="button" class="next-button" data-next="section2">Next <small>(1/2)</small></button>
                 </fieldset>
 
+
+                
+                <fieldset class="form-section" id="section2">
+                    
                 <!-- Page 3: Exportation and Packaging -->
-                <fieldset class="form-section" id="section3">
+                
                     <legend>3. Exportation and Packaging</legend>
                     <label for="exportServices">Exportation Services:</label>
                     <select id="exportServices" name="exportServices">
@@ -3450,12 +3450,8 @@
                     <input type="text" id="specialPackagingDetails" name="specialPackagingDetails"
                         placeholder="Describe special packaging">
 
-                    <button type="button" class="prev-button" data-prev="section2">Previous</button>
-                    <button type="button" class="next-button" data-next="section4">Next</button>
-                </fieldset>
-
-                <!-- Page 4: Production Capacity and Handling -->
-                <fieldset class="form-section" id="section4">
+                     
+                 
                     <legend>4. Production Capacity and Handling</legend>
                     <label for="productionCapacity">Production Capacity (units per month):</label>
                     <input type="number" id="productionCapacity" name="productionCapacity">
@@ -3480,13 +3476,7 @@
                     </select>
                     <input type="text" id="customerServiceDetails" name="customerServiceDetails"
                         placeholder="Provide details">
-
-                    <button type="button" class="prev-button" data-prev="section3">Previous</button>
-                    <button type="button" class="next-button" data-next="section5">Next</button>
-                </fieldset>
-
-                <!-- Page 5: Additional Information -->
-                <fieldset class="form-section" id="section5">
+ 
                     <legend>5. Additional Information</legend>
                     <label for="additionalInfo">Additional Information:</label>
                     <textarea id="additionalInfo" name="additionalInfo" rows="5"></textarea>
@@ -3496,7 +3486,7 @@
 
                     <div class="g-recaptcha" data-sitekey="6Lek8wMqAAAAAHphKkow4znUMH0rTzaqQvEVxjc1"></div>
 
-                    <button type="button" class="prev-button" data-prev="section4">Previous</button>
+                    <button type="button" class="prev-button" data-prev="section1">Previous <small>(2/2)</small></button>
                     <input type="submit" class="submit-button" value="Submit Application">
                 </fieldset>
             </form>
