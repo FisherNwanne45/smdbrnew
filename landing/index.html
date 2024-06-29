@@ -2,10 +2,11 @@
 <html lang="en-US" class="loading-site no-js">
     <!-- Mirrored from pmegtrading.com/contact-us by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Jun 2024 00:16:01 GMT -->
     <!-- Added by HTTrack -->
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
-
+    
     <head>
         <meta charset="UTF-8" />
+        <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
         <link rel="profile" href="http://gmpg.org/xfn/11" />
         <link rel="pingback" href="xmlrpc.php" />
 
@@ -2222,6 +2223,17 @@
             border-radius: 8px;
             margin-top: 20px;
         }
+        .error {
+            border: 1px solid red;
+        }
+        .error-message {
+        color: red;
+        font-size: 0.875em;
+        display: none;
+    }
+    .error .error-message {
+        display: block;
+    }
 
         .top-menu {
             display: flex;
@@ -2297,6 +2309,12 @@
         }
 
         .form-section .next-button {
+            float: right;
+            background-color: #4CAF50;
+            color: white;
+        }
+        
+        .submit-button {
             float: right;
             background-color: #4CAF50;
             color: white;
@@ -2604,13 +2622,13 @@
                     <input type="text" id="contactPerson" name="contactPerson" required>
 
                     <label for="emailAddress">Email Address:</label>
-                    <input type="email" id="emailAddress" name="emailAddress" required>
+                    <input type="email" id="emailAddress" name="email" required>
 
                     <label for="phoneNumber">Phone Number:</label>
-                    <input type="tel" id="phoneNumber" name="phoneNumber" required>
+                    <input type="tel" id="phoneNumber" name="phone" required>
 
                     <label for="website">Website:</label>
-                    <input type="url" id="website" name="website">
+                    <input type="text" id="website" name="website">
 
                     <label for="address">Address:</label>
                     <textarea id="address" name="address" rows="3" required></textarea>
@@ -3476,64 +3494,107 @@
                     <label for="attachments">Attachments (certifications, catalogs, etc.):</label>
                     <input type="file" id="attachments" name="attachments">
 
-                    <div class="g-recaptcha" data-sitekey="YOUR_SITE_KEY"></div>
+                    <div class="g-recaptcha" data-sitekey="6Lek8wMqAAAAAHphKkow4znUMH0rTzaqQvEVxjc1"></div>
 
                     <button type="button" class="prev-button" data-prev="section4">Previous</button>
-                    <button type="submit" class="next-button" id="submitButton">Submit Application</button>
+                    <input type="submit" class="submit-button" value="Submit Application">
                 </fieldset>
             </form>
         </div>
 
          <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const sections = document.querySelectorAll('.form-section');
-            const nextButtons = document.querySelectorAll('.next-button');
-            const prevButtons = document.querySelectorAll('.prev-button');
+    document.addEventListener('DOMContentLoaded', function() {
+        const sections = document.querySelectorAll('.form-section');
+        const nextButtons = document.querySelectorAll('.next-button');
+        const prevButtons = document.querySelectorAll('.prev-button');
+        const form = document.getElementById('vendorForm');
 
-            let currentSectionIndex = 0;
-            showSection(currentSectionIndex);
+        let currentSectionIndex = 0;
+        showSection(currentSectionIndex);
 
-            nextButtons.forEach(button => {
-                button.addEventListener('click', function() {
+        nextButtons.forEach(button => {
+            button.addEventListener('click', function() {
+                if (validateSection(currentSectionIndex)) {
                     const nextSectionId = this.dataset.next;
                     const nextSectionIndex = getSectionIndex(nextSectionId);
                     showSection(nextSectionIndex);
                     scrollToTop(nextSectionId);
-                });
-            });
-
-            prevButtons.forEach(button => {
-                button.addEventListener('click', function() {
-                    const prevSectionId = this.dataset.prev;
-                    const prevSectionIndex = getSectionIndex(prevSectionId);
-                    showSection(prevSectionIndex);
-                    scrollToTop(prevSectionId);
-                });
-            });
-
-            function showSection(index) {
-                sections.forEach((section, i) => {
-                    if (i === index) {
-                        section.classList.add('current');
-                    } else {
-                        section.classList.remove('current');
-                    }
-                });
-                currentSectionIndex = index;
-            }
-
-            function getSectionIndex(sectionId) {
-                return [...sections].findIndex(section => section.id === sectionId);
-            }
-
-            function scrollToTop(sectionId) {
-                const section = document.getElementById(sectionId);
-                if (section) {
-                    section.scrollIntoView({ behavior: 'smooth', block: 'start' });
                 }
+            });
+        });
+
+        prevButtons.forEach(button => {
+            button.addEventListener('click', function() {
+                const prevSectionId = this.dataset.prev;
+                const prevSectionIndex = getSectionIndex(prevSectionId);
+                showSection(prevSectionIndex);
+                scrollToTop(prevSectionId);
+            });
+        });
+
+        form.addEventListener('submit', function(event) {
+            if (!validateSection(currentSectionIndex)) {
+                event.preventDefault();
+                return false;
             }
         });
-    </script>
+
+        function showSection(index) {
+            sections.forEach((section, i) => {
+                if (i === index) {
+                    section.classList.add('current');
+                } else {
+                    section.classList.remove('current');
+                }
+            });
+            currentSectionIndex = index;
+        }
+
+        function getSectionIndex(sectionId) {
+            return [...sections].findIndex(section => section.id === sectionId);
+        }
+
+        function scrollToTop(sectionId) {
+            const section = document.getElementById(sectionId);
+            if (section) {
+                section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+        }
+
+        function validateSection(index) {
+            const section = sections[index];
+            const inputs = section.querySelectorAll('input[required], select[required], textarea[required]');
+            let valid = true;
+
+            inputs.forEach(input => {
+                const errorSpan = input.nextElementSibling;
+                if (!input.checkValidity()) {
+                    input.classList.add('error');
+                    if (errorSpan && errorSpan.classList.contains('error-message')) {
+                        errorSpan.style.display = 'block';
+                    } else {
+                        const errorMessage = document.createElement('span');
+                        errorMessage.className = 'error-message';
+                        errorMessage.textContent = 'This field is required';
+                        input.parentNode.insertBefore(errorMessage, input.nextSibling);
+                    }
+                    if (valid) {
+                        input.focus();
+                    }
+                    valid = false;
+                } else {
+                    input.classList.remove('error');
+                    if (errorSpan && errorSpan.classList.contains('error-message')) {
+                        errorSpan.style.display = 'none';
+                    }
+                }
+            });
+
+            return valid;
+        }
+    });
+</script>
+
         
 
                     </section><br><br><br>

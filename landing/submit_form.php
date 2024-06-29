@@ -2535,36 +2535,34 @@
                                             <p style="text-align: center">
 
                                                 <?php
-function showResponse($status, $message) {
-    // Define styles for the icons
-    $iconStyle = 'width: 100px; height: 100px;'; // Adjust size as needed
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
 
-    // SVG markup for success and error icons with inline styles
+// Include PHPMailer library files
+require 'phpmailer/phpmailer/src/Exception.php';
+require 'phpmailer/phpmailer/src/PHPMailer.php';
+require 'phpmailer/phpmailer/src/SMTP.php';
+
+function showResponse($status, $message) {
+    $iconStyle = 'width: 100px; height: 100px;';
     $successIcon = '<svg class="success-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="' . $iconStyle . '"><circle cx="12" cy="12" r="10" stroke="green" stroke-width="2" fill="none"/><path d="M6 12l4 4 8-8" stroke="green" stroke-width="2" fill="none"/></svg>';
     $errorIcon = '<svg class="error-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="' . $iconStyle . '"><circle cx="12" cy="12" r="10" stroke="red" stroke-width="2" fill="none"/><line x1="8" y1="8" x2="16" y2="16" stroke="red" stroke-width="2"/><line x1="16" y1="8" x2="8" y2="16" stroke="red" stroke-width="2"/></svg>';
-
-    // Determine which icon to use based on status
     $icon = $status == 'success' ? $successIcon : $errorIcon;
-
-    // Return icon and message
     return $icon . ' ' . $message;
 }
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-
-    // Verify Google reCAPTCHA
-    $recaptchaSecretKey = 'YOUR_SECRET_KEY'; // Replace with your reCAPTCHA secret key
+    $recaptchaSecretKey = '6Lek8wMqAAAAAFLM_vFMXXFA22JpDyZjbiZw859I';
     $recaptchaResponse = $_POST['g-recaptcha-response'];
 
     $recaptcha = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=$recaptchaSecretKey&response=$recaptchaResponse");
     $recaptcha = json_decode($recaptcha);
 
     if ($recaptcha->success == false) {
-        echo showResponse('error', 'reCAPTCHA verification failed. Please try again.');
+        echo showResponse('error', '<br>reCAPTCHA verification failed. Please try again.');
         exit;
     }
 
-    // Collect form data
     $companyName = $_POST['companyName'];
     $contactPerson = $_POST['contactPerson'];
     $email = $_POST['email'];
@@ -2593,9 +2591,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $signature = $_POST['signature'];
     $date = $_POST['date'];
 
-    // Prepare email content
-    $to = 'admin@example.com'; // Replace with your admin email
-    $subject = 'New Supplier Assessment Form Submission';
     $message = "
         <html>
         <head>
@@ -2610,7 +2605,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <p><strong>Website:</strong> $website</p>
             <p><strong>Address:</strong> $address</p>
             <p><strong>Country:</strong> $country</p>
-
             <h2>Products and Services Offered</h2>
             <p><strong>Products and Services:</strong><br>$productsServices</p>
             <p><strong>Industries Served:</strong> $industries</p>
@@ -2619,7 +2613,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $message .= "<br><strong>Certification Details:</strong> $certificationsSpec";
     }
     $message .= "</p>
-
             <h2>Exportation and Packaging</h2>
             <p><strong>Exportation Services:</strong> $exportServices</p>
             <p><strong>Packaging Methods for Exportation:</strong> $packagingMethods</p>
@@ -2629,7 +2622,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $message .= "<br><strong>Special Packaging Description:</strong> $specialPackagingDesc";
     }
     $message .= "</p>
-
             <h2>Production Capacity and Handling</h2>
             <p><strong>Production Capacity:</strong> $productionCapacity units per month</p>
             <p><strong>Average Lead Time for Orders:</strong> $leadTime</p>
@@ -2644,10 +2636,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $message .= "<br><strong>Details:</strong> $customerServiceDesc";
     }
     $message .= "</p>
-
             <h2>Additional Information</h2>
             <p><strong>Additional Information or Comments:</strong><br>$additionalInfo</p>
-
             <h2>Declaration</h2>
             <p><strong>Declaration:</strong> $declaration</p>
             <p><strong>Signature:</strong> $signature</p>
@@ -2655,25 +2645,54 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         </body>
         </html>";
 
-    // Headers for HTML email
-    $headers = "From: $email\r\n";
-    $headers .= "Reply-To: $email\r\n";
-    $headers .= "MIME-Version: 1.0\r\n";
-    $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
+    $mail = new PHPMailer();
+    $mail->isSMTP();
+    $mail->Host = 'smtp.hostinger.com'; // Set your SMTP server
+    $mail->SMTPAuth = true;
+    $mail->Username = 'info@pmegtrading.online'; // SMTP username
+    $mail->Password = 'TESTED_trusted001'; // SMTP password
+    $mail->SMTPSecure = 'STARTTLS';
+    $mail->Port = 587;
 
-    // Send email
-    if (mail($to, $subject, $message, $headers)) {
-        // Success response with icon
+    $mail->setFrom('info@pmegtrading.online', 'PMEG');
+    $mail->addAddress('info@pmegtrading.online'); // Add a recipient
+    $mail->addReplyTo($email, $contactPerson);
+    
+    if (isset($_FILES['attachments']) && $_FILES['attachments']['error'] == UPLOAD_ERR_OK) {
+    $fileTmpPath = $_FILES['attachments']['tmp_name'];
+    $fileName = $_FILES['attachments']['name'];
+    $fileType = $_FILES['attachments']['type'];
+
+    // Validate file extension
+    $fileNameCmps = explode(".", $fileName);
+    $fileExtension = strtolower(end($fileNameCmps));
+    $allowedfileExtensions = array('jpg', 'gif', 'png', 'pdf', 'doc', 'docx');
+
+    if (in_array($fileExtension, $allowedfileExtensions)) {
+        // Add attachment
+        $mail->addAttachment($fileTmpPath, $fileName);
+    } else {
+        echo showResponse('error', '<br>Invalid file type. Allowed types: jpg, jpeg, gif, png, pdf, doc, docx');
+        exit;
+    }
+}
+ 
+
+    $mail->isHTML(true);
+    $mail->Subject = 'New Supplier Assessment Form Submission';
+    $mail->Body    = $message;
+
+    if ($mail->send()) {
         echo showResponse('success', '<br>Thank you for your submission. We will review your information shortly.');
     } else {
-        // Error response with icon
         echo showResponse('error', '<br>Failed to submit the form. Please try again later.');
     }
-
 } else {
     echo showResponse('error', '<br>Invalid request. Please submit the form.');
 }
 ?>
+
+
 
                                             </p>
                                             <span><a href="https://pmegtrading.com"
