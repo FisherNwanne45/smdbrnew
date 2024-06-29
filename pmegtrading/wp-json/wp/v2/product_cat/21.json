@@ -1,0 +1,28 @@
+{
+  "id": 21,
+  "count": 8,
+  "description": "D\u2019avino was founded in 1950 by Mr. Pasquale D\u2019avino and began by transforming military transports and war materials as well as repairing and transforming cable excavators. Unit the end of the 1950s , our activities remained more or less unchanged and successively we began the planning , designing and assembling rock crushing equipment (some of which are still operating in our territory).",
+  "link": "https://pmegtrading.com/product-category/davino",
+  "name": "D'avino",
+  "slug": "davino",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/21" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=21" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

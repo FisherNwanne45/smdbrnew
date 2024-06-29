@@ -1,0 +1,67 @@
+{
+  "id": 15116,
+  "date": "2023-10-11T10:03:56",
+  "date_gmt": "2023-10-11T07:03:56",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15116"
+  },
+  "modified": "2023-10-11T10:21:33",
+  "modified_gmt": "2023-10-11T07:21:33",
+  "slug": "t450-compact-tracked-loader",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/t450-compact-tracked-loader",
+  "title": { "rendered": "T450 Compact Tracked Loader" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15138\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/T450-Combo-Bucket-Landscaping-190620_DSC_6132.webp\" alt=\"\" width=\"2100\" height=\"1400\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/T450-Combo-Bucket-Landscaping-190620_DSC_6132.webp 2100w, https://pmegtrading.com/wp-content/uploads/2023/10/T450-Combo-Bucket-Landscaping-190620_DSC_6132-600x400.webp 600w, https://pmegtrading.com/wp-content/uploads/2023/10/T450-Combo-Bucket-Landscaping-190620_DSC_6132-1200x800.webp 1200w, https://pmegtrading.com/wp-content/uploads/2023/10/T450-Combo-Bucket-Landscaping-190620_DSC_6132-768x512.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/T450-Combo-Bucket-Landscaping-190620_DSC_6132-1536x1024.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/T450-Combo-Bucket-Landscaping-190620_DSC_6132-2048x1365.webp 2048w\" sizes=\"(max-width: 2100px) 100vw, 2100px\" /></p>\n<table style=\"height: 152px;\" width=\"1101\">\n<tbody>\n<tr>\n<td width=\"361\">Specifications</td>\n<td width=\"71\"></td>\n</tr>\n<tr>\n<td>Operating Capacity</td>\n<td>665 kg</td>\n</tr>\n<tr>\n<td>Tipping Load Capacity</td>\n<td>2834 kg</td>\n</tr>\n<tr>\n<td>Pump Capacity</td>\n<td>63.7 L/min</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Water Cooled</td>\n<td>Kubota 66 hp</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>You can manoeuver the growing star Bobcat\u00ae T450 Compact Track Loader around tight worksites with performance that will exceed your expectations for such a compact machine. The radius lift path of this impressive performer excels at jobs with mid-range working heights such as dumping over walls, backfilling or unloading flatbed trucks.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15134,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 9],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15116" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15116"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15134"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15116" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15116"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15116"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

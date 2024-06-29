@@ -1,0 +1,36 @@
+{
+  "id": 217,
+  "count": 2,
+  "description": "",
+  "link": "https://pmegtrading.com/product-category/keestrack/impact-crushers",
+  "name": "Impact Crushers",
+  "slug": "impact-crushers",
+  "taxonomy": "product_cat",
+  "parent": 216,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/217" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/216"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=217"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

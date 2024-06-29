@@ -1,0 +1,36 @@
+{
+  "id": 161,
+  "count": 3,
+  "description": "Acid etching sparkles compared to the dull aggregate of sand-blasting and say good-bye to silica dust, worm holes, efflorescence, and other issues. And there is no better way to acid etch than with a Kem-O-Kleen. That\u2019s why there are Kem-O-Kleen systems in place at 70%+ of the nation\u2019s largest architectural precasters, and many other precast, dry-cast, wet cast and FRC locations. Multiple unit installations, strong repeat purchases, and our specialized experience, are further testimony to the product's effectiveness.",
+  "link": "https://pmegtrading.com/product-category/unique-industries/acid-etching-machines",
+  "name": "Acid Etching Machines",
+  "slug": "acid-etching-machines",
+  "taxonomy": "product_cat",
+  "parent": 160,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/161" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/160"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=161"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 179,
+  "date": "2016-04-08T00:00:00",
+  "date_gmt": "2016-04-08T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/backhoe/" },
+  "modified": "2017-06-21T16:08:22",
+  "modified_gmt": "2017-06-21T16:08:22",
+  "slug": "backhoe",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/backhoe",
+  "title": { "rendered": "Backhoe" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: center;\">Turn your Bobcat\u00ae loader into a powerful excavator with the digging force of the backhoe attachment.</h3>\n<p>With a full line of backhoe models for all sizes of Bobcat loaders, the backhoe is a part-time attachment that can handle full-time excavating jobs. The backhoe attachment operates with minimal ground disturbance that is ideal for working in sensitive areas.</p>\n<p>Once the digging is done, switching the backhoe attachment is quick and easy. With the Bob-TachTM mounting system, quickly change to a bucket for backfilling and then to another attachment to handle every job on site, maximizing performance and minimizing downtime. Power through any excavation job with the versatility advantage of a backhoe attachment.</p>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Top Tasks</h2>\n<ul>\n<li>Complete excavation jobs at landscaping and nursery sites</li>\n<li>Dig sewage systems and septic tanks</li>\n<li>Complete water and power line maintenance</li>\n</ul>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>How it works:</h2>\n<p>Auxiliary Hydraulics from the Bobcat loader provide power to hydraulic cylinders on the attachment to allow to dig, dump and swing.</p>\n</div>\n</div>\n<h2 class=\"clearfix\">Features</h2>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<ul>\n<li><strong>Digging Depth</strong>: With a full line of backhoe models for all sizes of loaders, the backhoe attachment features digging depths from 6 to 11 feet, ideal for maximizing the combination of excavating performance and carrier versatility.</li>\n<li><strong>Easy to Transport</strong>: Moves from one job to the next with ease, allowing maximum attachment use without hassle.</li>\n<li><strong>Excellent Down-Hole Visibility</strong>: Offers clear visibility when operating the backhoe attachment, allowing for more efficient and accurate operation.</li>\n<li><strong>X-Change Mounting Attachment System (larger models only)</strong>: Multiple bucket widths offer the best fit for any excavating job size. Quickly and easily change buckets, ripper or packer wheel for the task.</li>\n</ul>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Complete landscape installations, underground utilities, septic systems and other excavating applications</li>\n<li>Digging depths from 6 to 11 ft.</li>\n<li>Bucket widths from 9 to 39 in.</li>\n<li>Excellent down-hole visibility</li>\n<li>X-Change\u2122 mounting system</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 180,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [8, 27],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/179" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=179"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/180"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=179" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=179"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=179"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": 223,
+  "count": 0,
+  "description": "",
+  "link": "https://pmegtrading.com/ar/product-category/sullair-ar/%d8%b6%d9%88%d8%a7%d8%ba%d8%b7-%d9%87%d9%88%d8%a7%d8%a1-%d9%85%d8%aa%d9%86%d9%82%d9%84%d8%a9",
+  "name": "\u0636\u0648\u0627\u063a\u0637 \u0647\u0648\u0627\u0621 \u0645\u062a\u0646\u0642\u0644\u0629",
+  "slug": "%d8%b6%d9%88%d8%a7%d8%ba%d8%b7-%d9%87%d9%88%d8%a7%d8%a1-%d9%85%d8%aa%d9%86%d9%82%d9%84%d8%a9",
+  "taxonomy": "product_cat",
+  "parent": 222,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat/223" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      {
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/taxonomies/product_cat"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat/222"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product?product_cat=223"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

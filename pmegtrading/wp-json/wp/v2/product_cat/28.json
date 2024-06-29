@@ -1,0 +1,28 @@
+{
+  "id": 28,
+  "count": 20,
+  "description": "Learn more about Ammann machines and you\u2019ll see themes throughout the product line. Words like \u201cproductivity,\u201d \u201ctechnology\u201d and \u201cversatility\u201d are prevalent, which is why Ammann machines are so commonly utilized on job sites of all shapes, sizes and applications.",
+  "link": "https://pmegtrading.com/product-category/ammann",
+  "name": "Ammann",
+  "slug": "ammann",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/28" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=28" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

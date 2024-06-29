@@ -1,0 +1,65 @@
+{
+  "id": 187,
+  "date": "2016-04-08T00:00:00",
+  "date_gmt": "2016-04-08T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/breaker/" },
+  "modified": "2017-06-21T16:08:22",
+  "modified_gmt": "2017-06-21T16:08:22",
+  "slug": "hydraulic-breaker",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/hydraulic-breaker",
+  "title": { "rendered": "Hydraulic Breaker" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: center;\">Break through concrete, rock, and asphalt easier with the powerful force of the hydraulic breaker.</h3>\n<p>The hydraulic breaker delivers maximum efficiency by matching hydraulic capacity of the carrier to the breaker, allowing consistent machine to breaker performance. It provides a quieter and smoother operation while still maintaining blows per minute.</p>\n<p>Turn your compact loader or excavator into a powerfully precise demolition machine with the hydraulic breaker attachment.</p>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Top Tasks</h2>\n<ul>\n<li>Precise demolition jobs</li>\n<li>Interior demolition</li>\n<li>Flatwork demolition</li>\n<li>Road repair</li>\n</ul>\n</div>\n</div>\n<h2 class=\"clearfix\">\u00a0Features</h2>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<ul>\n<li><strong>Auto Power</strong>: Automatically regulates pressure, ensuring hydraulic breaker operation regardless of changes in outdoor temperature and delivering maximum performance across a large range of carriers. Also, limits excessive pressure at the time of start-up, preventing possible downtime.</li>\n<li><strong>Breaker Cradle</strong>: The cylindrical design improves access to jobs in confined areas, providing accurate attachment operation in more operating environments.</li>\n<li><strong>Carrier Versatility</strong>: Quickly and easily switch the hydraulic breaker attachment from a loader to excavator with the Bob-Tach\u2122 and X-Change\u00ae attachment mounting systems, maximizing attachment utility.</li>\n<li><strong>Easy, Minimal Maintenance</strong>: Designed for minimum downtime, the internal power cell has fewer moving parts. Also, the attachment design includes only 12 main service parts, reducing time spent on maintenance and improving overall lifetime of the attachment.</li>\n<li><strong>Easy Mounting</strong>: The Bob-Tach and X-Change attachment mounting systems make attachment mounting easy, decreasing amount of time spent attaching and increasing amount of time spent operating.</li>\n<li><strong>Energy Chamber with Diaphragm</strong>: Offering a distinct Bobcat\u00ae advantage, the energy chamber keeps the nitrogen pressure constant that maintains attachment performance. No periodic charging required, making it virtually maintenance free.</li>\n<li><strong>Quieter Operation</strong>: Upper and lower shock absorbers isolate the breaker from the housing, reducing noise and vibration to deliver operator comfort without sacrificing performance.</li>\n<li><strong>Hose Guard</strong>: Protects hoses and fittings from damage when working in tight spaces, providing uptime protection while increasing the utility of the attachment.</li>\n<li><strong>Steel-Ring System</strong>: An innovative Bobcat feature, the steel ring system retains the tool bushing and protects the grease access and provides for quick tool changes.</li>\n<li><strong>Included Go/no-go Gauge</strong>: Allows operator to quickly verify three critical wear areas. Gauge tells operator whether components meet spec or not \u2013 no measuring required.</li>\n<li><strong>Single Lower Bushing</strong>: Most models only have a single lower bushing that is easily replaceable on the job.</li>\n</ul>\n</div>\n</div>\n<h2 class=\"clearfix\">\u00a0Options and Accessories</h2>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<ul>\n<li><strong>Breaker Bits</strong>: Bobcat offers a selection of breaker tools, equipping you with the right tool for each job. Check out these breaker bits for the hydraulic breaker attachment.</li>\n</ul>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/HydraulicBreaker-Brochure_EN.pdf\" target=\"_blank\" class=\"button primary is-primary is-medium\" rel=\"noopener\"  >\n    <span>Hydraulic Breaker</span>\n  </a>\n\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Deliver hard-hitting performance</li>\n<li>Most models can quickly mount to loader or excavator</li>\n<li>Transmit lower noise and vibration levels</li>\n<li>Virtually maintenance-free</li>\n<li>60 to 1000 ft.-lb. impact energy classes</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 188,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [8, 27],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/187" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=187"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/188"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=187" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=187"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=187"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

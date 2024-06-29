@@ -1,0 +1,67 @@
+{
+  "id": 980,
+  "date": "2016-05-07T00:00:00",
+  "date_gmt": "2016-05-07T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/mk3-facing-coat-spray-gun/"
+  },
+  "modified": "2017-11-06T14:52:16",
+  "modified_gmt": "2017-11-06T14:52:16",
+  "slug": "mk3-facing-coat-spray-gun",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/mk3-facing-coat-spray-gun",
+  "title": { "rendered": "MK3 Facing Coat Spray Gun" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: center;\">Rapid application of a wide range of surface finishes</h3>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p>Where special surface finishes are required, the hopper fed MK3 Powertex spray gun is recommended.</p>\n</div>\n</div>\n<div class=\"vc_empty_space\"></div>\n<div class=\"vc_empty_space\"></div>\n</div>\n</div>\n</div>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<ul>\n<li>For spraying \u201cmist\u201d and facing coats used in GRC / GFRC production</li>\n<li>Sprays Cement Paints</li>\n<li>Sprays Stone Paints</li>\n<li>Sprays Vermiculite and Perlite Mixes</li>\n<li>Sprays Cementitious Mixes</li>\n<li>Sprays Aggregate Loaded Resins</li>\n<li>Sprays Emulsion Paints</li>\n<li>Sprays Veneer and Plaster finishes</li>\n<li>Sprays Non-slip deck coatings</li>\n<li>Easy to operate and maintain</li>\n<li>Range of finishes achieved with correct size of nozzle</li>\n<li>Supplied with a holding hopper, an elbow adaptor and a spares pack</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Where special surface finishes are required, the hopper fed MK3 Powertex spray gun is recommended.</p>\n",
+    "protected": false
+  },
+  "featured_media": 981,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [54, 23],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/980" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=980"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/981"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=980" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=980"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=980"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

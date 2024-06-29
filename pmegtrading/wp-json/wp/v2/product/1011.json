@@ -1,0 +1,67 @@
+{
+  "id": 1011,
+  "date": "2016-05-07T00:00:00",
+  "date_gmt": "2016-05-07T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/variable-frequency-vibrating-tables/"
+  },
+  "modified": "2017-11-06T14:09:56",
+  "modified_gmt": "2017-11-06T14:09:56",
+  "slug": "variable-frequency-vibrating-tables",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/variable-frequency-vibrating-tables",
+  "title": { "rendered": "Variable Frequency Vibrating Tables" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: center;\">Specifically designed for the GRC / GFRC industry.</h3>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p>Variable frequency vibrating table.</p>\n</div>\n</div>\n<div class=\"vc_empty_space\"></div>\n</div>\n</div>\n</div>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<ul>\n<li>Available in two standard sizes: 2.35m x 1.2m and 1.2m x 1.2m</li>\n<li>Constructed using Power-Sprays \u2018web-stiffening\u2019 system</li>\n<li>Vibration energy is distributed over the entire table area</li>\n<li>Fitted with twin adjustable vibrators and variable frequency control</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Tables are fitted with twin adjustable vibrators and variable frequency control is now added as a standard feature.</p>\n",
+    "protected": false
+  },
+  "featured_media": 1012,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [54, 23],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1011" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1011"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1012"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1011" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1011"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1011"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

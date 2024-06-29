@@ -1,0 +1,65 @@
+{
+  "id": 8535,
+  "date": "2017-08-28T14:29:41",
+  "date_gmt": "2017-08-28T14:29:41",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=8535/" },
+  "modified": "2017-08-28T14:36:55",
+  "modified_gmt": "2017-08-28T14:36:55",
+  "slug": "sky-pi-cage-permanent-installation-cage",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/sky-pi-cage-permanent-installation-cage",
+  "title": { "rendered": "SKY PI CAGE (Permanent Installation CAGE)" },
+  "content": {
+    "rendered": "<p>The <strong><em>SKY CLIMBER</em></strong>\u00ae powered <strong>SKY PI CAGE </strong>(Permanent Installation CAGE) is designed to provide efficient working access for permanent installations in many types of buildings and structures. With a standard length of 1 or 1,5 meter this single hoist cradle is used on monorails and roof cars and has been applied in various permanent installations worldwide.</p>\n<p>The <strong>SKY PI CAGE </strong>is equipped with aluminum or mesh cladding and all the necessary safety features to guarantee worker safety. Wire winders for steel cable storage ensure that the <strong>SKY PI CAGE </strong>can be used safely in areas where no free hanging ropes are allowed.</p>\n<p>Together with the <strong><em>SKY CLIMBER</em></strong>\u00ae\u00a0 LNX or Compact hoist, the\u00a0 <strong>SKY PI CAGE </strong>is suitable for\u00a0 1 person\u00a0and equipment.</p>\n<div class=\"row\"  id=\"row-385576807\">\n\n\t<div id=\"col-568758146\" class=\"col medium-1/2 large-6\"  >\n\t\t\t\t<div class=\"col-inner\"  >\n\t\t\t\n\t\t\t\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-8467\" src=\"https://pmegtrading.com/wp-content/uploads/2017/08/SKY-PI-CAGE-Main.jpg\" alt=\"SKY PI CAGE Main\" width=\"734\" height=\"1197\" srcset=\"https://pmegtrading.com/wp-content/uploads/2017/08/SKY-PI-CAGE-Main.jpg 734w, https://pmegtrading.com/wp-content/uploads/2017/08/SKY-PI-CAGE-Main-600x978.jpg 600w, https://pmegtrading.com/wp-content/uploads/2017/08/SKY-PI-CAGE-Main-245x400.jpg 245w, https://pmegtrading.com/wp-content/uploads/2017/08/SKY-PI-CAGE-Main-491x800.jpg 491w\" sizes=\"(max-width: 734px) 100vw, 734px\" /></p>\n\t\t</div>\n\t\t\t\t\t</div>\n\n\t\n\n\t<div id=\"col-782760198\" class=\"col medium-1/2 large-6\"  >\n\t\t\t\t<div class=\"col-inner\"  >\n\t\t\t\n\t\t\t\n<img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-8459\" src=\"https://pmegtrading.com/wp-content/uploads/2017/08/SKY-PI-CAGE-1.jpg\" alt=\"SKY PI CAGE 1\" width=\"704\" height=\"1197\" srcset=\"https://pmegtrading.com/wp-content/uploads/2017/08/SKY-PI-CAGE-1.jpg 704w, https://pmegtrading.com/wp-content/uploads/2017/08/SKY-PI-CAGE-1-600x1020.jpg 600w, https://pmegtrading.com/wp-content/uploads/2017/08/SKY-PI-CAGE-1-235x400.jpg 235w, https://pmegtrading.com/wp-content/uploads/2017/08/SKY-PI-CAGE-1-471x800.jpg 471w\" sizes=\"(max-width: 704px) 100vw, 704px\" /><br />\n\t\t</div>\n\t\t\t\t\t</div>\n\n\t\n</div>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/08/Sky-PI-Cage-2.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The <strong><em>SKY CLIMBER</em></strong>\u00ae powered <strong>SKY PI CAGE </strong>(Permanent Installation CAGE) is designed to provide efficient working access for permanent installations in many types of buildings and structures. With a standard length of 1 or 1,5 meter this single hoist cradle is used on monorails and roof cars and has been applied in various permanent installations worldwide.</p>\n",
+    "protected": false
+  },
+  "featured_media": 8467,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [159],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/8535" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=8535"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/8467"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=8535" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=8535"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=8535"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

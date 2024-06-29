@@ -1,0 +1,65 @@
+{
+  "id": 227,
+  "date": "2016-04-08T00:00:00",
+  "date_gmt": "2016-04-08T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/concrete-pump/" },
+  "modified": "2017-06-21T16:08:23",
+  "modified_gmt": "2017-06-21T16:08:23",
+  "slug": "concrete-pump",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/concrete-pump",
+  "title": { "rendered": "Concrete Pump" },
+  "content": {
+    "rendered": "<div class=\"row\">\n<div class=\"col-xs-12\">\n<h3 style=\"text-align: center;\">The Bobcat\u00ae concrete pump simplifies pouring concrete in difficult-to-reach locations.</h3>\n<p>There\u2019s no more need for mud buggies, loaders with buckets, wheelbarrows, shovels or chutes. Depending on hose length and diameter, and conditions such as slump, additives and aggregate size and type, this powerful attachment can pump concrete as far as 250 feet horizontally and up to two stories vertically.</p>\n<p>With a standard hydraulic flow loader, the pump can place concrete up to 18 cubic yards per hour. A high-flow loader can place concrete up to 28 cubic yards per hour.</p>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Top Tasks</h2>\n<ul>\n<li>Pour concrete in difficult-to-reach locations</li>\n</ul>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>How It Works</h2>\n<p>Attach your Bobcat\u00ae loader to either side of the concrete pump and position the unit where you need it. Then connect the hoses, feed the concrete mix into the hopper and pump.</p>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Features</h2>\n<ul>\n<li><strong>Versatility</strong>: Dual mounting positions allow the hopper to be placed on the right or left side of the loader</li>\n<li><strong>Production</strong>: Places up to 28 cubic yards per hour, depending on hydraulic flow.</li>\n<li><strong>Control Panel</strong>: Swivels for easier operation.</li>\n<li><strong>Remote Attachment Control</strong>: Start and stop the loader, start, stop and reverse the pump and turn the high-flow hydraulics on/off from outside the cab.</li>\n<li><strong>Legs</strong>: Adjust quickly to match uneven terrain.</li>\n<li><strong>Protective Guard Panel</strong>: Strains larger objects from concrete mix.</li>\n</ul>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Take the work out of pouring concrete in difficult-to-reach locations</li>\n<li>Eliminate potential damage from large concrete trucks</li>\n<li>Pump as far as 250 ft. horizontally and up to two stories vertically</li>\n<li>Places up to 28 cu. yd. per hour</li>\n<li>Remote attachment control</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 228,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [8, 27],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/227" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=227"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/228"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=227" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=227"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=227"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

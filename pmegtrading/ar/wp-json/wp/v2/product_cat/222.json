@@ -1,0 +1,32 @@
+{
+  "id": 222,
+  "count": 0,
+  "description": "",
+  "link": "https://pmegtrading.com/ar/product-category/sullair-ar",
+  "name": "Sullair",
+  "slug": "sullair-ar",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat/222" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      {
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/taxonomies/product_cat"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product?product_cat=222"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

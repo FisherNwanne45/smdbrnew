@@ -1,0 +1,67 @@
+{
+  "id": 14928,
+  "date": "2023-09-14T15:42:45",
+  "date_gmt": "2023-09-14T12:42:45",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=14928"
+  },
+  "modified": "2023-09-14T15:48:29",
+  "modified_gmt": "2023-09-14T12:48:29",
+  "slug": "425h-portable-air-compressors",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/425h-portable-air-compressors",
+  "title": { "rendered": "425H Portable Air Compressors" },
+  "content": {
+    "rendered": "\t<section class=\"section\" id=\"section_1244924166\">\n\t\t<div class=\"bg section-bg fill bg-fill  bg-loaded\" >\n\n\t\t\t\n\t\t\t\n\t\t\t\n\n\t\t</div>\n\n\t\t\n\n\t\t<div class=\"section-content relative\">\n\t\t\t\n<div class=\"row row-collapse align-center\"  id=\"row-923303536\">\n\n\t<div id=\"col-1635364116\" class=\"col medium-8 small-10 large-6\"  >\n\t\t\t\t<div class=\"col-inner text-center\"  >\n\t\t\t\n\t\t\t\n<h1 class=\"text-white mb-0\">Product Information</h1>\n\t\t</div>\n\t\t\t\t\t</div>\n\n\t\n</div>\n\t\t</div>\n\n\t\t\n<style>\n#section_1244924166 {\n  padding-top: 100px;\n  padding-bottom: 100px;\n}\n@media (min-width:550px) {\n  #section_1244924166 {\n    padding-top: 50px;\n    padding-bottom: 50px;\n  }\n}\n</style>\n\t</section>\n\t\n\t<div class=\"img has-hover x md-x lg-x y md-y lg-y\" id=\"image_84769813\">\n\t\t\t\t\t\t\t\t<div class=\"img-inner dark\" >\n\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1020\" height=\"680\" src=\"https://pmegtrading.com/wp-content/uploads/2023/09/PIC_425H-T4F-1200x800.webp\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/09/PIC_425H-T4F-1200x800.webp 1200w, https://pmegtrading.com/wp-content/uploads/2023/09/PIC_425H-T4F-600x400.webp 600w, https://pmegtrading.com/wp-content/uploads/2023/09/PIC_425H-T4F-768x512.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/09/PIC_425H-T4F-1536x1024.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/09/PIC_425H-T4F-2048x1365.webp 2048w\" sizes=\"(max-width: 1020px) 100vw, 1020px\" />\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n<style>\n#image_84769813 {\n  width: 100%;\n}\n</style>\n\t</div>\n\t\n<div class=\"row no-gutters\">\n<div class=\"col bg-secondary_light d-flex align-items-center\">\n<h3 class=\"my-2 px-3 font-family-condensed text-uppercase text-white\" style=\"text-align: left;\">Specifications</h3>\n<table width=\"971\">\n<tbody>\n<tr>\n<td width=\"591\">Running Gear</td>\n<td width=\"380\">DPQ</td>\n</tr>\n<tr>\n<td>Capacity [m3/min / cfm]</td>\n<td>12 / 425</td>\n</tr>\n<tr>\n<td>Pressure [Bar]</td>\n<td>10.3 / 150</td>\n</tr>\n<tr>\n<td>Engine</td>\n<td>DCEC</td>\n</tr>\n<tr>\n<td>Engine Model</td>\n<td>DCEC 6BT5.9-C150</td>\n</tr>\n<tr>\n<td>Working Altitude</td>\n<td>Normal</td>\n</tr>\n<tr>\n<td>Specifications</td>\n<td>AWF, Low Fuel Stop</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>This unit is designed for reliability and total accessibility featuring large side doors for easy maintenance. Powered by a DCEC engine. Mounting option is 2-wheel, single axle. Enclosure is made of durable powder coated Galvanneal sheet metal with composite end caps. The compressors feature a pneumatic inlet valve and 0 to 100% capacity control.</p>\n",
+    "protected": false
+  },
+  "featured_media": 14933,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [221, 220],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/14928" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=14928"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/14933"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=14928" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=14928"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=14928"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 9,
+  "count": 4,
+  "description": "Bobcat\u00ae compact track loaders take you to a new level of loader performance and productivity. Our track loaders outperform conventional wheeled machines with high lift capacity, great stability and stronger traction. With their lower ground pressure, they also enable you to work on soft ground or where you want minimal ground disturbance. While continuing the Bobcat reputation for reliability and durability, our compact track loaders add value to your work. Choose from our wide model line-up ...there's one ready to help you!",
+  "link": "https://pmegtrading.com/product-category/bobcat/bobcat-compact-track-loaders",
+  "name": "Compact Track Loaders",
+  "slug": "bobcat-compact-track-loaders",
+  "taxonomy": "product_cat",
+  "parent": 27,
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/9" }],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/27"
+      }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=9" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

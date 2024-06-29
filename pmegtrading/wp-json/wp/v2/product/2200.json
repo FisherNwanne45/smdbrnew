@@ -1,0 +1,65 @@
+{
+  "id": 2200,
+  "date": "2017-02-20T08:48:42",
+  "date_gmt": "2017-02-20T08:48:42",
+  "guid": { "rendered": "https://pmegtrading.com/product/net-td-5-x-5/" },
+  "modified": "2017-06-21T16:11:32",
+  "modified_gmt": "2017-06-21T16:11:32",
+  "slug": "net-td-5-x-5",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/net-td-5-x-5",
+  "title": { "rendered": "Net TD 5 X 5" },
+  "content": {
+    "rendered": "<p>The continuous ARG fiber strands can work as reinforcement or crack control material effectively. It is used as reinforcement or crack control material for rendering, precast concrete and Glassfiber Reinforced Concrete (GRC). It is also applicable as repairing material to peeling prevention method for concrete members.</p>\n<p>TD 5\u00d75 is made of glass fibre, which contains the largest content of ZrO2 commercially available. TD 5\u00d75 is a scrim for the use of reinforcement of mortar and concrete.</p>\n<p>\u00a0</p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/TD-5x5.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>TD 5\u00d75 is made of glass fibre, which contains the largest content of ZrO2 commercially available.\u00a0TD 5\u00d75 is a scrim for the use of reinforcement of mortar and concrete.</p>\n",
+    "protected": false
+  },
+  "featured_media": 2209,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [32, 36],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/2200" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=2200"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/2209"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=2200" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=2200"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=2200"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

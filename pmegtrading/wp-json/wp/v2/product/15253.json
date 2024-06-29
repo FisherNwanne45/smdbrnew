@@ -1,0 +1,67 @@
+{
+  "id": 15253,
+  "date": "2023-10-17T13:21:46",
+  "date_gmt": "2023-10-17T10:21:46",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15253"
+  },
+  "modified": "2023-10-17T13:26:21",
+  "modified_gmt": "2023-10-17T10:26:21",
+  "slug": "t40-180-slp-telescopic-handler",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/t40-180-slp-telescopic-handler",
+  "title": { "rendered": "T40.180 SLP Telescopic Handler" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15259\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/t40-180slp-gallery-3.webp\" alt=\"\" width=\"1700\" height=\"838\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/t40-180slp-gallery-3.webp 1700w, https://pmegtrading.com/wp-content/uploads/2023/10/t40-180slp-gallery-3-800x394.webp 800w, https://pmegtrading.com/wp-content/uploads/2023/10/t40-180slp-gallery-3-1400x690.webp 1400w, https://pmegtrading.com/wp-content/uploads/2023/10/t40-180slp-gallery-3-768x379.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/t40-180slp-gallery-3-1536x757.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/t40-180slp-gallery-3-600x296.webp 600w\" sizes=\"(max-width: 1700px) 100vw, 1700px\" /></p>\n<p>&nbsp;</p>\n<table style=\"height: 151px;\" width=\"984\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"101\"></td>\n</tr>\n<tr>\n<td>Rated Operating Capacity</td>\n<td>4000 kg</td>\n</tr>\n<tr>\n<td>Lifting Height</td>\n<td>17500 mm</td>\n</tr>\n<tr>\n<td>Maximum Outreach</td>\n<td>13700 mm</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Water Cooled</td>\n<td>Perkins 100 hp</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The 18m Bobcat telescopic handler provide you with what matters the most\u2026 simplicity in design and ease-of-use, 100% confidence in the machine and its state-of-the-art safety systems, and class leading performance. All this ensures the T40.180 SLP model work with the best possible efficiency and productivity, while always focusing on safe operation.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15267,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 13],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15253" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15253"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15267"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15253" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15253"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15253"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

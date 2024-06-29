@@ -1,0 +1,65 @@
+{
+  "id": 300,
+  "date": "2016-04-08T00:00:00",
+  "date_gmt": "2016-04-08T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/trencher/" },
+  "modified": "2017-06-21T16:08:25",
+  "modified_gmt": "2017-06-21T16:08:25",
+  "slug": "trencher",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/trencher",
+  "title": { "rendered": "Trencher" },
+  "content": {
+    "rendered": "<div class=\"row\">\n<div class=\"col-xs-12\">\n<h3 style=\"text-align: center;\">Tackle tough trenching jobs with the trencher attachment.</h3>\n<p>Cut into the ground and create a trench through all soil conditions. The trencher is designed with the power and strength to dig in even the toughest, rocky soil types. Use the side-shift feature \u2013 manual or hydraulic, depending on the model \u2013 to dig a trench close to buildings, fences, and other objects. Equip the trencher with different teeth and chain options to maximize trenching capabilities in different soil conditions.</p>\n<p>The easy-to-use trencher attachment is built for improved trench digging and greater reliability on the jobsite. The trencher is the ideal attachment for maintenance crews, municipalities, landscaping contractors, and rental facilities.</p>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Top Tasks</h2>\n<ul>\n<li>Dig trenches for utility and irrigation systems, power and water lines</li>\n<li>Trench close to buildings, walls, fences, and other objects</li>\n</ul>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Choose the Right Model</h2>\n<ul>\n<li><strong>Light-to-medium trenching jobs</strong>: The LT112, LT113 and LT 213 deliver 2- to 3-foot dig depths. The LT112 and 113 feature manual side-shift for trenching close to buildings and other objects, while the LT213 may be equipped with optional hydraulic side-shift.</li>\n<li><strong>Medium-to-heavy-duty trenching jobs</strong>: Ideal for utility installation, the LT313 delivers a 3- to 4- foot depth and the LT 414 delivers a 4- to 5-foot dig depth. The LT313 features manual side shift is standard and hydraulic side-shift is available. The LT414 features hydraulic side-shift as standard for trenching close to buildings and other objects. The LT414 is equipped with high-flow performance capabilities to harness the additional hydraulic horsepower capabilities of the machines equipped with high flow hydraulics.</li>\n<li><strong>Heavy-duty trenching jobs</strong>: The LT405 delivers a 3- to 5-foot dig depth, and features hydraulic side-shift for trenching close to buildings and other objects. The LT405 is equipped with high-flow performance capabilities to harness the additional hydraulic horsepower capabilities of the machines equipped with high flow hydraulics. Dual augers move spoil away from the trench.</li>\n<li><strong>Multiple Chain Styles Available</strong>: All trencher chains are double standard, anti-back flex (ABF) to provide superior constant performance. Look at the options tab to see the multiple different chain configurations offered to suit your needs.</li>\n</ul>\n</div>\n</div>\n<div class=\"clearfix\">\n<h2>Features</h2>\n<ul>\n<li><strong>Auger</strong>: Designed with a large diameter, the auger moves material from the side of the trench, limiting the amount of spoil falling back into the trench.</li>\n<li><strong>Grease Cylinder Tensioning</strong>: Quickly and easily adjust your train to the proper tension.</li>\n<li><strong>Crumber</strong>: Standard on each trencher model to help remove soil from the trench and provide a clean, smooth trench bottom.</li>\n<li><strong>Reverse Rotation</strong>: All trencher models are capable of momentarily reversing the chain direction to minimize stalling.</li>\n<li><strong>Narrow Frame Width</strong>: LT112 \u2013 LT414 are narrow enough to fit into a pickup box to make transportation easy.</li>\n<li><strong>Powerful Operation</strong>: From black dirt to gravel, the powerful operation of the trencher digs through even tough, rocky soil types to build a trench.</li>\n<li><strong>Side-Shift</strong>: Provides attachment flexibility when working next to building or objects, allowing the trencher to achieve optimal productivity in all ground conditions and locations. Manual and hydraulic side-shift available, depending on the model.</li>\n<li><strong>Versatility</strong>: Equip the trencher attachment with several different teeth and chain configurations in order to correctly match soil conditions for maximum digging power.</li>\n</ul>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Specifically designed for Bobcat\u00ae machines</li>\n<li>Reliable, cost-effective solution to tough trenching jobs</li>\n<li>Manual or hydraulic side-shift allows you to work close to walls</li>\n<li>Eight models to dig from 2 to 5 ft. deep</li>\n<li>Trench widths from 4 to 12 in. wide</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 301,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [8, 27],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/300" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=300"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/301"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=300" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=300"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=300"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

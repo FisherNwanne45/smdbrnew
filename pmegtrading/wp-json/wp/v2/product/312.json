@@ -1,0 +1,65 @@
+{
+  "id": 312,
+  "date": "2016-04-08T00:00:00",
+  "date_gmt": "2016-04-08T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/vibratory-roller/" },
+  "modified": "2017-06-21T16:08:25",
+  "modified_gmt": "2017-06-21T16:08:25",
+  "slug": "vibratory-roller",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/vibratory-roller",
+  "title": { "rendered": "Vibratory Roller" },
+  "content": {
+    "rendered": "<div class=\"row\">\n<div class=\"col-xs-12\">\n<div id=\"headingThree_1_2\" class=\"panel-heading\">\n<h3><strong>Vibratory Roller<br />\n</strong></h3>\n<p>The vibratory roller is ideal to compact concrete flatwork, trench and asphalt patchwork jobs. The offset design allows you to compact next to sidewalks, walls and curbs. The oscillating drum keeps the roller in contact with the surface on uneven terrain. Comes in multiple sizes ranging from 1.2m to 2.0m wide. Two models are available; smooth and padded drums.</p>\n<h4 class=\"panel-title\"></h4>\n<h3 class=\"panel-title\"><strong>Main features</strong></h3>\n</div>\n<div id=\"collapseThree_1_2\" class=\"panel-collapse margin-top-1 collapse in\">\n<div class=\"panel-body\">\n<ul>\n<li>Free drum oscillation keeps more of the drum in contact with the surface on uneven terrain.</li>\n<li>Offset drum design allows the right side of the roller to extend past the machine. This is very useful when compacting next to sidewalks, walls, or curbs.</li>\n<li>Durable one-piece drum for extra strength.</li>\n<li>Dual-direction vibration motor permits compaction traveling in either direction.</li>\n<li>Rubber isolation mounts on the roller reduce vibration transfer to loader and operator.</li>\n<li>Both smooth and padded drums are available.</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Construction and Demolition</li>\n<li>Grading and Leveling</li>\n<li>Road work, Recycling and Cleaning</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 313,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [8, 27],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/312" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=312"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/313"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=312" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=312"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=312"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

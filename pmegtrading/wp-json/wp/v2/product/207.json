@@ -1,0 +1,65 @@
+{
+  "id": 207,
+  "date": "2016-04-08T00:00:00",
+  "date_gmt": "2016-04-08T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/buckets-loaders/" },
+  "modified": "2017-06-21T16:08:22",
+  "modified_gmt": "2017-06-21T16:08:22",
+  "slug": "buckets-loaders",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/buckets-loaders",
+  "title": { "rendered": "Buckets (Loaders)" },
+  "content": {
+    "rendered": "<div id=\"w1431078892277\" class=\"ls-cmp-wrap ls-1st\">\n<div id=\"1431078892277\" class=\"iw_component\">\n<section class=\"container flexible-content\" data-lightbox-url=\"?submit=true&#038;iwPreActions=ajax&#038;componentID=1431078892277\">\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Top Tasks</h2>\n<ul>\n<li>Light-duty grading and leveling</li>\n<li>Material handling</li>\n</ul>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Features</h2>\n<ul>\n<li><strong>Skid bar design</strong>: Provides wear protection to bottom of bucket; backs up the cutting edge and adds strength to the bottom of the bucket</li>\n<li><strong>Low back and longer bottom</strong>: Improve cutting edge visibility and increase capacity.</li>\n</ul>\n<p>\u00a0</p>\n</div>\n</div>\n</section>\n</div>\n</div>\n<div id=\"w1434697023571\" class=\"ls-cmp-wrap\">\n<div id=\"1434697023571\" class=\"iw_component\">\n<section class=\"container flexible-content\" data-lightbox-url=\"?submit=true&#038;iwPreActions=ajax&#038;componentID=1434697023571\">\n<div class=\"row\">\n<div class=\"col-sm-6 first-child\">\n<h2>Low Profile Bucket</h2>\n<p>Similar in design to a C/I bucket, but with slightly less breakout force. Has a longer bottom to provide excellent cutting edge visibility and increased capacity. This is the most popular Bobcat bucket</p>\n<h2>Dirt Bucket</h2>\n<p>The standard bucket on smaller Bobcat loaders. Provides excellent breakout force and fair visibility. Similar to the general purpose bucket, but with a shorter bottom.</p>\n<h2>Heavy-Duty and Severe-Duty C/I Bucket</h2>\n<p>Designed for larger Bobcat loaders and compact track loaders, these buckets feature a higher back and longer bottom than standard C/I buckets and have additional strength in key areas.</p>\n<h2>Fertilizer Bucket</h2>\n<p>Fertilizer buckets have large capacities and more roll-back range. The greater roll-back allows granular materials to be easily held in the bucket by minimizing spillage over the front edge. Applications include fertilizer and grain handling.</p>\n<h2>Snow/Light Material Bucket</h2>\n<p>These are large capacity buckets for loading and handling various light materials such as snow and mulch. They have high backs to help with pushing snow, and straight sides to penetrate snow and mulch piles.</p>\n<h2>Construction/Industrial Bucket</h2>\n<p>Ideal for everything from tough digging to material handling. Construction and Industrial buckets offer fair cutting edge visibility and excellent bucket breakout force for better digging and easier bucket filling. Bolt-on grapple attachment adds to versatility.</p>\n</div>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2016/04/bucket_loader_brochure_EN.pdf\" target=\"_blank\" class=\"button primary is-primary is-medium\" rel=\"noopener\"  >\n    <span>Bucket ( Loaders) Brochure</span>\n  </a>\n\n</div>\n</section>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Ideal for grading, leveling, carrying and loading</li>\n<li>Excellent cutting edge visibility</li>\n<li>Good breakout force</li>\n<li>Similar to the construction/industrial (C/I) bucket but with a longer bottom for better visibility and increased capacity</li>\n<li>Numerous bolt-on options and accessories available</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 208,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [8, 27],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/207" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=207"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/208"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=207" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=207"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=207"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

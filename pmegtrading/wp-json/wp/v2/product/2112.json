@@ -1,0 +1,65 @@
+{
+  "id": 2112,
+  "date": "2017-02-16T09:51:00",
+  "date_gmt": "2017-02-16T09:51:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/universal-hd-series/" },
+  "modified": "2017-06-21T16:11:23",
+  "modified_gmt": "2017-06-21T16:11:23",
+  "slug": "universal-hd-series",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/universal-hd-series",
+  "title": { "rendered": "Universal HD Series" },
+  "content": {
+    "rendered": "<table border=\"0\" cellspacing=\"1\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td align=\"left\" valign=\"top\"><strong><strong>The UHD+ Series is the ultimate version of the UNIVERSAL Series designed more<br />\nthan 5 years ago.\u00a0\u00a0 It has most of the features of PRO and INDUS Series.</strong></strong>The UHD+ Series price/quality ratio is excellent.<br />\nAs a result of our continuous improvements, due to the feedback and follow-up with our customers, this new series of systems actually offers higher accuracy and performance so that you might satisfy all your customers\u2019 requests and needs.On the basis of the Universal Series, the UHD+ has the ability to\u00a0work with up to\u00a0six (6) wires and <a href=\"http://www.croma-foamcutter.com/Assets/Client/FTP/Croma/Spec%20Sheets/French%20A4%20review/Independent%20Axis%20mode.pdf\" target=\"_blank\">Independent wire Axis mode</a> included (each end of the wire can have an independent route), also the UHD+ series has been improved for more strength, accuracy and ergonomics:<br />\n&#8211; Reinforced aluminium profiles</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td align=\"left\" valign=\"top\"></td>\n<td colspan=\"2\" align=\"center\"><strong><span class=\"TITREENCARD\">CUTTING CAPACITIES</span></strong></td>\n<td align=\"left\" valign=\"top\"></td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td align=\"left\" valign=\"top\">\n<table border=\"0\" cellspacing=\"5\" cellpadding=\"0\" align=\"center\">\n<tbody>\n<tr>\n<td align=\"left\" valign=\"middle\"><strong><br />\nModel<br />\n</strong></td>\n<td align=\"left\" valign=\"top\"><strong><br />\nAxis X</strong> <sup>(1)<br />\n</sup></td>\n<td align=\"left\" valign=\"top\"><strong><br />\nAxis Y</strong><sup>\u00a0 (2)<br />\n</sup></td>\n<td align=\"left\" valign=\"top\"><strong><br />\nAxis Z</strong> <sup>(3)</sup></td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table>\n<p><strong>4 4 10</strong>128\u00a0cm (50&#8243;)128\u00a0cm (50&#8243;)305 cm (120&#8243;)<strong>10 4 4</strong>301 cm (118&#8243;)128\u00a0cm (50&#8243;)128 cm (50&#8243;)<strong>10 4 10</strong>301 cm (118&#8243;)128\u00a0cm (50&#8243;)305 cm (120&#8243;)<em>(1) horizontal movement<br />\n(2)\u00a0vertical movement<br />\n(3) cutting wire(s) length</em></p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/UHD-Series.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Craftsman Series allows you to produce 3D foam products at a reasonable price. These machines, easy to install, can be linked to a 3 dimensional printer.</p>\n",
+    "protected": false
+  },
+  "featured_media": 2170,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [42, 43],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/2112" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=2112"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/2170"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=2112" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=2112"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=2112"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 160,
+  "count": 3,
+  "description": "Since 1973, Unique Industries has focused on a limited set of products providing exceptional value to our customers. Innovative Design and Products \u2013 Continuous improvement in the products we manufacture and careful selection of the products/partners we select, combine for high performance, simple operation and maintenance, and durability.",
+  "link": "https://pmegtrading.com/product-category/unique-industries",
+  "name": "Unique Industries",
+  "slug": "unique-industries",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/160" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=160"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

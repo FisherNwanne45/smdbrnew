@@ -1,0 +1,67 @@
+{
+  "id": 983,
+  "date": "2016-05-07T00:00:00",
+  "date_gmt": "2016-05-07T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/mk5a-premix-grc-gfrc-spray-head/"
+  },
+  "modified": "2017-11-06T14:58:15",
+  "modified_gmt": "2017-11-06T14:58:15",
+  "slug": "mk5a-premix-grc-gfrc-spray-head",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/mk5a-premix-grc-gfrc-spray-head",
+  "title": { "rendered": "MK5A Premix GRC / GFRC Spray Head" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: center;\">Efficient spray application of GRC / GFRC</h3>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p>Power-Sprays recommends the MK5A Premix Spray Head for spraying Premix GRC / GFRC. \u00a0This simple, lightweight, hand-held unit is designed to operate with the PS38 Combination Spray Stations and can handle Spray Premix with fibre contents in excess of 3%.</p>\n</div>\n</div>\n<div class=\"vc_empty_space\"></div>\n</div>\n</div>\n</div>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<ul>\n<li>Lightweight, simple to operate and very easy to maintain</li>\n<li>Minimal interruptions to the smooth flow of the material</li>\n<li>Air is added only at the nozzle, which ensures an even spray distribution</li>\n<li>Quick release nozzle for easy cleaning</li>\n<li>Spray output rate can be up to 25kg (55lb)\u00a0per minute</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Power-Sprays recommends the MK5A Premix Spray Head for spraying Premix GRC / GFRC. \u00a0This simple, lightweight,hand-held unit is designed to operate with the PS38 Combination Spray Stations and can handle Spray Premix with fibre contents in excess of 3%.</p>\n",
+    "protected": false
+  },
+  "featured_media": 984,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [54, 23],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/983" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=983"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/984"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=983" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=983"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=983"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

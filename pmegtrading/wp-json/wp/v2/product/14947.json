@@ -1,0 +1,67 @@
+{
+  "id": 14947,
+  "date": "2023-09-14T16:54:27",
+  "date_gmt": "2023-09-14T13:54:27",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=14947"
+  },
+  "modified": "2023-09-14T16:59:05",
+  "modified_gmt": "2023-09-14T13:59:05",
+  "slug": "900h-portable-air-compressors",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/900h-portable-air-compressors",
+  "title": { "rendered": "900H Portable Air Compressors" },
+  "content": {
+    "rendered": "\t<section class=\"section\" id=\"section_1439132470\">\n\t\t<div class=\"bg section-bg fill bg-fill  bg-loaded\" >\n\n\t\t\t\n\t\t\t\n\t\t\t\n\n\t\t</div>\n\n\t\t\n\n\t\t<div class=\"section-content relative\">\n\t\t\t\n<div class=\"row row-collapse align-center\"  id=\"row-1649600775\">\n\n\t<div id=\"col-1989556170\" class=\"col medium-8 small-10 large-6\"  >\n\t\t\t\t<div class=\"col-inner text-center\"  >\n\t\t\t\n\t\t\t\n<h1 class=\"text-white mb-0\">Product Information</h1>\n\t\t</div>\n\t\t\t\t\t</div>\n\n\t\n</div>\n\t\t</div>\n\n\t\t\n<style>\n#section_1439132470 {\n  padding-top: 100px;\n  padding-bottom: 100px;\n}\n@media (min-width:550px) {\n  #section_1439132470 {\n    padding-top: 50px;\n    padding-bottom: 50px;\n  }\n}\n</style>\n\t</section>\n\t\n\t<div class=\"img has-hover x md-x lg-x y md-y lg-y\" id=\"image_1881606641\">\n\t\t\t\t\t\t\t\t<div class=\"img-inner dark\" >\n\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1020\" height=\"629\" src=\"https://pmegtrading.com/wp-content/uploads/2023/09/Sullair-Portable-900H-1297x800.webp\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/09/Sullair-Portable-900H-1297x800.webp 1297w, https://pmegtrading.com/wp-content/uploads/2023/09/Sullair-Portable-900H-648x400.webp 648w, https://pmegtrading.com/wp-content/uploads/2023/09/Sullair-Portable-900H-768x474.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/09/Sullair-Portable-900H-600x370.webp 600w, https://pmegtrading.com/wp-content/uploads/2023/09/Sullair-Portable-900H.webp 1350w\" sizes=\"(max-width: 1020px) 100vw, 1020px\" />\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n<style>\n#image_1881606641 {\n  width: 100%;\n}\n</style>\n\t</div>\n\t\n<div class=\"row no-gutters\">\n<div class=\"col bg-secondary_light d-flex align-items-center\">\n<h3 class=\"my-2 px-3 font-family-condensed text-uppercase text-white\" style=\"text-align: left;\">Specifications</h3>\n<table width=\"971\">\n<tbody>\n<tr>\n<td width=\"591\">Running Gear</td>\n<td width=\"380\">DWQ</td>\n</tr>\n<tr>\n<td>Capacity [m3/min / cfm]</td>\n<td>25.5 / 900</td>\n</tr>\n<tr>\n<td>Pressure [Bar]</td>\n<td>10.3 / 150</td>\n</tr>\n<tr>\n<td>Engine</td>\n<td>CUMMINS</td>\n</tr>\n<tr>\n<td>Engine Model</td>\n<td>CUM QSM11-290HP</td>\n</tr>\n<tr>\n<td>Working Altitude</td>\n<td>Normal</td>\n</tr>\n<tr>\n<td>Specifications</td>\n<td>AWF, Low Fuel Stop</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The design of the unit emphasizes both reliability and straightforward access. Powered by a Cummins. Enclosure is made of durable powder coated Galvanneal sheet metal. Other features include leaf spring suspension, wheel bearing grease fittings, and a lockable instrument panel. The compressor features a pneumatic inlet valve and 0 to 100% capacity control.</p>\n",
+    "protected": false
+  },
+  "featured_media": 14948,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [221, 220],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/14947" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=14947"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/14948"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=14947" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=14947"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=14947"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

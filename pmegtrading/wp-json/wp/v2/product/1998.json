@@ -1,0 +1,67 @@
+{
+  "id": 1998,
+  "date": "2017-02-15T10:51:09",
+  "date_gmt": "2017-02-15T10:51:09",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/e5-deep-cleaning-extractor/"
+  },
+  "modified": "2017-11-05T09:52:32",
+  "modified_gmt": "2017-11-05T09:52:32",
+  "slug": "e5-deep-cleaning-extractor",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/e5-deep-cleaning-extractor",
+  "title": { "rendered": "E5 Deep Cleaning Extractor" },
+  "content": {
+    "rendered": "<h2 class=\"tn-large-header\" style=\"text-align: center;\">E5 Features and Benefits</h2>\n<div class=\"tn-featured-text-image right\">\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>Tennant\u2019s E5 Deep-Cleaning Carpet Extractor provides powerful cleaning for small spaces:</h3>\n<ul>\n<li>Clean in congested and hard-to-reach areas with the E5 Deep Cleaning Carpet Extractor\u2019s compact design</li>\n<li>Reduce operator fatigue with low-effort pull-back operation and Insta-Adjust\u2122 ergonomic handle</li>\n<li>Maximise cleaning performance across the entire cleaning path with dual overlapping spray jets and exceptional vacuum suction</li>\n</ul>\n</div>\n<div class=\"tn-featured-text-image right\"><img decoding=\"async\" class=\"aligncenter\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Carpet%20Extractors/Media%20Gallery%20Images/E5-env-bottom.jpg\" alt=\"303;#E5 Feature Image\" /></div>\n</div>\n<div></div>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-image left\"><img decoding=\"async\" class=\"aligncenter\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Carpet%20Extractors/Media%20Gallery%20Images/E5%20solution%20tank.jpg\" alt=\"303;#E5 Feature Image\" /></div>\n</div>\n</div>\n<div class=\"tn-featured-text-image right\"></div>\n<div class=\"tn-featured-text-image left\"></div>\n<p class=\"tn-large-header\" style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/e5-brochureeurope_english-europe.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Powerful cleaning for small spaces with Tennant\u2019s E5 Deep-Cleaning Carpet Extractor featuring Insta-Adjust\u2122 handle for increased operator comfort and easy storage.</p>\n",
+    "protected": false
+  },
+  "featured_media": 2007,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [49, 44],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1998" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1998"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/2007"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1998" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1998"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1998"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

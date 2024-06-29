@@ -1,0 +1,65 @@
+{
+  "id": 2176,
+  "date": "2017-02-20T07:13:04",
+  "date_gmt": "2017-02-20T07:13:04",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=2176" },
+  "modified": "2017-06-21T16:11:27",
+  "modified_gmt": "2017-06-21T16:11:27",
+  "slug": "arg-roving-ar2500h-103s",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/arg-roving-ar2500h-103s",
+  "title": { "rendered": "ARG Roving (AR2500H-103S)" },
+  "content": {
+    "rendered": "<p>Roving is made by gathering 100 to 200 ARG fiber filaments into a strand, then winding dozens of strands to form a cylindrical package. Roving is the best suited to hand spray process and mass production system. It is preferred for manufacturing large size exterior wall panels and flat boards, which are widely applied in architectural and civil engineering markets</p>\n<p>AR2500H-103 roving is made of glass fibre, which contains more than 16% of ZrO2. AR2500H-103 is made by gathering 200 filaments into a strand, then winding 32 strands to form a cylindrical package.</p>\n<p>AR2500H-103 is developed especially for use with intricate shaped products in the spray-up process with a unique sizing system. The chopped strands of AR2500H-103 conform to mold surface without bridging, allowing smooth surface.</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/AR2500H-103-S.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>AR2500H-103 roving is made of glass fibre, which contains more than 16% of ZrO2. AR2500H-103 is made by gathering 200 filaments into a strand, then winding 32 strands to form a cylindrical package.</p>\n",
+    "protected": false
+  },
+  "featured_media": 2179,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [32, 36],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/2176" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=2176"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/2179"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=2176" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=2176"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=2176"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

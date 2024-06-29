@@ -1,0 +1,67 @@
+{
+  "id": 15394,
+  "date": "2023-10-17T16:58:47",
+  "date_gmt": "2023-10-17T13:58:47",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15394"
+  },
+  "modified": "2023-10-17T17:07:09",
+  "modified_gmt": "2023-10-17T14:07:09",
+  "slug": "arx12-2-tandem-roller",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/arx12-2-tandem-roller",
+  "title": { "rendered": "ARX12-2 Tandem Roller" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15406\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/arx_1-2_light_tandem_roller_detail_top_view_210501.webp\" alt=\"\" width=\"1600\" height=\"900\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/arx_1-2_light_tandem_roller_detail_top_view_210501.webp 1600w, https://pmegtrading.com/wp-content/uploads/2023/10/arx_1-2_light_tandem_roller_detail_top_view_210501-711x400.webp 711w, https://pmegtrading.com/wp-content/uploads/2023/10/arx_1-2_light_tandem_roller_detail_top_view_210501-1400x788.webp 1400w, https://pmegtrading.com/wp-content/uploads/2023/10/arx_1-2_light_tandem_roller_detail_top_view_210501-768x432.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/arx_1-2_light_tandem_roller_detail_top_view_210501-1536x864.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/arx_1-2_light_tandem_roller_detail_top_view_210501-600x338.webp 600w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" /></p>\n<table style=\"height: 124px;\" width=\"1170\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"128\"></td>\n</tr>\n<tr>\n<td>Operating Weight</td>\n<td>1610 kg</td>\n</tr>\n<tr>\n<td>Working Width</td>\n<td>87.4 cm</td>\n</tr>\n<tr>\n<td>Compaction Force and\u00a0 Frequency</td>\n<td>23 kN / 58/66 Hz</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Air Cooled</td>\n<td>YANMAR 3TNV76</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Ammann ARX 12-2t Tandem Roller is a light, articulated ride-on roller that works flush against curbs and other obstructions and eliminates the need for special edge compaction efforts. Double-drive and double-vibration are standard and help deliver optimum compaction results. An electric drive-lever makes for smooth starting and stopping and is among the reasons the roller is popular with operators. Other operator benefits include a rubber-mounted platform that limits vibration and an intuitive instrument panel to help make even an inexperienced operator successful.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15396,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [28, 17],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15394" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15394"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15396"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15394" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15394"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15394"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

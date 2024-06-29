@@ -1,0 +1,67 @@
+{
+  "id": 15408,
+  "date": "2023-10-17T17:09:14",
+  "date_gmt": "2023-10-17T14:09:14",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15408"
+  },
+  "modified": "2023-10-17T17:20:30",
+  "modified_gmt": "2023-10-17T14:20:30",
+  "slug": "arx16-2-tandem-roller",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/arx16-2-tandem-roller",
+  "title": { "rendered": "ARX16-2 Tandem Roller" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15418\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/arx_1-2_light_tandem_roller_detail_top_view_210501-1.webp\" alt=\"\" width=\"1600\" height=\"900\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/arx_1-2_light_tandem_roller_detail_top_view_210501-1.webp 1600w, https://pmegtrading.com/wp-content/uploads/2023/10/arx_1-2_light_tandem_roller_detail_top_view_210501-1-711x400.webp 711w, https://pmegtrading.com/wp-content/uploads/2023/10/arx_1-2_light_tandem_roller_detail_top_view_210501-1-1400x788.webp 1400w, https://pmegtrading.com/wp-content/uploads/2023/10/arx_1-2_light_tandem_roller_detail_top_view_210501-1-768x432.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/arx_1-2_light_tandem_roller_detail_top_view_210501-1-1536x864.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/arx_1-2_light_tandem_roller_detail_top_view_210501-1-600x338.webp 600w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" /></p>\n<table style=\"height: 105px;\" width=\"1155\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"128\"></td>\n</tr>\n<tr>\n<td>Operating Weight</td>\n<td>1700 kg</td>\n</tr>\n<tr>\n<td>Working Width</td>\n<td>95.2 cm</td>\n</tr>\n<tr>\n<td>Compaction Force and\u00a0 Frequency</td>\n<td>23 kN / 58/66 Hz</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Air Cooled</td>\n<td>YANMAR 3TNV76</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Ammann ARX 16-2 Tandem Roller works flush against curbs and other obstructions and does so smoothly thanks to an electric drive-lever. The machine\u2019s ability to work against objects and the optimum views to the drums it provides the operator eliminates the need for special edge compaction efforts. Double-drive and double-vibration are standard and help deliver optimum compaction results.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15420,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [28, 17],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15408" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15408"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15420"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15408" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15408"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15408"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

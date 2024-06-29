@@ -1,0 +1,28 @@
+{
+  "id": 27,
+  "count": 43,
+  "description": "For more than 50 years, Bobcat Company has built compact equipment that helps you work more efficiently and effectively. You rely on the performance, toughness, comfort and versatility of our machines and attachments. Your standards drive our innovation. We're proud to be the industry leader, and we're committed to transforming your work.",
+  "link": "https://pmegtrading.com/product-category/bobcat",
+  "name": "Bobcat",
+  "slug": "bobcat",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/27" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=27" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

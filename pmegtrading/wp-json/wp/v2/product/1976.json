@@ -1,0 +1,67 @@
+{
+  "id": 1976,
+  "date": "2017-02-15T10:17:05",
+  "date_gmt": "2017-02-15T10:17:05",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/v10-v12-v14-wet-dry-vacuums/"
+  },
+  "modified": "2017-11-05T09:54:15",
+  "modified_gmt": "2017-11-05T09:54:15",
+  "slug": "v10-v12-v14-wet-dry-vacuums",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/v10-v12-v14-wet-dry-vacuums",
+  "title": { "rendered": "V10 / V12 / V14 Wet/Dry Vacuums" },
+  "content": {
+    "rendered": "<h2 class=\"tn-large-header\" style=\"text-align: center;\">\u00a0V10 / V12 / V14 Features and Benefits</h2>\n<div class=\"tn-featured-text-image left\">\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>Tennant\u2019s Wet Dry Vacuums come in a variety of sizes to meet your specific cleaning needs:</h3>\n<ul>\n<li>Simplify operation and maintenance with the wet dry vacuums&#8217; removable head and compact design</li>\n<li>Rely on strong tank and head designs to withstand the demands of frequent use and years of consistent cleaning performance</li>\n<li>Increase productivity and remove water from floors quickly with excellent vacuum performance and 22 / 22 / 24 kPa water lift</li>\n</ul>\n<h3>Key machine features of the Wet / Dry Vacuums:</h3>\n<ul>\n<li>Various tank capacities, for any size facility:16 / 25 / 48 L</li>\n<li>Tilting trolley and large transport wheels on V14 model provide easy maneuverability</li>\n<li>Standard tools included for optimal cleaning:\n<ul>\n<li>suction vacuum hose</li>\n<li>wand tubes</li>\n<li>tool kit</li>\n<li>floor tool (wet)</li>\n<li>floor tool (dry)</li>\n<li>polyester filter bag</li>\n</ul>\n</li>\n</ul>\n<p>\u200b</p>\n</div>\n<div class=\"tn-featured-text-image right\"><img decoding=\"async\" class=\"aligncenter\" src=\"http://www.tennantco.com/GlobalAssets/WebAssets/Vacuums/Media%20Gallery%20Images/V10-front%20-hose.jpg\" alt=\"369;#V10 / V12 / V14 Feature Image\" /></div>\n</div>\n</div>\n<div class=\"tn-featured-text-image left\"></div>\n<div class=\"tn-featured-text-image left\"></div>\n<div class=\"tn-featured-text-image left\"></div>\n<p class=\"tn-large-header\" style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/20122435_ten_family_vacuums_en-v19-lr.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Tennant\u2019s Wet / Dry Vacuums come in a variety of sizes, equipped with standard tools to easily meet your specific cleaning needs.</p>\n",
+    "protected": false
+  },
+  "featured_media": 1981,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [49, 44],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1976" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1976"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1981"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1976" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1976"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1976"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

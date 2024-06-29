@@ -1,0 +1,65 @@
+{
+  "id": 927,
+  "date": "2017-06-20T08:35:28",
+  "date_gmt": "2017-06-20T08:35:28",
+  "guid": { "rendered": "https://pmegtrading.com/product/runner-560-2/" },
+  "modified": "2023-10-18T14:50:38",
+  "modified_gmt": "2023-10-18T11:50:38",
+  "slug": "runner-560-2",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/runner-560-2",
+  "title": { "rendered": "RUNNER 560.2" },
+  "content": {
+    "rendered": "<p><strong>EXPERIENCE VISIBILITY</strong></p>\n<p>Perkins tipo 1104D-44T, 4 cil.; pot. max 74@2.300 kW@giri/min; trasmissione Idrostatica; 4 ruote sterzanti; Posto di guida reversibile</p>\n<p>D\u2019avino Self Loading Concrete Mixers present themselves as the solution to visibility issues that every other conventional mixer suffers from. Dead angles which inhibit direct view can affect safety and productivity, delaying return on your investment.</p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2016/05/davino-560-2.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Type Perkins 1104D \u2013 44T , 4 cyl .; pot . Max 74@2.300 kW @ rpm / min ; Hydrostatic transmission ; 4 steering wheels ; Reversible driving</p>\n",
+    "protected": false
+  },
+  "featured_media": 928,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [21, 224],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/927" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=927"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/928"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=927" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=927"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=927"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

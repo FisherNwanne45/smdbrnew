@@ -1,0 +1,67 @@
+{
+  "id": 1900,
+  "date": "2017-02-14T12:24:23",
+  "date_gmt": "2017-02-14T12:24:23",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/800-industrial-ride-on-sweeper/"
+  },
+  "modified": "2017-11-05T09:58:41",
+  "modified_gmt": "2017-11-05T09:58:41",
+  "slug": "800-industrial-ride-on-sweeper",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/800-industrial-ride-on-sweeper",
+  "title": { "rendered": "800 Industrial Ride-on Sweeper" },
+  "content": {
+    "rendered": "<h2 class=\"tn-large-header\">800 Features and Benefits</h2>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>The Tennant 800 Industrial Ride-on Sweeper is built to capture everything from cement dust to heavy debris</h3>\n<ul>\n<li>Maximise cleaning productivity with the sweeper\u2019s wide cleaning path, large capacity hopper and operator-friendly features</li>\n<li>Withstands harsh environments with heavy-duty steel construction and high performance dust containment</li>\n<li>Increased operator comfort with easy access to all sweeper controls and spacious cab</li>\n</ul>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-image left\"><img decoding=\"async\" class=\"aligncenter\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Sweeper%20riders/Media%20Gallery%20Images/800-illustration.jpg\" alt=\"231;#800 Feature Image\" /></div>\n<div class=\"tn-featured-text-wrap right\">\n<h3>Key machine features of the 800 Industrial Ride-on Sweeper</h3>\n<ul>\n<li>Deluxe suspension operator seat, power steering and tilt steering wheel increase operator comfort</li>\n<li>II Speed\u2122 sweeping technology matches sweeping speed to the debris type</li>\n<li>Large capacity, multi-level hopper (9 m) improves productivity by reducing the frequency of emptying</li>\n</ul>\n</div>\n</div>\n<div></div>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>Choose the ideal options to tailor the 800 Industrial Ride-on\u00a0Sweeper to your environment</h3>\n<ul>\n<li>Spacious cab provides a controlled, comfortable environment for the operator</li>\n<li>Rear bumpers minimise damage to sweeper to protect your investment</li>\n<li>Durable stainless steel hopper bottom prolongs machine life when cleaning in harsh environments</li>\n</ul>\n<p>\u200b</p>\n</div>\n<div class=\"tn-featured-text-image right\"><img decoding=\"async\" class=\"aligncenter\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Sweeper%20riders/Media%20Gallery%20Images/800_construction.jpg\" alt=\"231;#800 Feature Image\" /></div>\n</div>\n</div>\n</div>\n<p class=\"tn-large-header\" style=\"text-align: center;\">\u00a0<a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/800-leafleteurope_english-europe.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Tennant\u2019s 800 Industrial Ride-on Sweeper features a wide cleaning path and large capacity hopper to capture everything from cement dust to heavy debris.</p>\n",
+    "protected": false
+  },
+  "featured_media": 1915,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [48, 44],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1900" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1900"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1915"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1900" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1900"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1900"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

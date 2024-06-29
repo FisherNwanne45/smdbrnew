@@ -1,0 +1,34 @@
+{
+  "id": 31,
+  "count": 2,
+  "description": "The test for flexural strength is the most important way of assessing the quality of GRC. Power-Sprays supply a range of flexural testing equipment. A Typical Specification would be: Bench mounted twin column computer controlled universal strength testing machine. Maximum capacity 5kN. High accuracy grade 0.5 load cell. Range 5000N tension and compression. A full machine control Windows based Universal test program. Adjustable span 4-point bend fixture to GRCA specifications.",
+  "link": "https://pmegtrading.com/product-category/power-spray/grc-testing-machines-tools",
+  "name": "GRC Testing Machines &amp; Tools",
+  "slug": "grc-testing-machines-tools",
+  "taxonomy": "product_cat",
+  "parent": 23,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/31" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/23"
+      }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=31" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

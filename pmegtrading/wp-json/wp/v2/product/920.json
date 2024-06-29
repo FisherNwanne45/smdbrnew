@@ -1,0 +1,65 @@
+{
+  "id": 920,
+  "date": "2017-06-20T08:35:28",
+  "date_gmt": "2017-06-20T08:35:28",
+  "guid": { "rendered": "https://pmegtrading.com/product/ranger-430-2/" },
+  "modified": "2023-10-18T14:50:37",
+  "modified_gmt": "2023-10-18T11:50:37",
+  "slug": "ranger-430-2",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/ranger-430-2",
+  "title": { "rendered": "RANGER 430.2" },
+  "content": {
+    "rendered": "<p><strong>EXPERIENCE VISIBILITY</strong></p>\n<p>Perkins type 804D-33T, 4 cil.; pot. max 60kW @ 2600 RPM (HP80); transmission Hydrostatic; bearing swivel ring with 180\u00b0 rotation; Operator\u2019s Turret rotate able</p>\n<p>D\u2019avino Self Loading Concrete Mixers present themselves as the solution to visibility issues that every other conventional mixer suffers from. Dead angles which inhibit direct view can affect safety and productivity, delaying return on your investment.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Perkins type 804D-33T, 4 cil.; pot. max 60kW @ 2600 RPM (HP80); transmission Hydrostatic; bearing swivel ring with 180\u00b0 rotation; Operator\u2019s Turret rotate able</p>\n",
+    "protected": false
+  },
+  "featured_media": 921,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [21, 224],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/920" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=920"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/921"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=920" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=920"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=920"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

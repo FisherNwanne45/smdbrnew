@@ -1,0 +1,67 @@
+{
+  "id": 1920,
+  "date": "2017-02-15T07:00:05",
+  "date_gmt": "2017-02-15T07:00:05",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/atlv-all-terrain-litter-vacuum/"
+  },
+  "modified": "2017-11-05T09:58:29",
+  "modified_gmt": "2017-11-05T09:58:29",
+  "slug": "atlv-all-terrain-litter-vacuum",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/atlv-all-terrain-litter-vacuum",
+  "title": { "rendered": "ATLV All Terrain Litter Vacuum" },
+  "content": {
+    "rendered": "<h2 class=\"tn-large-header\" style=\"text-align: center;\">\u00a0ATLV Features and Benefits</h2>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>The Tennant ATLV 4300 All Terrain Litter Vacuum restores beauty in any outdoor area</h3>\n<ul>\n<li>Ride-on vacuum improves the image of your community with exceptional litter pick-up</li>\n<li>Increase productivity by cleaning on all terrains: climb kerbs, navigate hills, and clean along fence lines</li>\n<li>Low centre of gravity design provides a stable machine ride to safely protect the operator</li>\n</ul>\n</div>\n<div class=\"tn-featured-text-image right\"><img decoding=\"async\" class=\"aligncenter\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Outdoor%20and%20City%20Cleaning/Media%20Gallery%20Images/ATLV4300-env-3D-drawing.jpg\" alt=\"251;#ATLV Feature Image\" /></div>\n</div>\n<div></div>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-image left\"><img decoding=\"async\" class=\"aligncenter\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Outdoor%20and%20City%20Cleaning/Media%20Gallery%20Images/ATLV4300-env-fence-line.jpg\" alt=\"251;#ATLV Feature Image\" /></div>\n<div class=\"tn-featured-text-wrap right\">\n<h3>Key machine features of the ATLV 4300 All Terrain Litter Vacuum</h3>\n<ul>\n<li>48 in/1,219 mm vacuum head provides a wide cleaning path to improve productivity</li>\n<li>Ergonomic vacuum hose reaches up to 270 degrees to allow the operator to clean hard-to-reach areas without leaving the operator\u2019s seat</li>\n<li>Low centre of gravity, reliable disc brakes and standard roll-over protection contribute to operator safety</li>\n</ul>\n</div>\n</div>\n<div></div>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>Choose the ideal options to tailor the ATLV 4300 All Terrain Litter Vacuum to your environment</h3>\n<ul>\n<li>Power assistance to help lift and manoeuvre the large vacuum hose</li>\n<li>Fence line nozzle installed on the vacuum hose allows easy cleaning along fence lines</li>\n<li>Customised machine colours promote your municipality, company, school or organisation</li>\n</ul>\n</div>\n<div class=\"tn-featured-text-image right\"><img decoding=\"async\" class=\"aligncenter\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Outdoor%20and%20City%20Cleaning/Media%20Gallery%20Images/ATLV4300-env-vac-wand.jpg\" alt=\"251;#ATLV Feature Image\" /></div>\n</div>\n<p class=\"tn-large-header\" style=\"text-align: center;\">\u00a0<a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/en-brochure-atlv.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Tennant ATLV 4300 All Terrain Litter Vacuum overcomes outdoor cleaning challenges such as kerbs, hills and fences to effectively clean hard-to-reach outdoor spaces.</p>\n",
+    "protected": false
+  },
+  "featured_media": 1926,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [48, 44],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1920" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1920"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1926"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1920" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1920"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1920"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

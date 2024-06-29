@@ -1,0 +1,67 @@
+{
+  "id": 1499,
+  "date": "2017-02-08T14:23:12",
+  "date_gmt": "2017-02-08T14:23:12",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/quality-control-equipment/"
+  },
+  "modified": "2017-06-21T16:09:40",
+  "modified_gmt": "2017-06-21T16:09:40",
+  "slug": "quality-control-equipment",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/quality-control-equipment",
+  "title": { "rendered": "Quality Control Equipment" },
+  "content": {
+    "rendered": "<h2 style=\"text-align: center;\">Assessing the quality of your GFRC / GRC.</h2>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p>In addition to providing the necessary equipment, Power-Sprays also provides\u00a0training in Quality Control procedures in accordance with International standards for GRC /\u00a0GFRC production. This service is provided in conjunction with Fibre\u00a0Technologies International.</p>\n</div>\n</div>\n<div class=\"vc_empty_space\"></div>\n</div>\n</div>\n</div>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<ul>\n<li>GRC / GFRC skin thickness measuring gauges</li>\n<li>Slump Test kits for checking the fluidity of the slurry</li>\n<li>Wash-Out test baskets for determining glass fibre content</li>\n<li>Laboratory ovens for drying the test samples</li>\n<li>Curing tanks for test samples</li>\n<li>Laboratory balances</li>\n<li>Vernier calipers for sample thickness measurement</li>\n<li>Other specialist testing equipment available on request</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p>We also offer GRC Quality Control Tools like the GRC Thickness Measuring Gauge, Stainless Steel Wire Baskets for Bag &#038; Bucket Test, GRC Slump Test Kit, Laboratory Ovens, Measuring Scales etc.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "featured_media": 1500,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [31, 23],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1499" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1499"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1500"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1499" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1499"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1499"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": 202,
+  "count": 7,
+  "description": "",
+  "link": "https://pmegtrading.com/ar/product-category/boge-ar/compressor-ar",
+  "name": "\u0636\u0627\u063a\u0637 \u0627\u0644\u0647\u0648\u0627\u0621",
+  "slug": "compressor-ar",
+  "taxonomy": "product_cat",
+  "parent": 201,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat/202" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      {
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/taxonomies/product_cat"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat/201"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product?product_cat=202"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

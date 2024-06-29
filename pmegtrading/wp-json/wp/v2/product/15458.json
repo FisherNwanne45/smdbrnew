@@ -1,0 +1,67 @@
+{
+  "id": 15458,
+  "date": "2023-10-18T15:02:38",
+  "date_gmt": "2023-10-18T12:02:38",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15458"
+  },
+  "modified": "2023-10-18T15:05:08",
+  "modified_gmt": "2023-10-18T12:05:08",
+  "slug": "dumper-d12",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/dumper-d12",
+  "title": { "rendered": "DUMPER D12" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15462\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/D12_montage.webp\" alt=\"\" width=\"1500\" height=\"277\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/D12_montage.webp 1500w, https://pmegtrading.com/wp-content/uploads/2023/10/D12_montage-800x148.webp 800w, https://pmegtrading.com/wp-content/uploads/2023/10/D12_montage-1400x259.webp 1400w, https://pmegtrading.com/wp-content/uploads/2023/10/D12_montage-768x142.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/D12_montage-600x111.webp 600w\" sizes=\"(max-width: 1500px) 100vw, 1500px\" /></p>\n<p>&nbsp;</p>\n<table style=\"height: 144px;\" width=\"1128\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"239\"></td>\n</tr>\n<tr>\n<td>Engine</td>\n<td>Perkins 4 cylinder 113\u00a0 hp</td>\n</tr>\n<tr>\n<td>Motion Vector</td>\n<td>Hydrostatic</td>\n</tr>\n<tr>\n<td>Volume Capacity</td>\n<td>8.3 m3</td>\n</tr>\n<tr>\n<td>Height</td>\n<td>2.18 m</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Rear dumping dumper &#8211; N.4 wheel steering/drive \u2013 2 axles \u2013 Rotating driving seat with engine Perkins 1104D-44T, 4 stroke 4 cylinder &#8211; Turbo Diesel\u2013 Mechanical control with direct injection &#8211; Max Power 74,5 kW (101 hp) 2.300 RPM \u2013 Max torque 392 Nm 1.400 RPM &#8211; Water Cooled \u2013 Dry Air Filter &#8211; Conformity USA EPA Tier 3/EU STAGE IIIA</p>\n",
+    "protected": false
+  },
+  "featured_media": 15468,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [21, 225],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15458" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15458"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15468"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15458" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15458"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15458"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 2245,
+  "date": "2017-02-21T05:55:43",
+  "date_gmt": "2017-02-21T05:55:43",
+  "guid": { "rendered": "https://pmegtrading.com/product/latex-mold-rubbers/" },
+  "modified": "2017-06-21T16:11:41",
+  "modified_gmt": "2017-06-21T16:11:41",
+  "slug": "latex-mold-rubbers",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/latex-mold-rubbers",
+  "title": { "rendered": "Latex Mold Rubbers" },
+  "content": {
+    "rendered": "<p><a title=\"Polytek Poly Latex 60\" href=\"https://pmegtrading.com/wp-content/uploads/2017/02/Poly-Latex-60.pdf\" target=\"_blank\">Poly Latex 60</a> is a one-part natural latex rubber for creating thin, strong brushed molds. Poly Latex N is a sprayable version. Poly Latex False Face is used to make novelty masks by pouring into plaster molds.</p>\n<p>Poly Latex mold rubbers are commonly used to make molds for ornamental precast concrete and plaster statuary casting and for numerous hobby, craft, prop and display mold making and casting projects where brushable and sprayable molds are required.</p>\n<p>Since individual coats of latex must dry before further application, mold making may take days or longer to complete properly. For one-day brushed or sprayed molds, consider using Polygel polyurethane mold rubbers. Latex blanket molds require a mother mold or shell which can be made quickly and easily using Poly 1511 or 1512X and Poly Fiber.</p>\n<h3>Features</h3>\n<ul>\n<li>High strength, high elongation</li>\n<li>Brushable or sprayable versions</li>\n<li>One part, no mixing or weighing</li>\n<li>Good for high volume concrete &#038; plaster statuary casting</li>\n</ul>\n<p>\u00a0</p>\n<table border=\"0\" cellspacing=\"3\" cellpadding=\"0\">\n<tbody>\n<tr valign=\"middle\" bgcolor=\"#bdbdbd\">\n<td colspan=\"2\" height=\"25\">\n<h3>\u00a0Latex Products</h3>\n</td>\n</tr>\n<tr valign=\"middle\" bgcolor=\"#d8d8d8\">\n<td width=\"168\"><a title=\"Poly Latex 60\" href=\"https://pmegtrading.com/wp-content/uploads/2017/02/Poly-Latex-60.pdf\" target=\"_blank\"><strong>Poly Latex 60</strong></a></td>\n<td width=\"437\">One-part natural latex rubber for creating thin, strong brushed molds. Often used to make molds for ornamental precast concrete and plaster statuary casting.</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>\u00a0</p>\n<ul>\n<li>High strength, high elongation</li>\n<li>Brushable or sprayable versions</li>\n<li>One part, no mixing or weighing</li>\n<li>Good for high volume concrete &#038; plaster statuary casting</li>\n</ul>\n<p>\u00a0</p>\n<p>\u00a0</p>\n",
+    "protected": false
+  },
+  "featured_media": 2247,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [37, 34],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/2245" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=2245"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/2247"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=2245" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=2245"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=2245"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

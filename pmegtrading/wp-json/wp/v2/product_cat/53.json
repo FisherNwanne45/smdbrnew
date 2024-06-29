@@ -1,0 +1,34 @@
+{
+  "id": 53,
+  "count": 4,
+  "description": " With the \u201cperistaltic pump\u201d no moving parts are in contact with the materials, enabling these pumps to convey a wide range of mixes. Therefore, the PS38 Combination Spray Stations can be used to manufacture Traditional Hand Spray and Spray Premix GRC / GFRC.",
+  "link": "https://pmegtrading.com/product-category/power-spray/grc-spray-stations",
+  "name": "GRC Spray Stations",
+  "slug": "grc-spray-stations",
+  "taxonomy": "product_cat",
+  "parent": 23,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/53" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/23"
+      }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=53" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

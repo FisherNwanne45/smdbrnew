@@ -1,0 +1,67 @@
+{
+  "id": 15271,
+  "date": "2023-10-17T13:29:14",
+  "date_gmt": "2023-10-17T10:29:14",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15271"
+  },
+  "modified": "2023-10-17T13:33:30",
+  "modified_gmt": "2023-10-17T10:33:30",
+  "slug": "tl30-70-telescopic-handler",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/tl30-70-telescopic-handler",
+  "title": { "rendered": "TL30.70 Telescopic Handler" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15275\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/tl30-70-gallery-2.webp\" alt=\"\" width=\"1700\" height=\"838\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/tl30-70-gallery-2.webp 1700w, https://pmegtrading.com/wp-content/uploads/2023/10/tl30-70-gallery-2-800x394.webp 800w, https://pmegtrading.com/wp-content/uploads/2023/10/tl30-70-gallery-2-1400x690.webp 1400w, https://pmegtrading.com/wp-content/uploads/2023/10/tl30-70-gallery-2-768x379.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/tl30-70-gallery-2-1536x757.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/tl30-70-gallery-2-600x296.webp 600w\" sizes=\"(max-width: 1700px) 100vw, 1700px\" /></p>\n<p>&nbsp;</p>\n<table style=\"height: 140px;\" width=\"995\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"101\"></td>\n</tr>\n<tr>\n<td>Rated Operating Capacity</td>\n<td>3000 kg</td>\n</tr>\n<tr>\n<td>Lifting Height</td>\n<td>6675.0 mm</td>\n</tr>\n<tr>\n<td>Maximum Outreach</td>\n<td>4020.0 mm</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Water Cooled</td>\n<td>100 hp</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>This 7 m telescopic loader is a unique solution which combines compactness with competitiveness. With a 3 tonne rated capacity, the TL30.70 is ideally suited for rental companies and especially for use on tight job sites. The compactness of the TL30.70 ensures its accessibility and manoeuvrability are excellent.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15279,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 13],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15271" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15271"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15279"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15271" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15271"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15271"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+/*
+	Custom RTL css.
+*/
+textarea {
+    margin: 0px 0px 15.5156px;
+    height: 150px;
+    width: 250px;
+}
+
+
+
+i {
+  margin-right: 10px;
+}
+
+span.wpml-ls-display {
+padding-right: 10px;
+}
+
+.adq-in-quote {
+display: none;
+}
+
+.powered-by {display:none !important;}

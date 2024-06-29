@@ -1,0 +1,67 @@
+{
+  "id": 15283,
+  "date": "2023-10-17T13:41:41",
+  "date_gmt": "2023-10-17T10:41:41",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15283"
+  },
+  "modified": "2023-10-17T13:48:07",
+  "modified_gmt": "2023-10-17T10:48:07",
+  "slug": "tl35-70-telescopic-handler",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/tl35-70-telescopic-handler",
+  "title": { "rendered": "TL35.70 Telescopic Handler" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15287\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/Bobcat_TLS_T3570_bucket-160322_IMG_0985.webp\" alt=\"\" width=\"1619\" height=\"1066\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/Bobcat_TLS_T3570_bucket-160322_IMG_0985.webp 1619w, https://pmegtrading.com/wp-content/uploads/2023/10/Bobcat_TLS_T3570_bucket-160322_IMG_0985-608x400.webp 608w, https://pmegtrading.com/wp-content/uploads/2023/10/Bobcat_TLS_T3570_bucket-160322_IMG_0985-1215x800.webp 1215w, https://pmegtrading.com/wp-content/uploads/2023/10/Bobcat_TLS_T3570_bucket-160322_IMG_0985-768x506.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/Bobcat_TLS_T3570_bucket-160322_IMG_0985-1536x1011.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/Bobcat_TLS_T3570_bucket-160322_IMG_0985-600x395.webp 600w\" sizes=\"(max-width: 1619px) 100vw, 1619px\" /></p>\n<p>&nbsp;</p>\n<table style=\"height: 131px;\" width=\"1106\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"101\"></td>\n</tr>\n<tr>\n<td>Rated Operating Capacity</td>\n<td>3500 kg</td>\n</tr>\n<tr>\n<td>Lifting Height</td>\n<td>6889 mm</td>\n</tr>\n<tr>\n<td>Maximum Outreach</td>\n<td>4002.0 mm</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Water Cooled</td>\n<td>100 hp</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Bobcat\u00ae TL35.70 has been developed with the operator right at the centre of the design! It is a versatile machine incorporating all the benefits of our long experience. Major advantages for you: simple technology, easy maintenance, robustness. With its high reach, this Bobcat telehandler gives you exceptional performance for the most demanding jobs.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15295,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 13],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15283" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15283"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15295"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15283" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15283"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15283"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

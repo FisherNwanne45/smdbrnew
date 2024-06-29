@@ -1,0 +1,67 @@
+{
+  "id": 1799,
+  "date": "2017-02-14T09:36:57",
+  "date_gmt": "2017-02-14T09:36:57",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/s20-compact-mid-sized-rider-sweeper/"
+  },
+  "modified": "2017-10-31T13:50:21",
+  "modified_gmt": "2017-10-31T13:50:21",
+  "slug": "s20-compact-mid-sized-rider-sweeper",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/s20-compact-mid-sized-rider-sweeper",
+  "title": { "rendered": "S20 Compact Mid-sized Rider Sweeper" },
+  "content": {
+    "rendered": "<h2 class=\"tn-large-header\">S20 Features and Benefits</h2>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>Tennant\u2019s S20 Compact Mid-sized Rider Sweeper provides the cleaning power of a mid-size in a compact</h3>\n<ul>\n<li>Experience the indoor or outdoor sweeping performance of a mid-size ride-on sweeper with the maneuverability of a compact ride-on sweeper</li>\n<li>Improve indoor air quality and sweep longer with the SweepMax\u2122 dust control system</li>\n<li>Reduce operator training time and simplify machine operation with \u201cAll levers forward\u201d control</li>\n</ul>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-image left\"><img decoding=\"async\" class=\"aligncenter\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Sweeper%20riders/Media%20Gallery%20Images/S20-env-3D-illustration.jpg\" alt=\"420;#S20 Feature Image\" /></div>\n<div class=\"tn-featured-text-wrap right\">\n<h3>Key machine features of the S20 Compact Mid-sized Rider\u00a0Sweeper</h3>\n<ul>\n<li>ShakeMax\u2122 filter shaker dislodges dust particles deep within the filter pleats to improve air filtration, allowing longer run times and prolonging filter life</li>\n<li>InstantAccess\u2122 allows easy access without tools to reduce downtime, service time and maintenance costs</li>\n<li>Easy to open machine covers reduce sweeper downtime and maintenance costs</li>\n</ul>\n</div>\n</div>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>Choose the ideal options to tailor the S20 Compact Mid-Sized Rider Sweeper to your environment</h3>\n<ul>\n<li>Battery power eliminates fumes and provides for low-noise level operation</li>\n<li>Dual side brushes increase sweeping path and productivity</li>\n<li>High-performance vacuum wand stores inside the sweeper to make it available when you need it</li>\n</ul>\n</div>\n<div class=\"tn-featured-text-image right\"><img decoding=\"async\" class=\"aligncenter\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Sweeper%20riders/Media%20Gallery%20Images/S20-env-battery.jpg\" alt=\"420;#S20 Feature Image\" /></div>\n</div>\n<div class=\"tn-featured-text-image right\"></div>\n</div>\n</div>\n<div class=\"tn-featured-text-image right\"></div>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/s20-brochure_1.030.001.am_.en_.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Tennant\u2019s S20 compact mid-sized rider floor sweeper is a heavy duty machine that maneuvers easily in tight spaces with the sweeping performance of a mid-size sweeper.</p>\n",
+    "protected": false
+  },
+  "featured_media": 1812,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [46, 44],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1799" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1799"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1812"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1799" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1799"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1799"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

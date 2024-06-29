@@ -1,0 +1,67 @@
+{
+  "id": 878,
+  "date": "2016-05-01T00:00:00",
+  "date_gmt": "2016-05-01T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/walk-behind-vibratory-double-drum-roller-arw-65/"
+  },
+  "modified": "2017-08-29T12:41:33",
+  "modified_gmt": "2017-08-29T12:41:33",
+  "slug": "arw-65-walk-behind-roller",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/arw-65-walk-behind-roller",
+  "title": { "rendered": "ARW 65 Walk-Behind Roller" },
+  "content": {
+    "rendered": "<p>The ARW 65 with a Hatz diesel engine provides 2-in-1 capabilities that help you limit your machine investment.</p>\n<p>A high-amplitude setting provides a walk-behind roller that performs like it was custom built for work on soils and aggregates. With the flip of a switch your operator can adjust to a low-amplitude setting and have a roller that is a perfect fit in asphalt and bituminous materials.</p>\n<p>The ARW 65 features scrapers and a 60-litre water tank with sprinkler system to ensure the machine is ready to handle bituminous surfaces when called upon.</p>\n<p>The engine is available with a crank or electric start.</p>\n<h4 class=\"drawer-title\">OVERVIEW</h4>\n<div class=\"drawer-content\">\n<ul>\n<li>Hydrostatic drive and vibration system</li>\n<li>Hydrostatic adjustable eccentric weights that are productive in soil and asphalt applications</li>\n<li>Hydraulic pump for hydrostatic drive and steering; no V belt</li>\n<li>Ergonomic dead man\u2019s handle for operator safety</li>\n<li>Large 60-litre water tank for compaction work on bituminous material</li>\n<li>Easy access to all service points</li>\n</ul>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/arw_walk_behind_rollers_brochure_mpb-1201-00-en-1.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>PRODUCT FAMILY OVERVIEW</span>\n  </a>\n\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>&nbsp;</p>\n<div class=\"drawer-content\">\n<ul>\n<li>Hydrostatic drive and vibration system</li>\n<li>Hydrostatic adjustable eccentric weights that are productive in soil and asphalt applications</li>\n<li>Hydraulic pump for hydrostatic drive and steering; no V belt</li>\n<li>Ergonomic dead man\u2019s handle for operator safety</li>\n<li>Large 60-litre water tank for compaction work on bituminous material</li>\n<li>Easy access to all service points</li>\n</ul>\n</div>\n",
+    "protected": false
+  },
+  "featured_media": 1680,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [28, 163],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/878" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=878"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1680"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=878" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=878"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=878"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

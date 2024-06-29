@@ -1,0 +1,65 @@
+{
+  "id": 292,
+  "date": "2016-04-08T00:00:00",
+  "date_gmt": "2016-04-08T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/tree-transplanters/" },
+  "modified": "2017-06-21T16:08:25",
+  "modified_gmt": "2017-06-21T16:08:25",
+  "slug": "tree-transplanters",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/tree-transplanters",
+  "title": { "rendered": "Tree Transplanters" },
+  "content": {
+    "rendered": "<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2 style=\"text-align: center;\">Dig and transplant trees with the speed and efficiency of the tree spade attachment.</h2>\n<p>With its compact, short tower design, the tree spade easily squeezes between closely-planted trees. Built for maximum durability, the reinforced attachment frame handles the bumps and bruises of a tough work environment. The tree spade works in a variety of soil conditions, maximizing worksite capabilities.</p>\n<p>Control tree spade operation with the fingertip controls integrated into the loader control handles. Dig, transplant, and package trees without leaving the comfort of the operator\u2019s seat.</p>\n<p>The rugged, dependable tree spade attachment turns any loader into a transplanting unit, while also speeding up production and cutting labor costs. It is the ideal attachment for market applications such as nurseries, landscapers, golf courses, construction, farming, rental yards, Christmas tree farmers, DNRs, parks and recreation departments, and municipalities.</p>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Top Tasks</h2>\n<ul>\n<li>Dig, transplant and package trees</li>\n</ul>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Valve Options</h2>\n<ul>\n<li><strong>7-pin attachment control device</strong>: Control tree spade operation with fingertip controls located directly on the steering levers of the carrier.</li>\n</ul>\n<ul>\n<li><strong>Convertible valve</strong>: Control tree spade operation with fingertip controls on the steering levers or by using a pendant control box. The operation and control versatility of the convertible valve allows the tree spade to be operated on Bobcat\u00ae loaders as well as other brands.</li>\n</ul>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Choosing a Blade Configuration</h2>\n<p>Most tree spade models are available in truncated, modified, and cone blade configurations. Different blade configurations give contractors the ability to select the right tree spade attachment for their specific machine and application.</p>\n<ul>\n<li><strong>Sandy or hard-packed soils</strong>: The cone blade is popular when trees must be removed, transported and placed in new locations. It can also be used to place trees in baskets.</li>\n<li><strong>Loamy to sandy soils</strong>: The modified blade has a tower angle of 25 degrees, allowing the tree spade to place the removed tree directly into a basket. Most popular choice for balled-and-burlapped tree harvesting</li>\n<li><strong>Clay-type soils</strong>: The truncated blade has a tower angle of 22 degrees, delivering a better stand of the tree when placed in a basket. (Not available for 44-in. model.) Ideal for digging in tight locations.</li>\n</ul>\n<p>\u00a0</p>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>How It Works</h2>\n<p>Gate(s) on the front of the tree spade open to allow access to the tree. Once around the tree, the gate(s) close and rear stabilizers on the machine are lowered to transfer weight onto the tree spade. Three or four individual blades (depending on model) are then lowered into the ground to cut the tree roots and create a rootball. The rear stabilizers are raised and the tree can be transplanted into a new location or placed into a wire basket.</p>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Features</h2>\n<ul>\n<li><strong>Adjustable Legs</strong>: Allow for digging five different root-ball sizes with one tree spade.</li>\n<li><strong>Blade Versatility</strong>: Truncated, modified and cone blade configurations are available, providing a wide variety of blades for any jobsite opportunity.</li>\n<li><strong>Bobcat\u00ae Orange Color</strong>: Delivers better attachment visibility when digging.</li>\n<li><strong>Compact Design</strong>: Allows for attachment operation in confined areas without damaging nearby trees or landscaping.</li>\n<li><strong>Open Frame Design</strong>: Provides excellent visibility to the base of the tree.</li>\n<li><strong>Outside Frame Design</strong>: Featured on the 24- and 28-in. tree spade models, the outside frame design provides a wider space for the tree.</li>\n<li><strong>Inside Frame Design</strong>: Featured on spades 32-in. and above, the inside frame helps maintain the integrity of the rootball and allows for a more compact design</li>\n<li><strong>Overlapping Blades</strong>: Ensure clean root cutting and support of the root-ball.</li>\n<li><strong>Valve Options</strong>: Choose from a convertible valve or dedicated ACD valve to fit a wide range of fit-up to machines and operator preference</li>\n</ul>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Single operator can dig, transplant and load trees</li>\n<li>More mobile and productive than tractor, truck or trailer-mounted units</li>\n<li>Five sizes, three spade shapes</li>\n<li>Open design for easy access to trees</li>\n<li>Adjustable legs allow for digging five different types of tree balls</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 293,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [8, 27],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/292" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=292"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/293"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=292" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=292"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=292"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

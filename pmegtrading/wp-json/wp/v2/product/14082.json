@@ -1,0 +1,67 @@
+{
+  "id": 14082,
+  "date": "2021-03-31T09:54:46",
+  "date_gmt": "2021-03-31T09:54:46",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=14082"
+  },
+  "modified": "2021-03-31T10:00:30",
+  "modified_gmt": "2021-03-31T10:00:30",
+  "slug": "f-130-2-p-compressed-air-filters",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/f-130-2-p-compressed-air-filters",
+  "title": { "rendered": "F 130-2 P Compressed Air Filters" },
+  "content": {
+    "rendered": "<p>Effective solid particle filter: The <strong>BOGE F 130-2 P depth filter</strong> removes solid particles down to 0.01 microns with a collection efficiency of 99.9999% from compressed air or pressurized nitrogen gas. Highly effective microfiber fleeces have a high capacity to absorb dirt, while at the same time providing a consistently low differential pressure. A pleated depth filter increases the filter area by a factor of 4.5 compared with conventional elements. The design of the filter housing and the filter element is optimized to allow the flow to have the lowest possible pressure resistance.</p>\n<p><strong>PRODUCT</strong></p>\n<p>Micro filter</p>\n<p><strong>ADVANTAGES</strong></p>\n<ul>\n<li>10-year guarantee on housing</li>\n<li>Constantly low differential pressures</li>\n<li>EU-VO 1935/2004 exemption certificate</li>\n<li>Simple, space-saving installation</li>\n<li>Suitable for use with foodstuffs in accordance with FDA Title 21 CFR</li>\n<li>Validated in accordance with ISO 12500 -1:2007 &amp; ISO 8573 -1:2010</li>\n</ul>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Effective solid particle filter: The <strong>BOGE F 130-2 P depth filter</strong> removes solid particles down to 0.01 microns with a collection efficiency of 99.9999% from compressed air or pressurized nitrogen gas. Highly effective microfiber fleeces have a high capacity to absorb dirt, while at the same time providing a consistently low differential pressure.</p>\n",
+    "protected": false
+  },
+  "featured_media": 14086,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [198, 200],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/14082" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=14082"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/14086"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=14082" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=14082"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=14082"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

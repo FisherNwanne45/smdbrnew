@@ -1,0 +1,65 @@
+{
+  "id": 8533,
+  "date": "2017-08-28T14:14:56",
+  "date_gmt": "2017-08-28T14:14:56",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=8533/" },
+  "modified": "2017-10-29T12:55:36",
+  "modified_gmt": "2017-10-29T12:55:36",
+  "slug": "lnx-hoist",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/lnx-hoist",
+  "title": { "rendered": "LNX Hoist" },
+  "content": {
+    "rendered": "<h3><img loading=\"lazy\" decoding=\"async\" class=\"alignleft wp-image-8365 size-shop_catalog\" src=\"https://pmegtrading.com/wp-content/uploads/2017/08/LNX-Hoist-1-300x300.jpg\" alt=\"LNX Hoist 1\" width=\"300\" height=\"300\" srcset=\"https://pmegtrading.com/wp-content/uploads/2017/08/LNX-Hoist-1-300x300.jpg 300w, https://pmegtrading.com/wp-content/uploads/2017/08/LNX-Hoist-1-100x100.jpg 100w, https://pmegtrading.com/wp-content/uploads/2017/08/LNX-Hoist-1-280x280.jpg 280w\" sizes=\"(max-width: 300px) 100vw, 300px\" />Durable design and ease of maintenance provide better value to fleet owners.</h3>\n<ul>\n<li>Removable power pack</li>\n<li>Four quick connect plugs to remove power pack</li>\n<li>Electrical components are easy to access</li>\n<li>Capable of adding:</li>\n</ul>\n<ul>\n<li><em>Overload protection</em></li>\n<li><em>Hour meter</em></li>\n<li><em>Limit switches</em></li>\n<li><em>Low voltage indicator</em></li>\n</ul>\n<p><em>\u00a0</em></p>\n<ul>\n<li><em>\u00a0</em>Cast Aluminum outer shell provides strength and durability</li>\n<li>Sealed aluminum shell keeps moisture and debris out of electrical and mechanical housings Ergonomic design</li>\n<li>Handles and grips for ease of transport Easy to operate</li>\n<li>Lightweight</li>\n<li>Built to withstand the toughest conditions Easy to clean and maintain</li>\n<li>Annual maintenance takes less than one hour</li>\n<li>Fewer wear parts makes total cost of ownership lower</li>\n<li>Non-Powered control descent</li>\n</ul>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/08/Sky-Climber-LNX.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Man-rated hoists offer durable design and ease of maintenance provide better value to fleet owners.</p>\n",
+    "protected": false
+  },
+  "featured_media": 8383,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [159],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/8533" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=8533"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/8383"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=8533" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=8533"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=8533"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

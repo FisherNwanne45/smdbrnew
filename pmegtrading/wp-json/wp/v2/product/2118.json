@@ -1,0 +1,65 @@
+{
+  "id": 2118,
+  "date": "2017-02-16T14:50:28",
+  "date_gmt": "2017-02-16T14:50:28",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=2118" },
+  "modified": "2017-06-21T16:11:25",
+  "modified_gmt": "2017-06-21T16:11:25",
+  "slug": "ragno-tsj-25",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/ragno-tsj-25",
+  "title": { "rendered": "RAGNO TSJ 25" },
+  "content": {
+    "rendered": "<p style=\"text-align: left;\">The tracks width can be adjusted 0.98 \u2013 1.30m giving access to restricted areas and excellent stability on rough terrain. Each outrigger can be rotated in 4 different positions \u2013 powerful diesel engine allows to drive on steps and electric motor is available for use in internal use. All these characteristics give this model the maximum versatility.<br />\nMulti-telescopic main boom and upper articulated jib allow the best aerial agility also at the low heights with zero tailswing.</p>\n<p style=\"text-align: left;\">Boom rotation is unlimited under any set-up condition and hoses are protected inside the boom.<br />\nFor lifting operations at 200 kg wire winch is easily interchangeable with the cag.</p>\n<p style=\"text-align: left;\"><strong>TECHNICAL FEATURES</strong></p>\n<p style=\"text-align: left;\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-2127\" src=\"https://pmegtrading.com/wp-content/uploads/2017/02/RAGNO-TSJ-25-specs.jpg\" alt=\"RAGNO TSJ 25 \" width=\"678\" height=\"196\" srcset=\"https://pmegtrading.com/wp-content/uploads/2017/02/RAGNO-TSJ-25-specs.jpg 678w, https://pmegtrading.com/wp-content/uploads/2017/02/RAGNO-TSJ-25-specs-600x173.jpg 600w\" sizes=\"(max-width: 678px) 100vw, 678px\" /></p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/TSJ-25103913.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Boom rotation is unlimited under any set-up condition and hoses are protected inside the boom.<br />\nFor lifting operations at 200 kg wire winch is easily interchangeable with the cag.</p>\n",
+    "protected": false
+  },
+  "featured_media": 2126,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [50],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/2118" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=2118"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/2126"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=2118" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=2118"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=2118"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

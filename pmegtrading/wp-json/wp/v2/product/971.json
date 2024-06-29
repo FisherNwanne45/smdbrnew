@@ -1,0 +1,67 @@
+{
+  "id": 971,
+  "date": "2016-05-07T00:00:00",
+  "date_gmt": "2016-05-07T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/grc125s-combination-mixer/"
+  },
+  "modified": "2017-11-06T14:36:34",
+  "modified_gmt": "2017-11-06T14:36:34",
+  "slug": "grc125s-combination-mixer",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/grc125s-combination-mixer",
+  "title": { "rendered": "GRC125S Combination Mixer" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: center;\">With \u201cLoss in Weight\u201d controlled Chopped Fibre Dispenser &amp; Water, Admixture &amp; Polymer Dispensing Systems</h3>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p>The GRC125S Combination Mixer is a fully automated bulkfed batching system for GRC / GFRC. Also available: A comprehensive range of accessories providing semi or fully automated control of the addition of chemical admixtures, acrylic polymers and the Alkali Resistant glass fibres.</p>\n</div>\n</div>\n<div class=\"vc_empty_space\"></div>\n<div class=\"vc_empty_space\">All mixers are supplied mounted on a steel support structures. Platform extensions, access stairs and guardrails together with other accessories can be also be provided.</div>\n<div class=\"vc_empty_space\"></div>\n<div class=\"vc_empty_space\"><em>For example</em>:</div>\n<ul>\n<li class=\"vc_empty_space\">Semi-automatic Water, Admixture and Polymer dispensers each with two adjustable<br />\npreset recipes. (Incorporating the Power-Sprays \u201cHP water wash\u201d system)</li>\n<li class=\"vc_empty_space\">Dry materials weighing/batching systems.</li>\n<li class=\"vc_empty_space\">Glass fibre choppers and dispensers.</li>\n<li class=\"vc_empty_space\">Semi and Fully automated control systems.</li>\n</ul>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The GRC125S Combination Mixer is a fully automated bulkfed batching system for GRC / GFRC. Also available: A comprehensive range of accessories providing semi or fully automated control of the addition of chemical admixtures, acrylic polymers and the Alkali Resistant glass fibres.</p>\n",
+    "protected": false
+  },
+  "featured_media": 972,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [30, 23],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/971" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=971"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/972"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=971" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=971"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=971"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

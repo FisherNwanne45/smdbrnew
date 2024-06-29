@@ -1,0 +1,65 @@
+{
+  "id": 569,
+  "date": "2016-04-17T00:00:00",
+  "date_gmt": "2016-04-17T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/s510-skid-steer-loader/" },
+  "modified": "2017-06-21T16:08:51",
+  "modified_gmt": "2017-06-21T16:08:51",
+  "slug": "s510-skid-steer-loader",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/s510-skid-steer-loader",
+  "title": { "rendered": "S510 Skid-Steer Loader" },
+  "content": {
+    "rendered": "<h3>S510 \u2013 Serious reliable skid steer loader</h3>\n<h3>Power meets comfort!</h3>\n<p>With the new Bobcat loaders, there\u2019s a difference you can see \u2013 and a difference you\u2019ll experience on the job. They have a completely re-engineered cab that keeps you comfortable, with superior power and hydraulic performance that will help you do more, do it faster and better. Add to this simplified maintenance and serviceability; and a completely new engineering design coupled with improved durability that further increases up-time.</p>\n<p>The S510 and S550 models are radius lift path loaders, combining excellent maneuverability in tight areas with the reach and visibility needed for applications such as dumping materials over walls, back-filling or loading flatbed trucks.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul class=\"float\">\n<li>Higher performance</li>\n<li>Best working conditions</li>\n<li>Increased hydraulic power</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 570,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 12],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/569" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=569"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/570"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=569" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=569"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=569"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

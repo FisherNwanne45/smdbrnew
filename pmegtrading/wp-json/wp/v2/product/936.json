@@ -1,0 +1,65 @@
+{
+  "id": 936,
+  "date": "2016-05-07T00:00:00",
+  "date_gmt": "2016-05-07T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/e148t-aerial-flatforms/" },
+  "modified": "2017-11-05T09:44:16",
+  "modified_gmt": "2017-11-05T09:44:16",
+  "slug": "e148t-aerial-flatforms",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/e148t-aerial-flatforms",
+  "title": { "rendered": "E148T \u2013 Aerial Flatforms" },
+  "content": {
+    "rendered": "<p><strong>Series T</strong><br />\nThe GSR \u201cT\u201d series is known for the exceptional strength and rigidity of the aerial platform and its simple and intuitive operation. The high product quality and excellent performance parameters of the telescopic boom are secured by applying traditional and reliable technical solutions, as well as special steels and boom profiles.</p>\n<p>Robust hydraulic control levers allow the operator to perform even at full working height, movements with exceptional smoothness and accuracy. Outrigger controls allow for individual leg operation ensuring effective ground contact and levelling on uneven surfaces.</p>\n<p>The machines are compact and light enough to mount onto the most popular commercial vehicles starting from 3,5to. Different vehicle installations are possible by varying outrigger configurations and tailoring working envelopes to optimise each mounting.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The GSR \u201cT\u201d series is known for the exceptional strength and rigidity of the aerial platform and its simple and intuitive operation. The high product quality and excellent performance parameters of the telescopic boom are secured by applying traditional and reliable technical solutions, as well as special steels and boom profiles.</p>\n",
+    "protected": false
+  },
+  "featured_media": 937,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [22],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/936" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=936"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/937"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=936" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=936"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=936"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

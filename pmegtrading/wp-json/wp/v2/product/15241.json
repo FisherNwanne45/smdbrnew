@@ -1,0 +1,67 @@
+{
+  "id": 15241,
+  "date": "2023-10-17T13:14:32",
+  "date_gmt": "2023-10-17T10:14:32",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15241"
+  },
+  "modified": "2023-10-17T13:18:44",
+  "modified_gmt": "2023-10-17T10:18:44",
+  "slug": "t41-140slp-telescopic-handler",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/t41-140slp-telescopic-handler",
+  "title": { "rendered": "T41.140SLP Telescopic Handler" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15245\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/t41-140slp-gallery-2.webp\" alt=\"\" width=\"1700\" height=\"838\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/t41-140slp-gallery-2.webp 1700w, https://pmegtrading.com/wp-content/uploads/2023/10/t41-140slp-gallery-2-800x394.webp 800w, https://pmegtrading.com/wp-content/uploads/2023/10/t41-140slp-gallery-2-1400x690.webp 1400w, https://pmegtrading.com/wp-content/uploads/2023/10/t41-140slp-gallery-2-768x379.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/t41-140slp-gallery-2-1536x757.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/t41-140slp-gallery-2-600x296.webp 600w\" sizes=\"(max-width: 1700px) 100vw, 1700px\" /></p>\n<p>&nbsp;</p>\n<table style=\"height: 165px;\" width=\"993\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"101\"></td>\n</tr>\n<tr>\n<td>Rated Operating Capacity</td>\n<td>4100 kg</td>\n</tr>\n<tr>\n<td>Lifting Height</td>\n<td>13.600 mm</td>\n</tr>\n<tr>\n<td>Maximum Outreach</td>\n<td>9800 mm</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Water Cooled</td>\n<td>Perkins 100 hp</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The 14m Bobcat\u00ae telescopic handlers provide you with what matters the most\u2026simplicity in design and ease-of-use, 100% confidence in the machine and its state-of-the-art safety systems, and class leading performance. All this ensures the T41.140 SLP model work with the best possible efficiency and productivity, while always focusing on safe operation.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15249,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 13],
+  "product_tag": [10],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15241" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15241"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15249"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15241" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15241"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15241"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

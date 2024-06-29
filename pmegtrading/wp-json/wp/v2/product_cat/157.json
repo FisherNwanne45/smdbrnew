@@ -1,0 +1,30 @@
+{
+  "id": 157,
+  "count": 4,
+  "description": "For many years now, Green Machines have aimed to contribute decisively towards cleaner and tidier towns and cities by providing efficient and sophisticated sweeping machines. The electrically operated zero emission models are the most recent outcome of this engineering work. They not only match the exacting sustainability concepts of urban centers, but are also extremely attractive, especially in term of costs. ",
+  "link": "https://pmegtrading.com/product-category/green-machines",
+  "name": "Green Machines",
+  "slug": "green-machines",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/157" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=157"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 173,
+  "count": 2,
+  "description": "The scope of technology available on Ammann pavers means customers can choose the option that best fits their needs to find the ideal paver for their daily work or a specific project. Conventional controls offer simplicity and high quality. Premium pavers feature PaveManager, a technologically advanced, automated HMI system that provides operators with permanent feedback about the paving project to enable real-time adjustments.",
+  "link": "https://pmegtrading.com/product-category/ammann/asphalt-pavers",
+  "name": "Asphalt Pavers",
+  "slug": "asphalt-pavers",
+  "taxonomy": "product_cat",
+  "parent": 28,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/173" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/28"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=173"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

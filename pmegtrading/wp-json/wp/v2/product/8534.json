@@ -1,0 +1,67 @@
+{
+  "id": 8534,
+  "date": "2017-08-28T14:24:06",
+  "date_gmt": "2017-08-28T14:24:06",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=8534/" },
+  "modified": "2017-08-28T14:28:59",
+  "modified_gmt": "2017-08-28T14:28:59",
+  "slug": "sky-pib-m-u-permanent-installation-building-maintenance-unit",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/sky-pib-m-u-permanent-installation-building-maintenance-unit",
+  "title": {
+    "rendered": "Sky PI/B.M.U. (Permanent Installation/ Building Maintenance Unit)"
+  },
+  "content": {
+    "rendered": "<p>The <strong><em>SKY CLIMBER</em></strong>\u00ae powered <strong>PI/BMU </strong>(Permanent Installation/ Building Maintenance Unit) is designed to provide efficient working access for permanent installations in many types of buildings and structures.\u00a0 It is one of our most used cradles for monorails and roof cars and has been applied in various permanent installations worldwide.</p>\n<p>The Sky PI/BMU is equipped with aluminum cladding and all the necessary safety features to guarantee worker safety. With the choice between Sky Grip (CE) or Sky Lock the safety features are adaptable to every situation. Wire winders for steel cable storage ensure that the Sky PI/BMU can be used safely in areas where no free hanging ropes are allowed.</p>\n<p>Together with the <strong><em>SKY CLIMBER</em></strong>\u00ae compact hoist, the Sky PI/BMU can carry up to 2 persons and materials.</p>\n<p>&nbsp;</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-8455\" src=\"https://pmegtrading.com/wp-content/uploads/2017/08/SKY-PI-BMU-Main.jpg\" alt=\"SKY PI BMU Main\" width=\"579\" height=\"494\" srcset=\"https://pmegtrading.com/wp-content/uploads/2017/08/SKY-PI-BMU-Main.jpg 579w, https://pmegtrading.com/wp-content/uploads/2017/08/SKY-PI-BMU-Main-469x400.jpg 469w\" sizes=\"(max-width: 579px) 100vw, 579px\" /></p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/08/Sky-PI-BMU-2.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The <strong><em>SKY CLIMBER</em></strong>\u00ae powered <strong>PI/BMU </strong>(Permanent Installation/ Building Maintenance Unit) is designed to provide efficient working access for permanent installations in many types of buildings and structures.\u00a0 It is one of our most used cradles for monorails and roof cars and has been applied in various permanent installations worldwide.</p>\n",
+    "protected": false
+  },
+  "featured_media": 8455,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [159],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/8534" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=8534"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/8455"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=8534" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=8534"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=8534"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

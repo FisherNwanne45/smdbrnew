@@ -1,0 +1,65 @@
+{
+  "id": 2129,
+  "date": "2017-02-18T19:42:47",
+  "date_gmt": "2017-02-18T19:42:47",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=2129" },
+  "modified": "2017-06-21T16:11:26",
+  "modified_gmt": "2017-06-21T16:11:26",
+  "slug": "ragno-tsj-35",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/ragno-tsj-35",
+  "title": { "rendered": "RAGNO TSJ 35" },
+  "content": {
+    "rendered": "<p style=\"text-align: left;\">The oversized boom sections and the telescopic jib this machine is ideal for use in construction, \u00a0industrial, telecommunications and rescue services. Variable articulation of the outriggers increases the possibility to stabilize in awkward areas.\u00a0300 kg electric wire-winch is interchangeable to the aerial cage.</p>\n<p style=\"text-align: left;\">Also available on wheels and in \u00ab\u00a0ECO Execution\u00a0\u00bb with DC power pack.</p>\n<p style=\"text-align: left;\"><strong>TECHNICAL FEATURES</strong></p>\n<p style=\"text-align: left;\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-2131\" src=\"https://pmegtrading.com/wp-content/uploads/2017/02/RAGNO-TSJ-35-SPECS.jpg\" alt=\"RAGNO TSJ 35\" width=\"682\" height=\"200\" srcset=\"https://pmegtrading.com/wp-content/uploads/2017/02/RAGNO-TSJ-35-SPECS.jpg 682w, https://pmegtrading.com/wp-content/uploads/2017/02/RAGNO-TSJ-35-SPECS-600x176.jpg 600w\" sizes=\"(max-width: 682px) 100vw, 682px\" /></p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/TSJ-35115712.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Boom rotation is unlimited under any set-up condition and hoses are protected inside the boom.<br />\nFor lifting operations at 200 kg wire winch is easily interchangeable with the cag.</p>\n",
+    "protected": false
+  },
+  "featured_media": 2143,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [50],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/2129" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=2129"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/2143"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=2129" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=2129"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=2129"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

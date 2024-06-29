@@ -1,0 +1,28 @@
+{
+  "id": 35,
+  "count": 3,
+  "description": "Suppliers to the Glass Fibre Reinforced Concrete GRC/GFRC Industry. Fibre Technologies International supply: High Zirconia content Alkali Resistant Glass fibre Rovings, High Zirconia content Alkali Resistant Glass fibre Chopped Strand, Acrylic polymer, Super Plasticizers, Pumping Aids and Flexible mould making materials ",
+  "link": "https://pmegtrading.com/product-category/fibre-tech",
+  "name": "Fibre Tech",
+  "slug": "fibre-tech",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/35" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=35" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

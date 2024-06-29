@@ -1,0 +1,67 @@
+{
+  "id": 968,
+  "date": "2016-05-07T00:00:00",
+  "date_gmt": "2016-05-07T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/grc125-combination-mixer-td/"
+  },
+  "modified": "2017-11-06T14:35:44",
+  "modified_gmt": "2017-11-06T14:35:44",
+  "slug": "grc125-combination-mixer-td",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/grc125-combination-mixer-td",
+  "title": { "rendered": "GRC 125 Tilting Drum Mixer" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: center;\">With\u00a0Tilting Mixing Drum</h3>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p>All the features of the GRC125 Combination Mixer with tilting\u00a0mixing drum allowing\u00a0the mix to\u00a0be discharged directly into a mould, pump, or spray station.</p>\n</div>\n</div>\n<div class=\"vc_empty_space\"></div>\n<div class=\"vc_empty_space\"></div>\n</div>\n</div>\n</div>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<ul>\n<li>Revolutionary mixing blade</li>\n<li>High shear mixing of the sand/cement slurry at fast speed</li>\n<li>Blending of the fibre at slow speed</li>\n<li>60 litres capacity to easily accommodate up to 125kg of material</li>\n<li>Works equally well with smaller mixes</li>\n<li>Fully variable speed 0-1400 rpm</li>\n<li>Dry materials loading chute with sealed lid to reduce dust</li>\n<li>Comes with 2 removable plastic mixing vessels</li>\n<li>Platform mounted version also available</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>All the features of the GRC125 Combination Mixer with tilting\u00a0mixing drum allowing\u00a0the mix to\u00a0be discharged directly into a mould, pump, or spray station.</p>\n",
+    "protected": false
+  },
+  "featured_media": 969,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [30, 23],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/968" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=968"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/969"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=968" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=968"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=968"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

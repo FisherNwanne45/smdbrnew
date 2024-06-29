@@ -1,0 +1,65 @@
+{
+  "id": 171,
+  "date": "2016-04-08T00:00:00",
+  "date_gmt": "2016-04-08T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/auger/" },
+  "modified": "2017-06-21T16:08:21",
+  "modified_gmt": "2017-06-21T16:08:21",
+  "slug": "auger",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/auger",
+  "title": { "rendered": "Auger" },
+  "content": {
+    "rendered": "<p>Dig holes with speed and plumb-line accuracy using a Bobcat\u00ae auger attachment. Using heavy-duty hydraulics, the auger attachment bites into any soil condition with ease and efficiency. Even in hard and rocky soil, the high torque keeps the auger steady and powerful to maintain performance.</p>\n<p>Choose between a direct drive auger for an optimum balance between torque and RPM, or a gear-driven planetary auger for applications that require the most torque. Multiple bit types and teeth enable you to find the right auger to match your digging conditions.</p>\n<p>The direct drive 15 offers a higher range of speed for drilling holes quicker through softer to moderate soil conditions such as sand, dry material, and light dirt so the hole being dug is cleaned out better. The direct drive 30 and the planetary drive augers offer higher amount of torque for digging into heavier ground surfaces such as rocky, coral or clay. With lower speeds to dig, Planetary augers provide the torque needed to install screw anchors and dig with bits that are over 24 inches in diameter.</p>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2></h2>\n<h2>How It Works</h2>\n<p>Direct drive models use a directly mounted hydraulic motor, while planetary models are powered by a gear drive system. The motor turns the output shaft, which is connected to an auger bit to drill into the ground.</p>\n</div>\n</div>\n<h2 class=\"clearfix\">\u00a0Top Tasks</h2>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<ul>\n<li>Direct drive augers are ideal for digging holes for posts, piers, poles, or trees.</li>\n<li>Planetary augers deliver the power and force needed to dig in anchor applications and through other extreme ground conditions including rock, shale, clay and frost.</li>\n</ul>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Features</h2>\n<ul>\n<li><strong>Added Digging Depth</strong>: Gain an extra foot of dig depth over competitive units because the entire drive unit follows the bit into the hole. Watch the digging depth challenge to see how other brands compare.</li>\n<li><strong>Improved Torque</strong>: Bobcat\u00ae auger attachments deliver greater torque when it matters most. All augers have published torque ratings, but performance on the jobsite matters most. The torque challenge video evaluates the difference.</li>\n<li><strong>Direct Drive</strong>: Provides optimum balance between torque and RPM. Other brands use a planetary auger drive with more moving parts, greater maintenance needs and higher operating costs. Watch the maintenance comparison video to see for yourself.</li>\n<li><strong>Combination Hex and Round Output Shaft</strong>: A patented Bobcat technology, the combination output shaft allows for both hex and round bits to be utilized, maximizing parts versatility (models 15C and 30C).</li>\n<li><strong>Versatile Mounting System</strong>: Easy and efficient for attaching the auger to the carrier. Quickly and easily switch to a variety of multiple carriers.</li>\n<li><strong>Unique Knuckle Joint Design</strong>: allows the auger to dig vertical holes even if your Bobcat unit is on uneven terrain.</li>\n<li><strong>Auger Bits and Teeth</strong>: A wide variety to match your digging conditions.</li>\n</ul>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Ideal for installing fence posts, planting trees or digging footings for new decks</li>\n<li>Drills 6 to 48 in. diameter holes quickly and accurately</li>\n<li>Choose between direct drive and planetary options</li>\n<li>Hangs plumb on uneven terrain</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 172,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [8, 27],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/171" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=171"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/172"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=171" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=171"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=171"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

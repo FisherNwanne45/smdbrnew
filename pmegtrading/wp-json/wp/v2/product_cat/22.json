@@ -1,0 +1,28 @@
+{
+  "id": 22,
+  "count": 3,
+  "description": "Years of experience made in the lifting-equipment industry combined with strategic investments in research and development in mechanics and hydraulics brought the product-range to improve rapidly with new and innovative models of aerial work platforms. ",
+  "link": "https://pmegtrading.com/product-category/g-s-r",
+  "name": "GSR",
+  "slug": "g-s-r",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/22" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=22" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

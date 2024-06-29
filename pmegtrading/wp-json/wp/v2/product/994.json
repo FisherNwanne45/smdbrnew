@@ -1,0 +1,67 @@
+{
+  "id": 994,
+  "date": "2016-05-07T00:00:00",
+  "date_gmt": "2016-05-07T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/ps38a-combination-spray-station/"
+  },
+  "modified": "2017-11-06T15:22:31",
+  "modified_gmt": "2017-11-06T15:22:31",
+  "slug": "ps38a-combination-spray-station",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/ps38a-combination-spray-station",
+  "title": { "rendered": "PS38A Combination Spray Station" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: center;\">For both Spray Premix and Traditional Hand Spray GRC / GFRC</h3>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p>The PS38 \u201cCombination\u201d series is constructed around Power-Sprays\u2019 robust \u201cmulti-roller\u201d 38mm peristaltic pumps driven by powerful 3-phase electric motors and frequency inverter speed controllers . With the \u201cperistaltic pump\u201d no moving parts are in contact with the materials, enabling these pumps to convey a wide range of mixes. Therefore, the PS38 Combination Spray Stations can be used to manufacture Traditional Hand Spray and Spray Premix GRC / GFRC.</p>\n</div>\n</div>\n<div class=\"vc_empty_space\"></div>\n<div class=\"separator small left \"></div>\n</div>\n</div>\n</div>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<ul>\n<li>Peristaltic pump with \u201cmulti roller low pulse\u201d technology</li>\n<li>No moving parts in contact with the material to maintain strand integrity of fiber</li>\n<li>Simple cleaning with sponge ball</li>\n<li>High performance internal hose is easily removed for inspection or replacement</li>\n<li>Machine mounted, fully articulated spray support boom</li>\n<li>Variable speed control system</li>\n<li>Operates with both the MK5A Premix Spray and Concentric Spray guns</li>\n<li>Guns supplied with Spray Station</li>\n<li>Other formats and special drive systems (e.g. pneumatic) can be built to order</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The PS38 \u201cCombination\u201d series is constructed around Power-Sprays\u2019 robust \u201cmulti-roller\u201d 38mm peristaltic pumps driven by powerful 3-phase electric motors and frequency inverter speed controllers . With the \u201cperistaltic pump\u201d no moving parts are in contact with the materials, enabling these pumps to convey a wide range of mixes. Therefore, the PS38 Combination Spray Stations can be used to manufacture Traditional Hand Spray and Spray Premix GRC / GFRC.</p>\n",
+    "protected": false
+  },
+  "featured_media": 995,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [53, 23],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/994" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=994"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/995"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=994" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=994"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=994"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

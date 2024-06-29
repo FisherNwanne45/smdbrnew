@@ -1,0 +1,34 @@
+{
+  "id": 11,
+  "count": 6,
+  "description": "When you choose Bobcat\u00ae compact excavators you can expect top class machines with excellent performance and productivity. Bobcat compact excavators (also known as mini excavators) are all tested in the toughest conditions, ensuring that they maintain the Bobcat reputation for reliability and durability.",
+  "link": "https://pmegtrading.com/product-category/bobcat/bobcat-excavators",
+  "name": "Excavators",
+  "slug": "bobcat-excavators",
+  "taxonomy": "product_cat",
+  "parent": 27,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/11" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/27"
+      }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=11" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

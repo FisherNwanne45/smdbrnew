@@ -1,0 +1,65 @@
+{
+  "id": 8529,
+  "date": "2017-08-28T10:48:08",
+  "date_gmt": "2017-08-28T10:48:08",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=8529/" },
+  "modified": "2017-08-28T10:51:23",
+  "modified_gmt": "2017-08-28T10:51:23",
+  "slug": "k-3007-mobile-unit-for-precast-acid-etching",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/k-3007-mobile-unit-for-precast-acid-etching",
+  "title": { "rendered": "K-3007 Mobile Unit for Precast Acid Etching" },
+  "content": {
+    "rendered": "<div class=\"page-header\">\n<div class=\"page-header\">\n<div class=\"page-header\">\n<div class=\"page-header\">\n<div class=\"page-header\">\n<h2>K-3007 &#8211; Mobile Unit</h2>\n</div>\n<div>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-8479\" src=\"https://pmegtrading.com/wp-content/uploads/2017/08/K-3007-Mobile-Unit-for-Precast-Acid-Etching.jpg\" alt=\"K-3007 Mobile Unit for Precast Acid Etching\" width=\"800\" height=\"610\" srcset=\"https://pmegtrading.com/wp-content/uploads/2017/08/K-3007-Mobile-Unit-for-Precast-Acid-Etching.jpg 800w, https://pmegtrading.com/wp-content/uploads/2017/08/K-3007-Mobile-Unit-for-Precast-Acid-Etching-600x458.jpg 600w, https://pmegtrading.com/wp-content/uploads/2017/08/K-3007-Mobile-Unit-for-Precast-Acid-Etching-525x400.jpg 525w, https://pmegtrading.com/wp-content/uploads/2017/08/K-3007-Mobile-Unit-for-Precast-Acid-Etching-768x586.jpg 768w\" sizes=\"(max-width: 800px) 100vw, 800px\" />The high powered gasoline or diesel engine provides ample flow of hot water and chemical combined at pressure for a very rapid, high quality etch. Our patented Chemical Induction System is the only method that delivers this level of performance.</p>\n<h3>Applications</h3>\n<ul>\n<li>Precast Concrete Etching</li>\n<li>Cleaning brick faced panel removing retarder from exposed aggregate panels.</li>\n<li>Cleaning Forms, Mixers, other Equipment</li>\n<li>\u2026all other traditional pressure washer applications</li>\n</ul>\n<h3>Features</h3>\n<ul>\n<li><span class=\"red\">Acid Induction</span>\u00a0&#8211; Controlled Introduction of Chemical into High Pressure Water Stream \u2013\u00a0<span class=\"red\">No Other Machine Does This!</span></li>\n<li>Trailer or skid mount</li>\n<li>Choice of gasoline, diesel or electric power</li>\n</ul>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/08/K-3007-Brochure-011211.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>Download Product Overview</span>\n  </a>\n\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The high powered gasoline or diesel engine provides ample flow of hot water and chemical combined at pressure for a very rapid, high quality etch. Our patented Chemical Induction System is the only method that delivers this level of performance.</p>\n",
+    "protected": false
+  },
+  "featured_media": 8479,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [161, 160],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/8529" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=8529"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/8479"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=8529" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=8529"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=8529"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

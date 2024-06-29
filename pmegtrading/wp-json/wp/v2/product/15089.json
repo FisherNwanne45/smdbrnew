@@ -1,0 +1,67 @@
+{
+  "id": 15089,
+  "date": "2023-10-01T14:19:54",
+  "date_gmt": "2023-10-01T11:19:54",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15089"
+  },
+  "modified": "2023-10-01T17:45:59",
+  "modified_gmt": "2023-10-01T14:45:59",
+  "slug": "t86-compact-tracked-loader",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/t86-compact-tracked-loader",
+  "title": { "rendered": "T86 Compact Tracked Loader" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15093\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/2Bobcat_T86.webp\" alt=\"\" width=\"2100\" height=\"1401\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/2Bobcat_T86.webp 2100w, https://pmegtrading.com/wp-content/uploads/2023/10/2Bobcat_T86-600x400.webp 600w, https://pmegtrading.com/wp-content/uploads/2023/10/2Bobcat_T86-1199x800.webp 1199w, https://pmegtrading.com/wp-content/uploads/2023/10/2Bobcat_T86-768x512.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/2Bobcat_T86-1536x1025.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/2Bobcat_T86-2048x1366.webp 2048w\" sizes=\"(max-width: 2100px) 100vw, 2100px\" /></p>\n<table style=\"height: 157px;\" width=\"1062\">\n<tbody>\n<tr>\n<td width=\"361\">\n<h4><strong>Specifications</strong></h4>\n</td>\n<td width=\"71\"></td>\n</tr>\n<tr>\n<td>Operating Capacity</td>\n<td>1780 kg</td>\n</tr>\n<tr>\n<td>Tipping Load Capacity</td>\n<td>5087 kg</td>\n</tr>\n<tr>\n<td>Pump Capacity</td>\n<td>87.1 L.min</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Water Cooled</td>\n<td>D34 BSH SV</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>For maximum power and reach, there\u2019s only one number: T86. Because Bobcat\u00ae T86 is the highest-lifting compact track loader on the market &#8211; and the largest model we have ever constructed. It\u2019s ideal for intensive loading of high-sided trucks, hay wagons and mixers.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15091,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 9],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15089" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15089"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15091"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15089" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15089"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15089"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

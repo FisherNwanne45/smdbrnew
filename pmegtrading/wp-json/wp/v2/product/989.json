@@ -1,0 +1,67 @@
+{
+  "id": 989,
+  "date": "2016-05-07T00:00:00",
+  "date_gmt": "2016-05-07T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/ps10000a-grc-gfrc-spray-station/"
+  },
+  "modified": "2017-11-06T15:07:18",
+  "modified_gmt": "2017-11-06T15:07:18",
+  "slug": "ps10000a-grc-gfrc-spray-station",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/ps10000a-grc-gfrc-spray-station",
+  "title": { "rendered": "PS10000A GRC / GFRC Spray Station" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: center;\">For high quality\u00a0Traditional Hand Spray GRC / GFRC</h3>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p><span id=\"E183\">The PS9000 and PS10000\u00a0GRC / GFRC Spray Station series </span><span id=\"E184\">utilise the proven technology of</span><span id=\"E185\"> durable rotor/stator progressive cavity pumps</span><span id=\"E186\"> driven by tough 3-phase electric motors and reliable hydrostatic gearboxes</span><span id=\"E187\">. These have been developed for the traditional Hand Spray and Auto Spray processes where manufacture</span><span id=\"E188\">r</span><span id=\"E189\">s need to produce at high outputs whilst maintaining consistency of quality.</span></p>\n</div>\n</div>\n<div class=\"vc_empty_space\"></div>\n</div>\n</div>\n</div>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<ul>\n<li>Available with or without machine mounted articulated spray support boom</li>\n<li>Large diameter pneumatic wheels with articulated castors for total mobility</li>\n<li>Provided with spare pneumatic outlets for air supplies to ancillary tools</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p><span id=\"E183\">The PS9000 and PS10000\u00a0GRC / GFRC Spray Station series </span><span id=\"E184\">utilise the proven technology of</span><span id=\"E185\"> durable rotor/stator progressive cavity pumps</span><span id=\"E186\"> driven by tough 3-phase electric motors and reliable hydrostatic gearboxes</span><span id=\"E187\">. These have been developed for the traditional Hand Spray and Auto Spray processes where manufacture</span><span id=\"E188\">r</span><span id=\"E189\">s need to produce at high outputs whilst maintaining consistency of quality.</span></p>\n",
+    "protected": false
+  },
+  "featured_media": 990,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [53, 23],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/989" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=989"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/990"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=989" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=989"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=989"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

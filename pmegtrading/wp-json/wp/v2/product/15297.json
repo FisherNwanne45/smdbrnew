@@ -1,0 +1,67 @@
+{
+  "id": 15297,
+  "date": "2023-10-17T13:51:19",
+  "date_gmt": "2023-10-17T10:51:19",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15297"
+  },
+  "modified": "2023-10-17T13:55:20",
+  "modified_gmt": "2023-10-17T10:55:20",
+  "slug": "b780-backhoe-loader",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/b780-backhoe-loader",
+  "title": { "rendered": "B780 Backhoe Loader" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15303\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/b780-gallery-2.webp\" alt=\"\" width=\"1700\" height=\"838\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/b780-gallery-2.webp 1700w, https://pmegtrading.com/wp-content/uploads/2023/10/b780-gallery-2-800x394.webp 800w, https://pmegtrading.com/wp-content/uploads/2023/10/b780-gallery-2-1400x690.webp 1400w, https://pmegtrading.com/wp-content/uploads/2023/10/b780-gallery-2-768x379.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/b780-gallery-2-1536x757.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/b780-gallery-2-600x296.webp 600w\" sizes=\"(max-width: 1700px) 100vw, 1700px\" /></p>\n<p>&nbsp;</p>\n<table style=\"height: 156px;\" width=\"1019\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"101\"></td>\n</tr>\n<tr>\n<td>Max Digging Depth (Extendeble Boom)</td>\n<td>5800mm</td>\n</tr>\n<tr>\n<td>Travel Speed + 4WD</td>\n<td>40 km / hr</td>\n</tr>\n<tr>\n<td>Hydraulic Pump capacity</td>\n<td>154\u00a0 L/ minute</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Water Cooled</td>\n<td>Perkins / 1104C-44T</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Bobcat\u00ae B780 is powered by a 100 hp turbocharged engine, driven through a standard auto powershift transmission, and controlled by hydraulic joysticks. This highly maneuverable backhoe loader with 4 wheels of equal size gives you the choice of 3 steering modes: 2-wheel steer, 4-wheel steer, and crab steer. Double loader bucket cylinders give you superior breakout force and reduce maintenance costs thanks to the bolt-type cylinder head design.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15299,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [52, 27],
+  "product_tag": [10],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15297" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15297"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15299"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15297" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15297"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15297"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

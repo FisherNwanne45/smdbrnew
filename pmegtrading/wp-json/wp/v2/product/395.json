@@ -1,0 +1,65 @@
+{
+  "id": 395,
+  "date": "2016-04-09T00:00:00",
+  "date_gmt": "2016-04-09T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/e10-compact-excavator/" },
+  "modified": "2017-06-21T16:08:35",
+  "modified_gmt": "2017-06-21T16:08:35",
+  "slug": "e10-compact-excavator",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/e10-compact-excavator",
+  "title": { "rendered": "E10 Compact Excavator" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: center;\">The E10 is an easy to transport micro-excavator ideal to go through most standard door sizes.</h3>\n<p>The\u00a0retractable <strong>undercarriage</strong> ensures unmatched <strong>stability</strong> for this size of machine, while retracting easily to allow the excavator to <strong>pass through narrow openings</strong>. Combined with the integrated, <strong>foldable TOPS</strong>, it means that <strong>710 mm wide, low-headroom openings</strong> are no barrier to this model.</p>\n<p>This machine packs a big punch, whether used for demolition, construction or landscaping work. Thanks to the<strong>\u00a0Zero Tail Swing</strong>, this excavator is less likely to get damaged while working, thus providing a longer <strong>service life</strong> and lower total cost of ownership.</p>\n<p>Low noise and vibration levels ensure excellent <strong>operator comfort</strong> along with reduced environmental impact. The unique adjustable <strong>joystick controls</strong> on the E10 take comfort to unequalled levels.</p>\n<p>This model includes the <strong>2 speed</strong> as standard (up to 3.1 km/h) to quickly transport materials.</p>\n<p>The E10 is a true Zero Tail Swing, which means the operator can fully concentrate on the job on hand.</p>\n<p>\u00a0</p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2016/04/E08-E10_EN-brochure.pdf\" target=\"_blank\" class=\"button primary is-primary is-medium\" rel=\"noopener\"  >\n    <span>E10 Compact Excavator Brochure</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<h3>E10, operate comfortably where larger machines can not fit</h3>\n<ul class=\"float\">\n<li>Zero Tail Swing (ZTS) design for extra peace of mind</li>\n<li>Unique adjustable hydraulic joystick controls for comfortable and more precise operation</li>\n<li>2 speed operation for faster repositioning</li>\n<li>Powerful hydraulics for professional applications</li>\n<li>Retractable undercarriage for increased stability</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 396,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 11],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/395" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=395"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/396"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=395" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=395"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=395"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

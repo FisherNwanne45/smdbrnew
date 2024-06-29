@@ -1,0 +1,65 @@
+{
+  "id": 1944,
+  "date": "2017-02-15T08:29:25",
+  "date_gmt": "2017-02-15T08:29:25",
+  "guid": { "rendered": "https://pmegtrading.com/product/v-bp-7-backup-vacuum/" },
+  "modified": "2018-02-26T11:21:40",
+  "modified_gmt": "2018-02-26T11:21:40",
+  "slug": "v-bp-6-backup-vacuum",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/v-bp-6-backup-vacuum",
+  "title": { "rendered": "V-BP-6 Backpack Vacuum" },
+  "content": {
+    "rendered": "<h2 class=\"tn-large-header\" style=\"text-align: center;\">V-BP-6 Features and Benefits</h2>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>Comfortably clean almost anywhere with Tennant\u2019s V-BP-6 Backpack Vacuum:</h3>\n<ul>\n<li>Maximise operator comfort with the ergonomic vacuum harness that distributes weight to the operator\u2019s hips rather than back</li>\n<li>Increase applications with this 5.7 L vacuum that goes anywhere you go with tools for almost any surface</li>\n<li>Get Tennant quality with this durable backpack vacuum at an affordable price</li>\n</ul>\n<h3>Key machine features of the V-BP-6 Backpack Vacuum:</h3>\n<ul>\n<li>HEPA 4-stage filtration comes standard which can improve indoor air quality</li>\n<li>11 lbs / 5 kg lightweight design to increase comfort and reduce the hazards associated with heavier backpack vacuums</li>\n<li>Complete set of tools help adapt the V-BP-6 to your needs:\n<ul>\n<li>Double-bend adjustable wand</li>\n<li>Easy-glide carpet floor tool</li>\n<li>Hard floor tool</li>\n<li>Dust brush</li>\n<li>Upholstery tool</li>\n<li>Crevice tool</li>\n</ul>\n</li>\n</ul>\n</div>\n<div class=\"tn-featured-text-image right\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-1950\" src=\"https://pmegtrading.com/wp-content/uploads/2017/02/v-bp-7-left-side.jpg\" alt=\"V-BP-7 Backpack Vacuum\" width=\"449\" height=\"700\" srcset=\"https://pmegtrading.com/wp-content/uploads/2017/02/v-bp-7-left-side.jpg 449w, https://pmegtrading.com/wp-content/uploads/2017/02/v-bp-7-left-side-257x400.jpg 257w\" sizes=\"(max-width: 449px) 100vw, 449px\" /></div>\n</div>\n</div>\n<p class=\"tn-large-header\" style=\"text-align: center;\">\u00a0<a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/20122435_ten_family_vacuums_en-v19-lr.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Tennant\u2019s V-BP-6 Backpack Vacuum is easy to use on almost any premises, with its ergonomic, lightweight design, equipped standard with HEPA filtration and special tools for a customised cleaning experience.</p>\n",
+    "protected": false
+  },
+  "featured_media": 1946,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [49, 44],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1944" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1944"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1946"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1944" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1944"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1944"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": 164,
+  "count": 1,
+  "description": "\u062a\u062f\u0645\u062c \u0627\u0644\u0645\u062f\u0627\u062d\u0644 \u0627\u0644\u062e\u0644\u0641\u064a\u0629 \u0627\u0644\u0645\u062a\u0648\u0641\u0631\u0629 \u0645\u0646 \u0634\u0631\u0643\u0629 Ammann (\u0623\u0645\u0627\u0646) \u0627\u0633\u062a\u062e\u062f\u0627\u0645\u064a\u0646 \u0641\u064a \u0622\u0644\u0629 \u0648\u0627\u062d\u062f\u0629. \u064a\u062e\u062a\u0627\u0631 \u0627\u0644\u0645\u0634\u063a\u0651\u0644 \u0625\u0645\u0627 \u0627\u0644\u0639\u0645\u0644 \u0628\u0625\u0639\u062f\u0627\u062f \u0639\u0627\u0644\u064a \u0627\u0644\u0633\u0639\u0629 \u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645\u0647 \u0641\u064a \u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u062d\u0635\u0649 / \u0627\u0644\u062a\u0631\u0628\u0629 \u0623\u0648 \u0628\u0625\u0639\u062f\u0627\u062f \u0645\u0646\u062e\u0641\u0636 \u0627\u0644\u0633\u0639\u0629 \u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645\u0647 \u0641\u064a \u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0623\u0633\u0641\u0644\u062a \u0648\u0627\u0644\u0628\u064a\u062a\u0648\u0645\u064a\u0646.",
+  "link": "https://pmegtrading.com/ar/product-category/ammann/%d9%85%d8%af%d8%a7%d8%ad%d9%84-%d8%aa%d8%a7%d8%a8%d8%b9%d8%a9",
+  "name": "\u0645\u062f\u0627\u062d\u0644 \u062a\u0627\u0628\u0639\u0629",
+  "slug": "%d9%85%d8%af%d8%a7%d8%ad%d9%84-%d8%aa%d8%a7%d8%a8%d8%b9%d8%a9",
+  "taxonomy": "product_cat",
+  "parent": 112,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat/164" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      {
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/taxonomies/product_cat"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat/112"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product?product_cat=164"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

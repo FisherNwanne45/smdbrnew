@@ -1,0 +1,65 @@
+{
+  "id": 1774,
+  "date": "2017-02-14T09:07:42",
+  "date_gmt": "2017-02-14T09:07:42",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=1774" },
+  "modified": "2017-10-31T13:41:40",
+  "modified_gmt": "2017-10-31T13:41:40",
+  "slug": "s9-large-battery-sweeper",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/s9-large-battery-sweeper",
+  "title": { "rendered": "S9 Large Battery Sweeper" },
+  "content": {
+    "rendered": "<h2 class=\"tn-large-header\">S9 Features and Benefits</h2>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>Sweep SMARTER, not HARDER with TwinMax\u2122 Sweeping Technology</h3>\n<p>Clean your floors in a single pass with TwinMax Sweeping Technology. The twin, counter-rotating brushes combine overthrow and direct sweeping principles to capture large and small debris with one machine. TwinMax technology is designed for sweeping multiple floor surfaces in both indoor and outdoor environments.</p>\n<p><a href=\"http://www.tennantco.com/am-en/Pages/ProductDetails.aspx?item=S3#gallery-1\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" src=\"http://assets.tennantco.com/globalassets/webassets/tennant%20resources/fromglobalassets/twinmax-illustration-web.jpg\" alt=\"Tennant TwinMax\u2122 Sweeping Technology\" border=\"0\" /></a></p>\n<h3>Experience Maximum Productivity</h3>\n<p>Propel system makes cleaning quick and effortless. Dual side brushes increase the sweeping path to 35 in / 900 mm, and extra large hopper saves you trips to the dumpster, which gives you more time for cleaning.</p>\n<h3>Rely on Quality Construction and Proven Components</h3>\n<p>Major components field-proven in commercial applications for 10 years. Side brushes protected by brush bumper, and durable roto-molded design is backed by a 10 year, Tennant<i>True</i>\u00ae warranty.</p>\n<h3>Smart, Intuitive Design</h3>\n<p>Increase productivity with simple, no-tool side brush adjustments and easy-to-use operation for less time training and more time cleaning. Self-propelled operation and broom drive, combined with adjustable, ergonomically designed handle makes operator comfort a priority.</p>\n<h3>Versatile Anytime, Anywhere Cleaning</h3>\n<p>The S9\u2019s flexible design is well suited for large, indoor and outdoor areas. Quiet 62 dBA sound level means you can sweep anytime, anywhere, even in noise-sensitive environments.</p>\n</div>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/s9%20brochure_1.053.001.am.en.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Clean large indoor and outdoor areas quickly and effortlessly with dual side brushes and self-propelled operation. Quiet 62 dBA sound level and maintenance-free batteries make cleaning safe, anytime, anywhere. The S9\u2019s durable roto-mold design is backed by a 10-year Tennant<i>True</i>\u00ae Warranty.\u200b\u200b</p>\n",
+    "protected": false
+  },
+  "featured_media": 1778,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [46, 44],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1774" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1774"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1778"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1774" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1774"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1774"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

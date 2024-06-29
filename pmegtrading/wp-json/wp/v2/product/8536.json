@@ -1,0 +1,65 @@
+{
+  "id": 8536,
+  "date": "2017-08-28T14:37:32",
+  "date_gmt": "2017-08-28T14:37:32",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=8536/" },
+  "modified": "2017-11-05T09:36:21",
+  "modified_gmt": "2017-11-05T09:36:21",
+  "slug": "monorail-sc-134",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/monorail-sc-134",
+  "title": { "rendered": "MONORAIL SC-134" },
+  "content": {
+    "rendered": "<p>The <em>SKY CLIMBER</em>\u00ae SC-134 aluminum monorail profile is designed for easy mounting on every type of building or structure where a horizontal monorail solution is required. Because of the specially designed shape of the monorail extrusion, <em>SKY CLIMBER</em>\u00ae is able to produce monorail sections that are light weight but very strong.</p>\n<p>A wide range of bracket types insures a smooth monorail path at all times. Even unique architecture is\u00a0 no problem for the <em>SKY CLIMBER</em>\u00ae\u00a0 SC-134 monorail system.</p>\n<p>In combination with single or double suspension trolleys and our SKY PI/BMU cradles, the <em>SKY CLIMBER</em>\u00ae monorail system will provide you a safe, permanent and cost effective solution for all your access or maintenance problems.</p>\n<p>&nbsp;</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-shop_single wp-image-8447\" src=\"https://pmegtrading.com/wp-content/uploads/2017/08/MONORAIL-SC-134-Main-600x600.jpg\" alt=\"MONORAIL SC-134 Main\" width=\"600\" height=\"600\" /></p>\n<p>The <em>SKY CLIMBER</em>\u00ae SC-134 aluminum monorail profile is installed 550 mm away from the fa\u00e7ade. <em>SKY CLIMBER</em>\u00ae has standardized concepts of brackets that can be easily adjusted to most buildings and situations. <em>SKY CLIMBER</em>\u00ae is also capable of offering tailor made solutions. Special brackets fitting the existing architecture can be developed.</p>\n<p>The maximum distance between brackets is 2.5 m when used in combination with 500 kg hoists. When using 300 kg hoists the maximum bracket distance is 3 m. Smaller distances between brackets are possible upon request.</p>\n<p>All our brackets are manufactured out of hot dipped galvanized steel insuring they are weatherproof and strong. They are tested for strength and durability in our factory.</p>\n<h3>Top Mounted Brackets</h3>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-8401\" src=\"https://pmegtrading.com/wp-content/uploads/2017/08/MONORAIL-SC-134-7.jpg\" alt=\"MONORAIL SC-134 7\" width=\"536\" height=\"273\" /></p>\n<h3><strong>Top Side Mounted Brackets</strong></h3>\n<p>&nbsp;</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-8405\" src=\"https://pmegtrading.com/wp-content/uploads/2017/08/MONORAIL-SC-134-9.jpg\" alt=\"MONORAIL SC-134 9\" width=\"539\" height=\"274\" /></p>\n<h3><strong>Side Mounted brackets</strong></h3>\n<p>&nbsp;</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-8409\" src=\"https://pmegtrading.com/wp-content/uploads/2017/08/MONORAIL-SC-134-11.jpg\" alt=\"MONORAIL SC-134 11\" width=\"537\" height=\"295\" /></p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/08/monorail.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p class=\"text-info\">AN EFFECTIVE PERMANENT SOLUTION FOR ALL YOUR MAINTENANCE PROBLEMS.</p>\n<p>Sky Climber monorail systems are designed for easy mounting on every type of building or structure. The Sky Climber monorail profile SC134 can be mounted either with a top side, side or top mounting bracket. In combination with 1 or 2 Sky Climber electric or rope driven monorail trolleys, the monorail system will provide you an effective permanent solution for all your maintenance problems.</p>\n",
+    "protected": false
+  },
+  "featured_media": 8447,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [159],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/8536" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=8536"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/8447"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=8536" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=8536"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=8536"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

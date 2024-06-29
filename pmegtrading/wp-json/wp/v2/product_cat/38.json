@@ -1,0 +1,28 @@
+{
+  "id": 38,
+  "count": 5,
+  "description": "Architectural Polymers has been a leader and innovator in the concrete form fabrication industry for over 20 years, offering concrete solutions to meet the individual needs of your pre-cast, tilt-up and cast-in-place construction projects.  they developed a vast array of innovative methods that offer a superior solution to traditional brickwork and masonry and benefits the architectural community.  ",
+  "link": "https://pmegtrading.com/product-category/architectural-polymers",
+  "name": "Architectural Polymers",
+  "slug": "architectural-polymers",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/38" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=38" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

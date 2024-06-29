@@ -1,0 +1,65 @@
+{
+  "id": 163,
+  "date": "2016-04-08T00:00:00",
+  "date_gmt": "2016-04-08T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/angle-broom/" },
+  "modified": "2017-06-21T16:08:20",
+  "modified_gmt": "2017-06-21T16:08:20",
+  "slug": "angle-broom",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/angle-broom",
+  "title": { "rendered": "Angle Broom" },
+  "content": {
+    "rendered": "<p>Sweep a clean path easily and efficiently with the hydraulically-driven angle broom attachment. Quick removal jobs can be completed without damaging pavement surfaces.</p>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<p>The broom bristles have a waved design, delivering more surface clearing ability. This clears a cleaner path and can sweep more snow or debris in one pass. The angle broom attachment is compact, maneuverable and easy to operate, replacing manual labor and hand brooms. Clean small and large areas with less effort and in less time.</p>\n</div>\n</div>\n<h2 class=\"clearfix\">\u00a0Top Tasks</h2>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<ul>\n<li>Clear away dirt, dried mud, light snow and other debris</li>\n<li>Effective on driveways, sidewalks, parking lots, loading docks, warehouses and more</li>\n</ul>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>How It Works</h2>\n<p>The angle broom attachment uses a hydraulically-driven, rotating broom that pushes dirt and other debris away from the machine. The angle broom will continuously sweep debris ahead of the machine or angle the broom to windrow material to the side.</p>\n</div>\n</div>\n<h2 class=\"clearfix\">Features</h2>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<ul>\n<li><strong>Compact Design</strong>: Designed for maximum efficiency, the angle broom attachment is compact and highly maneuverable.</li>\n<li><strong>Easy Maintenance</strong>: Quick-change rotor design makes bristle replacement quick and easy. By simply removing two bolts, the entire rotor is released.</li>\n<li><strong>Angle Control</strong>: The smaller broom has manual angle up to 30 degrees left or right. The larger brooms feature electric-over-hydraulic control to provide infinite angle adjustment up to 25 degrees of angle adjustment to the left or right.</li>\n<li><strong>Fingertip Controls</strong>: Precise attachment control helps to finish the job quickly and efficiently, without having to leave the comfort of the cab \u2013 applies to larger brooms with electric-over-hydraulic angle only.</li>\n<li><strong>Flush Sweeping</strong>: Get as close as you want. Improved sweeping efficiency allows for flush sweeping to a curb or wall on the right side.</li>\n<li><strong>High-Torque Motor</strong>: With heavier materials and debris, the high-torque motor allows for maximum power for more efficient sweeping.</li>\n<li><strong>Storage Stands</strong>: Larger brooms include storage stands to provides maximum uptime protection by eliminating bristle distortion when the broom is not in use. On 68-inch and 84-inch angle broom attachments, the stands use a lever to swing the legs up or down. In the down position the legs are closer to the bristles to make attachment to the machine easier.</li>\n<li><strong>Patented Spring Design</strong>: Provides optimum down-pressure, extended bristle life and excellent cleaning ability (not available on 48-inch).</li>\n<li><strong>Bristles</strong>: Proven, replaceable, wafer polypropylene bristles provide excellent life and clean ability. Bristles have excellent durability and provide perfect flicking action for superior cleaning.</li>\n</ul>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>\u00a0</p>\n<ul>\n<li>Efficiently sweep driveways, sidewalks, jobsites, parking lots, loading docks and warehouses</li>\n<li>Clear light snowfalls</li>\n<li>48, 68 and 84 in. widths</li>\n<li>Angles up to 30 degrees left or right</li>\n</ul>\n<p>\u00a0</p>\n",
+    "protected": false
+  },
+  "featured_media": 164,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [8, 27],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/163" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=163"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/164"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=163" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=163"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=163"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

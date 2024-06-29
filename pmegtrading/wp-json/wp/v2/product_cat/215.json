@@ -1,0 +1,36 @@
+{
+  "id": 215,
+  "count": 2,
+  "description": "Practicality, simple handling, low operating costs, strong performance and absolute robustness is the focus of our machines and plants. Because we know well the tough production conditions in concrete plants. Made-to-measure automation is a matter of course for us.\r\n\r\nThe modular design of our machines and plants allows simple conversions and upgrades when production requirements change. We understand this to be future-oriented.",
+  "link": "https://pmegtrading.com/product-category/max-truder/precast-concrete-factory-equipment/maxplants",
+  "name": "MaxPlants",
+  "slug": "maxplants",
+  "taxonomy": "product_cat",
+  "parent": 29,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/215" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/29"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=215"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

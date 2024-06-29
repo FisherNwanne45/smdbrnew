@@ -1,0 +1,65 @@
+{
+  "id": 9115,
+  "date": "2018-03-29T07:44:10",
+  "date_gmt": "2018-03-29T07:44:10",
+  "guid": { "rendered": "https://pmegtrading.com?post_type=product&#038;p=9115" },
+  "modified": "2018-03-29T08:31:08",
+  "modified_gmt": "2018-03-29T08:31:08",
+  "slug": "afw-150-2-asphalt-pavers",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/afw-150-2-asphalt-pavers",
+  "title": { "rendered": "AFW 150-2 Asphalt Pavers" },
+  "content": {
+    "rendered": "<p><iframe loading=\"lazy\" width=\"1020\" height=\"574\" src=\"https://www.youtube.com/embed/ghZT7wEiav0?feature=oembed\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe></p>\n<p>&nbsp;</p>\n<p>The AFW 150-2 is a unique machine that has no competitors on the market. The tight turning radius and clearance width make it ideal for paving footpaths and handling repair work in narrow surroundings. The paver is easy to transport and allows a fast set-up on the jobsite.</p>\n<p>The AFW 150-2 is a three wheel paver: two in the rear to enable traction and one in front for steering. The fixed hopper can be side-loaded with a skid steer.</p>\n<p>The air-cooled diesel engine with electric start\u2009/\u2009stop is integrated with the hydraulic pumps. The hydrostatic transmission is engaged by a variable-flow pump that feeds two orbital motors fitted to the planetary drives of the wheels. A hydraulic control, mounted on the variable flow pump, enables smooth starts and stops. The paver also features hydraulic steering, easily controlled by the new steering wheel.</p>\n<h4 class=\"drawer-title\">OVERVIEW</h4>\n<div class=\"drawer-content\">\n<h6>HYDRAULICAL EXTENDABLE SCREED</h6>\n<p>The new -2 Generation of the AFW 150 features an hydraulic extendable screed, making operation even easier for the crew. With extensions of 2 \u00d7 175 mm the paving width can be extended up to 1650 mm in total.</p>\n<h6>ERGONOMIC OPERATOR STATION</h6>\n<p>A complete new operator station makes the work with the AFW 150-2 easier and allows new operators to get up to speed quickly. The intuitive dashboard and an ergonomic steering wheel allow simple operation even in stressful situations on site.</p>\n<h6>OPTIMIZED MATERIAL FLOW</h6>\n<p>With the AFW 150-2 you are guaranteed that you have the right amount of material delivered to your screed at any time. The material flow has been optimized by the use of a high quality chain belt conveyer as well as the enlarged auger with 120 mm diameter.</p>\n<h6>MATERIAL FLOW DEVIDER</h6>\n<p>To control the flow of material towards the screed the AFW\u00a0150-2 features a new flow divider system as standard. By adjusting the mechanical hand crank on either side of the machine the operator can select how much material he wants delivered, or weather he want to pave on only one side of the paver.</p>\n<h6>ADDITIONAL TRACTION WHEN NEEDED</h6>\n<p>Traction is a key factor for asphalt pavers. With its two back wheels the AFW 150-2 mini paver ensures sufficient traction on all terrains. Additional the machine can be equipped with twin wheels for additional traction.</p>\n<h6>LARGE SERVICE OPENING ON ENGINE HOOD</h6>\n<p>The complete service hood can be tilted in order to have exceptional access to the complete engine unit. A proof that Ammann provides solution that make you daily work easier.</p>\n<p>&nbsp;</p>\n</div>\n<div class=\"drawer-content\">\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2018/03/afw_150-2_asphalt_paver_sell_sheet_mss-1025-04-en-1.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>PRODUCT FAMILY OVERVIEW</span>\n  </a>\n\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The AFW 150-2 is a unique machine that has no competitors on the market. The tight turning radius and clearance width make it ideal for paving footpaths and handling repair work in narrow surroundings. The paver is easy to transport and allows a fast set-up on the jobsite.\u00a0The AFW 150-2 is a three wheel paver: two in the rear to enable traction and one in front for steering. The fixed hopper can be side-loaded with a skid steer.</p>\n",
+    "protected": false
+  },
+  "featured_media": 9079,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [28, 173],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/9115" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=9115"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/9079"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=9115" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=9115"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=9115"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

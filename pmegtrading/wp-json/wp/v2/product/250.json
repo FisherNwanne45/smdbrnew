@@ -1,0 +1,65 @@
+{
+  "id": 250,
+  "date": "2016-04-08T00:00:00",
+  "date_gmt": "2016-04-08T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/mower/" },
+  "modified": "2017-06-21T16:08:24",
+  "modified_gmt": "2017-06-21T16:08:24",
+  "slug": "mower",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/mower",
+  "title": { "rendered": "Mower" },
+  "content": {
+    "rendered": "<div class=\"row\">\n<div class=\"col-xs-12\">\n<h3 style=\"text-align: center;\">Mow the roughest terrain into a clean-cut landscape with the mower attachment.</h3>\n<p>The front-mounted unit cuts grass before it\u2019s driven over, allowing excellent working visibility of the area to be mowed. Powered by a direct-drive hydraulic motor, three overlapping blades eliminate skips for clean cutting action, discharging cut materials to the rear. And the unique frame design allows the mower to oscillate independently to follow uneven terrain, delivering a close, clean cut. From mowing roadside ditches to large acreages, the mower attachment is ideal for all mowing.</p>\n<p>The mower is the ideal maintenance attachment for golf courses, landscape contractors, nurseries, hobby farms, municipalities, and large-lot rural homeowners.</p>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Top Tasks</h2>\n<ul>\n<li>Mow road ditch right-of-ways, golf courses, roughs, athletic fields and large acreages</li>\n</ul>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>How It Works</h2>\n<p>The mower attachment is front-mounted to the carrier for maximum working visibility. Cut materials are discharged under the carrier and to the rear, away from buildings, trees and fences. To control cutting height, the castor wheels can be raised or lowered ranging from 2 to 5.5 in., in adjustable half-in. increments.</p>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Features</h2>\n<ul>\n<li><strong>Rear Discharge (Standard)</strong>: disperses grass clippings under the carrier, away from buildings, trees and fences.</li>\n<li><strong>Mulching and Side-Discharge Kits</strong>: Available to easily convert the mower to fit the application.</li>\n<li><strong>Anti-Scalping Wheel</strong>: Protects the mower blades from damage by touching the ground first when mowing over uneven terrain. Also, prevents the mower deck from scraping the ground, resulting in longer blade life and consistent cutting height.</li>\n<li><strong>Castor Wheels</strong>: Combined with the attachment frame, the castor wheels allow the mower to oscillate independently of the loader, providing a floating deck to better follow uneven terrain. Also, can be adjusted for different cutting heights, ranging from 2 to 5.5 in.</li>\n<li><strong>Cutting Blades</strong>: Designed for mowing efficiency, the mower attachment features three overlapping cutting blades that eliminate skips for even cutting action.</li>\n<li><strong>Deck Bracing</strong>: Located on the top of the mower to allow for a smooth bottom, delivering improved air and material flow.</li>\n<li><strong>Belt-Driven</strong>: For increased uptime protection, the hydraulic motor powers a single V-belt, eliminating shear pins and related downtime.</li>\n<li><strong>Front Mount</strong>: Mower attachment mounts to the front of the carrier for maximum working area visibility.</li>\n<li><strong>Safety Shut-Off</strong>: Incorporated into the attachment frame. If the mower exceeds 8.5 in. of vertical travel, the safety shut-off turns blade rotation off.</li>\n<li><strong>Blade Mounting</strong>: Dual mounting bolts make blade replacement easy.</li>\n</ul>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Features three overlapping blades and floating deck</li>\n<li>Delivers clean, even cut on right-of-ways, golf course roughs and large acreages</li>\n<li>Front-mounted mower eliminates driving over the grass before cutting</li>\n<li>Cutting widths of 71.5 and 89.5 in.</li>\n<li>Adjustable cutting heights from 2 to 5.5 in. in half-inch increments</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 251,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [8, 27],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/250" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=250"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/251"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=250" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=250"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=250"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

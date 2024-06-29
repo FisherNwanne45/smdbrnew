@@ -1,0 +1,67 @@
+{
+  "id": 974,
+  "date": "2016-05-07T00:00:00",
+  "date_gmt": "2016-05-07T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/light-weight-facing-coat-spray-gun/"
+  },
+  "modified": "2017-11-06T14:41:39",
+  "modified_gmt": "2017-11-06T14:41:39",
+  "slug": "light-weight-facing-coat-spray-gun",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/light-weight-facing-coat-spray-gun",
+  "title": { "rendered": "Light Weight Facing Coat Spray Gun" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: center;\">For spraying Mist Coats and pumpable Spray Coats</h3>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p>The Lightweight Mist Coat spray gun or LW gun is probably the most popular \u201cpump fed\u201d facing coat spray gun used by the GRC / GFRC industry Worldwide. \u00a0The LW Mist Coat Spray Head is used for the smooth application of the initial, \u201cnon-reinforced\u201d\u00a0surface layer (mist coat).</p>\n</div>\n</div>\n<div class=\"vc_empty_space\"></div>\n</div>\n</div>\n</div>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<ul>\n<li>Designed for use with the Power-Sprays range of spray stations</li>\n<li>Can also be used \u2018on-site\u2019 with the PS4000</li>\n<li>Concrete repair</li>\n<li>Protective coatings</li>\n<li>Specialist cementitious materials</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Lightweight Mist Coat spray gun or LW gun is probably the most popular \u201cpump fed\u201d facing coat spray gun used by the GRC / GFRC industry Worldwide. \u00a0The LW Mist Coat Spray Head is used for the smooth application of the initial, \u201cnon-reinforced\u201d\u00a0surface layer (mist coat).</p>\n",
+    "protected": false
+  },
+  "featured_media": 975,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [54, 23],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/974" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=974"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/975"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=974" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=974"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=974"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

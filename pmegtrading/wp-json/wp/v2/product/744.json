@@ -1,0 +1,67 @@
+{
+  "id": 744,
+  "date": "2016-04-23T00:00:00",
+  "date_gmt": "2016-04-23T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/ap-240-pneumatic-tyred-rollers/"
+  },
+  "modified": "2017-06-21T16:09:02",
+  "modified_gmt": "2017-06-21T16:09:02",
+  "slug": "ap-240-pneumatic-tyred-rollers",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/ap-240-pneumatic-tyred-rollers",
+  "title": { "rendered": "AP 240 \u2013 Pneumatic Tyred Rollers" },
+  "content": {
+    "rendered": "<p>A ballasting range of 9.5 tonnes to 24 tonnes helps make the Ammann AP 240 Tier 2 Pneumatic Tyred Roller a good fit on diverse jobsites.</p>\n<p>Also helping with flexibility is the air-on-the-run system, which the operator uses to adjust tyre pressures without ever leaving the cab. The optional Ammann Traction Control (ATC) boosts productivity on tough terrain.</p>\n<p>The proven hydrodynamic propulsion system ensures productivity. Quality Ammann components and engineering enable reliability and long life.</p>\n<h4 class=\"drawer-title\">OVERVIEW</h4>\n<div class=\"drawer-content\">\n<ul>\n<li>Rigid frame</li>\n<li>Steerable front isostatic axle with oscillating wheels</li>\n<li>Spacious and comfortable cab</li>\n<li>Rear drive axle</li>\n<li>2 working stations</li>\n<li>Intuitive control and handling</li>\n<li>Exceptional operator visibility</li>\n<li>Mechanical turbo-aspirated Cummins diesel engine</li>\n<li>Air-on-the-run for effortless tyre pressure adjustment; controlled from cab</li>\n<li>Concrete ballast of 2800 kg</li>\n<li>Solid steel ballast of 6000 kg</li>\n<li>Additional ballasting space of 3 m\u00b3 in frame</li>\n<li>Easy access to service points, drain ports and filters</li>\n</ul>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/ap_art_pneumatic_rollers_mpb-1496-00-en.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>PRODUCT FAMILY OVERVIEW</span>\n  </a>\n\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Rigid frame</li>\n<li>Steerable front isostatic axle with oscillating wheels</li>\n<li>Spacious and comfortable cab</li>\n<li>Rear drive axle</li>\n<li>2 working stations</li>\n<li>Intuitive control and handling</li>\n<li>Exceptional operator visibility</li>\n<li>Mechanical turbo-aspirated Cummins diesel engine</li>\n<li>Air-on-the-run for effortless tyre pressure adjustment; controlled from cab</li>\n<li>Concrete ballast of 2800 kg</li>\n<li>Solid steel ballast of 6000 kg</li>\n<li>Additional ballasting space of 3 m\u00b3 in frame</li>\n<li>Easy access to service points, drain ports and filters</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 1672,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [28, 14],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/744" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=744"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1672"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=744" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=744"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=744"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

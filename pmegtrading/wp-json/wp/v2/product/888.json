@@ -1,0 +1,65 @@
+{
+  "id": 888,
+  "date": "2017-06-20T08:35:28",
+  "date_gmt": "2017-06-20T08:35:28",
+  "guid": { "rendered": "https://pmegtrading.com/product/360-delta-4/" },
+  "modified": "2023-10-18T14:50:37",
+  "modified_gmt": "2023-10-18T11:50:37",
+  "slug": "360-delta-4",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/360-delta-4",
+  "title": { "rendered": "360 DELTA 4" },
+  "content": {
+    "rendered": "<p><strong>EXPERIENCE VISIBILITY</strong></p>\n<p>Self loading concrete mixer \u2013 Net output 4,5 m3 (S1 class) \u2013 Load and cast through the full 360\u00b0 (continuous rotation) \u2013 4 wheel driving and steering \u2013 Articulated bucket integral with rotating frame \u2013 Cab integral with 360\u00b0 rotating frame (continuous rotation).</p>\n<p>The 360 DELTA 4 presents itself as the solution to visibility issues that every other conventional mixer suffers from. Dead angles which inhibit direct view can affect safety and productivity, delaying return on your investment. The 360 DELTA 4 addresses this problem with superior visibility.</p>\n<p>\u00a0</p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2016/05/DAVINO-360DELTA4-En.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Self loading concrete mixer \u2013 Net output 4,5 m3 (S1 class) \u2013 Load and cast through the full 360\u00b0 (continuous rotation) \u2013 4 wheel driving and steering \u2013 Articulated bucket integral with rotating frame \u2013 Cab integral with 360\u00b0 rotating frame (continuous rotation).</p>\n",
+    "protected": false
+  },
+  "featured_media": 889,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [21, 224],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/888" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=888"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/889"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=888" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=888"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=888"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

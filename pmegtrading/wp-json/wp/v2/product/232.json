@@ -1,0 +1,65 @@
+{
+  "id": 232,
+  "date": "2016-04-08T00:00:00",
+  "date_gmt": "2016-04-08T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/landscape-rake/" },
+  "modified": "2017-06-21T16:08:23",
+  "modified_gmt": "2017-06-21T16:08:23",
+  "slug": "landscape-rake",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/landscape-rake",
+  "title": { "rendered": "Landscape Rake" },
+  "content": {
+    "rendered": "<div class=\"row\">\n<div class=\"col-xs-12\">\n<h3 style=\"text-align: center;\">Give any worksite the perfect finish with the landscape rake attachment.</h3>\n<p>Rake and collect surface debris while smoothing and leveling the soil. It picks up 3/4-in. and larger rocks as well as most 1/2-in. rocks. When full, dump the debris collected by the landscape rake for a completely clean finish.</p>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Top Tasks</h2>\n<ul>\n<li>Remove debris, prepare seedbeds and level soil before laying turf</li>\n<li>Smooth soil</li>\n<li>Collect surface debris for site clean-up</li>\n<li>Prepare lawns for spreading topsoil</li>\n</ul>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>How It Works</h2>\n<p>Rake bars connected to a chain are driven by a hydraulic motor. The bars rake debris into the bucket while preparing soil for sod or seed.\u00a0\u00a0 The operator can use the attachment\u2019s adjustable side skis to control the depth. A hydraulic cylinder opens the top cover for easy dumping, and allows the bucket and cutting edge to push and scrape debris.</p>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Features</h2>\n<ul>\n<li><strong>Hard Teeth</strong>: For maximum uptime protection, the teeth are hardened to withstand more wear and tear when working in the soil, increasing the life of the attachment.</li>\n<li><strong>Rake Bars</strong>: Deliver better leveling because of longer ground contact. Individually replaceable.</li>\n<li><strong>Side Skis</strong>: Provide adjustable depth control, leaving only a slight, knife-edge mark in the finished surface.</li>\n<li><strong>Top Cover</strong>: When materials have been collected, the top cover opens for easy dumping which leaves behind a cleaner finish.</li>\n<li><strong>Bob-Tach\u2122 Mounting System</strong>: Makes easy work of attaching and detaching the landscape rake from the loader. Fast and easy mounting means spending less time on attachment changes and more time on the job.</li>\n</ul>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Rake and collect surface debris while smoothing and leveling soil</li>\n<li>Picks up rocks 3/4-in. and larger and most 1/2-in. rocks</li>\n<li>60- and 72-in. working widths</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 233,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [8, 27],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/232" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=232"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/233"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=232" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=232"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=232"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

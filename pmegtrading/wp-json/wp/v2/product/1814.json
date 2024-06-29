@@ -1,0 +1,65 @@
+{
+  "id": 1814,
+  "date": "2017-02-14T10:04:34",
+  "date_gmt": "2017-02-14T10:04:34",
+  "guid": { "rendered": "https://pmegtrading.com/product/3640-sweeper/" },
+  "modified": "2017-10-31T13:21:56",
+  "modified_gmt": "2017-10-31T13:21:56",
+  "slug": "3640-sweeper",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/3640-sweeper",
+  "title": { "rendered": "3640 Sweeper" },
+  "content": {
+    "rendered": "<h2 class=\"tn-large-header\">\u00a03640 Features and Benefits</h2>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>Customizable and versatile 3640 walk behind floor sweeper adapts to a variety of harsh environments:</h3>\n<ul>\n<li>Sweep even the toughest manufacturing and industrial environments with the 3640\u2019s durable design</li>\n<li>Reduce user fatigue while sweeping with variable speed propelling system</li>\n<li>Customize the 3640 with options to perfectly match your indoor and outdoor sweeping needs</li>\n</ul>\n</div>\n<div class=\"tn-featured-text-image right\"><img decoding=\"async\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Sweeper%20Walk-Behinds/Media%20Gallery%20Images/3640-env-3D-drawing.jpg\" alt=\"389;#3640 Feature Image\" /></div>\n</div>\n<div></div>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-image left\"><img decoding=\"async\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Sweeper%20Walk-Behinds/Media%20Gallery%20Images/3640-env-brush-change.jpg\" alt=\"389;#3640 Feature Image\" /></div>\n<div class=\"tn-featured-text-wrap right\">\n<h3>Key machine features of the 3640 walk behind floor sweeper:</h3>\n<ul>\n<li>Dual side brushes extend the sweeper\u2019s reach for greater productivity</li>\n<li>Optional HEPA filter traps dust for a healthier environment for your operators and customers</li>\n<li>Simple maintenance with tool-free brush changes and easy-to-access battery</li>\n</ul>\n</div>\n</div>\n<div></div>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>Choose the ideal sweeping technology for your environment:</h3>\n<ul>\n<li>Live vacuum wand cleans tight corners and other hard-to-reach places</li>\n<li>Extended run-time battery package available for more uninterrupted cleaning time</li>\n<li>Outdoor package includes wider pneumatic tires and larger front casters</li>\n<li>Optional hopper dump-assist handle tilts the hopper out of its cradle for easier dumping</li>\n<li>HEPA panel filter with an optional timed shaker provides better dust control</li>\n</ul>\n<p>\u200b\u200b</p>\n</div>\n<div class=\"tn-featured-text-image right\"><img decoding=\"async\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Sweeper%20Walk-Behinds/Media%20Gallery%20Images/3640-env-vac-wand.jpg\" alt=\"389;#3640 Feature Image\" /></div>\n</div>\n<div class=\"tn-featured-text-image right\"></div>\n<div class=\"tn-featured-text-image right\"></div>\n<div class=\"tn-featured-text-image right\"></div>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/3640_brochure_1.043.001.am_.en_.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Clean almost any environment with the versatile 3640 walk behind floor sweeper. Durable construction makes 3640 perfect for manufacturing and industrial applications.</p>\n",
+    "protected": false
+  },
+  "featured_media": 1818,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [46, 44],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1814" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1814"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1818"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1814" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1814"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1814"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

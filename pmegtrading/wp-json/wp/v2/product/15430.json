@@ -1,0 +1,67 @@
+{
+  "id": 15430,
+  "date": "2023-10-18T11:22:45",
+  "date_gmt": "2023-10-18T08:22:45",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15430"
+  },
+  "modified": "2023-10-18T13:17:53",
+  "modified_gmt": "2023-10-18T10:17:53",
+  "slug": "ars122-soil-compactor",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/ars122-soil-compactor",
+  "title": { "rendered": "ARS122 Soil Compactor" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15432\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/ars_122_soil_compactor_1845_200629.webp\" alt=\"\" width=\"1600\" height=\"900\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/ars_122_soil_compactor_1845_200629.webp 1600w, https://pmegtrading.com/wp-content/uploads/2023/10/ars_122_soil_compactor_1845_200629-711x400.webp 711w, https://pmegtrading.com/wp-content/uploads/2023/10/ars_122_soil_compactor_1845_200629-1400x788.webp 1400w, https://pmegtrading.com/wp-content/uploads/2023/10/ars_122_soil_compactor_1845_200629-768x432.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/ars_122_soil_compactor_1845_200629-1536x864.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/ars_122_soil_compactor_1845_200629-600x338.webp 600w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" /></p>\n<p>&nbsp;</p>\n<table style=\"height: 161px;\" width=\"1106\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"239\"></td>\n</tr>\n<tr>\n<td>Operating Weight</td>\n<td>10100 kg</td>\n</tr>\n<tr>\n<td>Working Width / Gradability with Vibration</td>\n<td>213 cm / 45 %</td>\n</tr>\n<tr>\n<td>Compaction Force and Frequency</td>\n<td>160-275 kN / 32-35 Hz</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Air Cooled</td>\n<td>cummins 4 BTA.3,9-C99 74 kW &#8211; 99 hp</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Ammann ARS 122 Soil Compactor provides outstanding productivity and reliability and is the industry leader in compaction efficiency. The powerful engine and heavy-duty hydrostatic drive of the wheels ensures great traction and travel performance at lower operating cost. The roller is suitable for compaction of a wide range of soil, from silt to crushed stones.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15438,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [28, 16],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15430" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15430"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15438"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15430" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15430"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15430"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

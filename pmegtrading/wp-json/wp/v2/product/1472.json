@@ -1,0 +1,65 @@
+{
+  "id": 1472,
+  "date": "2017-02-02T07:07:28",
+  "date_gmt": "2017-02-02T07:07:28",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=1472" },
+  "modified": "2017-06-21T16:09:38",
+  "modified_gmt": "2017-06-21T16:09:38",
+  "slug": "b730-backhoe-loader",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/b730-backhoe-loader",
+  "title": { "rendered": "B730 Backhoe Loader" },
+  "content": {
+    "rendered": "<p>With 4 strong, versatile models \u2212 and a wide range of Bobcat optional equipment \u2212 the Backhoe Loader can be configured exactly for the job. Whatever the application \u2212 digging, trenching, breaking or material handling (just to name a few) \u2212 Bobcat Backhoe Loaders have the power to perform it efficiently with the best-in-class 100 HP engine under the hood.</p>\n<p>-These machines have a dynamic design and all of the features that enhance productivity and efficiency while reducing operating cost. Moreover, they are smooth and very comfortable to work with. This new Backhoe Loader completes the pioneering range of Bobcat loaders, including: the legendary Bobcat Skid-Steer Loaders (SSL), the reliable Mini-Excavators (MEX), the powerful Compact Track Loaders (CTL), and the rugged Telescopic Handlers (TLS).</p>\n<p>The Backhoe Loader augments Bobcat\u2019s iconic image as a premium brand in the compact equipment industry and enables Bobcat to make the bridge between its compact line and the Doosan heavy line. This machine clearly positions Bobcat and its products as a complete and powerful compact brand that all customers can rely on.</p>\n<p>\u00a0</p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/EN_New-Backhoe-Loaders-by-Bobcat.pdf\" target=\"_blank\" class=\"button primary is-primary is-medium\" rel=\"noopener\"  >\n    <span>View PDF Version</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Best-in-class 100 HP engine, matched with reliable and durable components</p>\n<p>The standard 4.4 litre, 4 cylinder, 100 HP turbocharged diesel engine delivers more power to respond to the most demanding applications while reducing operating cost.</p>\n",
+    "protected": false
+  },
+  "featured_media": 1479,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [52, 27],
+  "product_tag": [10],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1472" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1472"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1479"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1472" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1472"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1472"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

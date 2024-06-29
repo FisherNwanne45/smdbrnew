@@ -1,0 +1,65 @@
+{
+  "id": 8117,
+  "date": "2017-08-27T12:29:52",
+  "date_gmt": "2017-08-27T12:29:52",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=8117/" },
+  "modified": "2017-11-05T09:48:53",
+  "modified_gmt": "2017-11-05T09:48:53",
+  "slug": "gm1ze-green-machine",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/gm1ze-green-machine",
+  "title": { "rendered": "GM1ze Green Machine" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-8122\" src=\"https://pmegtrading.com/wp-content/uploads/2017/08/GM1ze-Green-Machine-Main.jpg\" alt=\"GM1ze Green Machine Main\" width=\"600\" height=\"600\" srcset=\"https://pmegtrading.com/wp-content/uploads/2017/08/GM1ze-Green-Machine-Main.jpg 600w, https://pmegtrading.com/wp-content/uploads/2017/08/GM1ze-Green-Machine-Main-300x300.jpg 300w, https://pmegtrading.com/wp-content/uploads/2017/08/GM1ze-Green-Machine-Main-100x100.jpg 100w, https://pmegtrading.com/wp-content/uploads/2017/08/GM1ze-Green-Machine-Main-280x280.jpg 280w, https://pmegtrading.com/wp-content/uploads/2017/08/GM1ze-Green-Machine-Main-400x400.jpg 400w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></p>\n<p>First impressions count. This does not only apply to people but also to towns, cities and municipalities. Neat and tidy public green areas, roads and paths do not only contribute to a good image for visitors and the local inhabitants, but are also a sign of a council which works perfectly.</p>\n<p>And they encourage people to keep the city clean and tidy. As far as cleaning is concerned, many details and secondary effects are important, especially as viewed by a critical public. In this context, economic efficiency is equally important as environmental compatibility.</p>\n<p>For many years now, Green Machines have aimed to contribute decisively towards cleaner and tidier towns and cities by providing efficient and sophisti- cated sweeping machines. The electri- cally operated zero emission models are the most recent outcome of this engineering work.</p>\n<p>They not only match the exacting sustainability concepts of\u00a0urban centers, but are also extremely attractive, especially in term of costs. We have also managed to enhance the performance of all Green Machines with conventional drive systems thanks to a host of clever details. For a city, its inhabitants, the environment and for all those who handle it on a daily basis. Welcome to Green Machines!</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/08/GM1ze_Brochure.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The revolutionary GM1ze makes broom, picker and refuse pushcart a thing of the past.<br />\nThis compact machine saves time thanks to the powerful storage battery, is easy to operate and considerably enhances hygiene and safety.</p>\n<p>Bye bye refuse! Thanks to the GM1ze.<br />\nThe features of GM1ze are obvious: special narrow design and a maximum operating time between 8 and 16 hours (depending on use).<br />\nThe GM1ze is predestined for low noise areas and offers improved motivation and appreciation of work for cleaning staff.</p>\n",
+    "protected": false
+  },
+  "featured_media": 8122,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [157],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/8117" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=8117"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/8122"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=8117" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=8117"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=8117"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 256,
+  "date": "2016-04-08T00:00:00",
+  "date_gmt": "2016-04-08T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/pallet-fork/" },
+  "modified": "2017-06-21T16:08:24",
+  "modified_gmt": "2017-06-21T16:08:24",
+  "slug": "pallet-fork",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/pallet-fork",
+  "title": { "rendered": "Pallet Fork" },
+  "content": {
+    "rendered": "<div class=\"row\">\n<div class=\"col-xs-12\">\n<h3 style=\"text-align: center;\">Compact equipment provides tremendous carrying capacities in a small package.</h3>\n<p>Move bulky, bagged or palletized material quickly and easily with the pallet fork attachment.</p>\n<p>Adjustable forks load and unload, lift and carry, move and place materials around a variety of jobsites. With hydraulic pallet fork, position the forks from the operator seat for maximum operator comfort and efficiency.</p>\n<p>Save time and labor costs by lifting, carrying, and moving with the pallet fork attachment. Put it to work on applications such as industrial plant and landscaping work, construction sites, farm chores, fertilizer handling, and municipal projects.</p>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Top Tasks</h2>\n<ul>\n<li>Lift and move bales</li>\n<li>Unload landscape rock</li>\n<li>Transport building supplies</li>\n<li>Unload freight</li>\n<li>Unload lumber, shingles, siding, fencing and block</li>\n</ul>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Features</h2>\n<ul>\n<li><strong>ISO 2330:2002 Standards</strong>: Bobcat pallet forks meet ISO 2330:2002 standards for yield and fatigue tests. In addition, the frame is thoroughly tested for strength and longevity. Watch the pallet fork strength video to see how other brands compare.</li>\n<li><strong>Standard and Heavy Duty Teeth</strong>: From 30 to 48 inches.</li>\n<li><strong>Entry/Exit Step</strong>: Easier and safer entry and exit from the machine.</li>\n<li><strong>Visibility</strong>: Good visibility at ground and truckbed heights.</li>\n<li><strong>Two Models with Hydraulically Adjustable Forks</strong>: While on the job, adjust positioning of the forks from the operator seat, delivering maximum comfort and efficiency.</li>\n</ul>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-sm-6 first-child\">\n<h2>Pallet Fork Strength</h2>\n<p>Make sure your pallet fork is built for years of lifting, carrying and moving materials. In this test, pallet forks are put through a two-part test to evaluate their frame and tine strength. See why Bobcat pallet forks offer strength and endurance that exceed the industry benchmarks.</p>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Easily lift, carry and place materials</li>\n<li>Optional heavy-duty pallet fork and frame</li>\n<li>Optional hydraulic fork positioning</li>\n</ul>\n<p>\u00a0</p>\n",
+    "protected": false
+  },
+  "featured_media": 257,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [8, 27],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/256" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=256"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/257"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=256" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=256"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=256"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

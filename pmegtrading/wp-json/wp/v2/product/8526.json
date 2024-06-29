@@ -1,0 +1,65 @@
+{
+  "id": 8526,
+  "date": "2017-08-28T10:15:39",
+  "date_gmt": "2017-08-28T10:15:39",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=8526/" },
+  "modified": "2017-08-28T10:19:19",
+  "modified_gmt": "2017-08-28T10:19:19",
+  "slug": "hot-melting-compound",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/hot-melting-compound",
+  "title": { "rendered": "Hot Melting Compound" },
+  "content": {
+    "rendered": "<h3>Jacobson Chemicals Flexil How Melt Compound</h3>\n<p>Flexil Hot Melt compound is a solid flexible PVC preparation that can be melted and poured over a plaster or stone model. Once cooled Flexil HMC regains it&#8217;s original nature holding the shape of the model.</p>\n<p>&nbsp;</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-8107\" src=\"https://pmegtrading.com/wp-content/uploads/2017/08/Flexil-HMC-Revised.jpg\" alt=\"DPS100+FM (002)\" width=\"801\" height=\"1128\" srcset=\"https://pmegtrading.com/wp-content/uploads/2017/08/Flexil-HMC-Revised.jpg 801w, https://pmegtrading.com/wp-content/uploads/2017/08/Flexil-HMC-Revised-600x845.jpg 600w, https://pmegtrading.com/wp-content/uploads/2017/08/Flexil-HMC-Revised-284x400.jpg 284w, https://pmegtrading.com/wp-content/uploads/2017/08/Flexil-HMC-Revised-768x1082.jpg 768w, https://pmegtrading.com/wp-content/uploads/2017/08/Flexil-HMC-Revised-568x800.jpg 568w\" sizes=\"(max-width: 801px) 100vw, 801px\" /></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Excellent reproduction</li>\n<li>Variety of hardiness to meet every requirements</li>\n<li>Good dimensional stability</li>\n<li>The facility to re-melt</li>\n<li>Excellent mold life with good mold release</li>\n<li>Low Fuming of melted Product</li>\n<li>Low cost mould production</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 8109,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [40, 158],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/8526" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=8526"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/8109"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=8526" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=8526"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=8526"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

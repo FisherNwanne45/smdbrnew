@@ -1,0 +1,67 @@
+{
+  "id": 2211,
+  "date": "2017-02-20T10:00:23",
+  "date_gmt": "2017-02-20T10:00:23",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=2211" },
+  "modified": "2017-06-21T16:11:32",
+  "modified_gmt": "2017-06-21T16:11:32",
+  "slug": "acrylic-polymer-curing-agent-polycure-ft-polycure-ft-extra",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/acrylic-polymer-curing-agent-polycure-ft-polycure-ft-extra",
+  "title": {
+    "rendered": "Acrylic Polymer Curing Agent \u2013 Polycure FT &#038; Polycure FT Extra"
+  },
+  "content": {
+    "rendered": "<ul>\n<li>GRC Products are required to be moist cured to ensure sufficient retained moisture for complete hydration of cement.</li>\n<li>Acrylic Polymer eliminates the need of moist curing for GRC by forming a film within the matrix during the first few hours of curing. This significantly reduces the permeability and thus lessens loss of water by evaporation ensuring that sufficient water is available for complete hydration</li>\n<li>It reduces the quantity of water required and can be used with other Plasticizers and Super Plasticizers</li>\n<li>It is Easy to Dose</li>\n<li>Its use Frees up the Factory Space Reserved for Moist Curing of GRC Elements</li>\n</ul>\n<p>Large stocks of Polymer are available for immediate despatch from our UK warehouse to Europe and the rest of the world.</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignleft size-full wp-image-602\" title=\"polycure\" src=\"http://www.fibretech.org/wp-content/uploads/2011/02/polycure.jpg\" alt=\"Polycure FT Polymer for GRC\" width=\"150\" height=\"181\" /></p>\n<p><strong>Why use the Polycure FT Curing System?</strong></p>\n<p>Cementitious products should be moist cured to ensure that there is sufficient retained moisture for complete hydration of the cement. This is particularly critical for thin skin GRC products.</p>\n<p>When <a title=\"\" href=\"https://pmegtrading.com/wp-content/uploads/2017/02/Polycure-FT-TD.pdf\" target=\"_blank\">Polycure FT</a> or <a title=\"\" href=\"https://pmegtrading.com/wp-content/uploads/2017/02/Polycure-FT-Extra-TD.pdf\" target=\"_blank\">Polycure FT Extra</a> is added to the mix at the recommended dosage it forms a film within the matrix during the first few hours of curing. The formation of this film significantly reduces the permeability and thus lessens the loss of water by evaporation ensuring that sufficient water is available for complete hydration.</p>\n<p>\u00a0</p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/Polycure-FT-TD.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>Download the Polycure FT brochure</span>\n  </a>\n\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/Polycure-FT-Extra-TD.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>Download the Polycure FT Extra brochure</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Reduces the quantity of water required</li>\n<li>Easy to dose</li>\n<li>Can be used with additional plasticisers or super plasticisers</li>\n<li>Contains an antifoaming agent</li>\n<li>Will free up factory space reserved for curing</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 2212,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [35, 33],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/2211" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=2211"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/2212"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=2211" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=2211"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=2211"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

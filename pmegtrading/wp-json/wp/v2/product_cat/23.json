@@ -1,0 +1,28 @@
+{
+  "id": 23,
+  "count": 20,
+  "description": "Established in 1962, Power-Sprays Ltd. has been involved with the design, development and manufacture of specialist equipment for mixing, pumping and spraying cementitious composites for over 50 years. Power-Sprays offer a comprehensive range of equipment specifically designed for the production of high quality GRC/GFRC:",
+  "link": "https://pmegtrading.com/product-category/power-spray",
+  "name": "Power Spray",
+  "slug": "power-spray",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/23" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=23" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

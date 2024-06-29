@@ -1,0 +1,67 @@
+{
+  "id": 2045,
+  "date": "2017-02-15T12:26:05",
+  "date_gmt": "2017-02-15T12:26:05",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/5680-walk-behing-floor-scrubber-dryer/"
+  },
+  "modified": "2017-11-05T12:59:34",
+  "modified_gmt": "2017-11-05T12:59:34",
+  "slug": "5680-walk-behing-floor-scrubber-dryer",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/5680-walk-behing-floor-scrubber-dryer",
+  "title": { "rendered": "5680 Walk Behind Floor Scrubber-Dryer" },
+  "content": {
+    "rendered": "<h2 class=\"tn-large-header\" style=\"text-align: center;\">\u00a05680 Features and Benefits</h2>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>Consistent floor cleaning results with the Tennant 5680 walk- behind scrubber-dryer:</h3>\n<ul>\n<li>Reduce water and chemical usage with Tennant\u2019s innovative <a href=\"http://www.tennantco.com/emea-en/equipment/Innovations/Innovations/ec-h2o\">ec-H2O</a> or <a href=\"http://www.tennantco.com/emea-en/equipment/Innovations/Innovations/fast\">FaST</a> technologies</li>\n<li>Increase productivity with extra-large tank that reduces frequent water changes</li>\n<li>Reduce operator training time with Quick-Train\u2122 controls</li>\n</ul>\n<h3>Key machine features of the 5680 walk behind floor scrubber-dryer:</h3>\n<ul>\n<li>Corrosion-resistant scrub deck and frame connect with impact-absorbing linkages for maximum durability</li>\n<li>28 in/70 cm, 32 in/80 cm, and 36 in/90 cm cleaning path options to match your environment</li>\n<li>Optional sealed battery\u00a0eliminates daily battery maintenance and helps decrease the risk of\u00a0operator damage, common in standard batteries</li>\n</ul>\n<p><sup>*ec-H2O NanoClean\u2122 technology is not designed for all soils, including heavy concentrations of fats and oils. Conventional chemical cleaners may be required for those soils.</sup></p>\n</div>\n<div class=\"tn-featured-text-image right\"><img decoding=\"async\" class=\"aligncenter\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Scrubber%20Walk-Behinds/Media%20Gallery%20Images/5680-env-squeegee.jpg\" alt=\"224;#5680 Feature Image\" /></div>\n<p>\u200b</p>\n</div>\n<div class=\"tn-drawer-toggle closed\">\n<h4 class=\"tn-drawer-title\"><strong>Reduce Cost to Clean</strong></h4>\n<p>Optional ec-H2O NanoClean\u2122 technology delivers cost savings and productivity gains by using less water, which means less empty-fill cycles, significant chemical and labour cost savings, and simplified operation and maintenance.</p>\n</div>\n<div class=\"tn-drawer-toggle closed\">\n<h4 class=\"tn-drawer-title\"><strong>Maintain Health &amp; Safety</strong></h4>\n<p>Optimal water recovery \u2013 even in 180 degree turns \u2013 minimises the risk of slip and fall injuries.</p>\n</div>\n<div class=\"tn-drawer-toggle closed\">\n<h4 class=\"tn-drawer-title\"><strong>Enhance Plant Image</strong></h4>\n<p>Excellent down pressure and pad RPM provide powerful cleaning so facilities look their best.</p>\n</div>\n<div class=\"tn-drawer-toggle closed\">\n<h4 class=\"tn-drawer-title\"><strong>Easy Operation and Maintenance</strong></h4>\n<p>Deliver consistent scrubbing results with this easy-to-operate and maintain scrubber that provides peak performance year after year due to its quality engineering.</p>\n</div>\n<p class=\"tn-large-header\" style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/20111664_ten_5680_4p_en_v12-lr.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The 5680 walk-behind floor scrubber-dryer can improve cleaning productivity for operators. Add Tennant\u2019s innovative ec-H2O NanoClean\u2122 or FaST\u00ae scrubbing technologies and reduce water and detergent use in your environment.</p>\n",
+    "protected": false
+  },
+  "featured_media": 2048,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [45, 44],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/2045" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=2045"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/2048"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=2045" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=2045"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=2045"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

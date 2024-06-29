@@ -1,0 +1,67 @@
+{
+  "id": 1002,
+  "date": "2016-05-07T00:00:00",
+  "date_gmt": "2016-05-07T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/ps9000b-grc-gfrc-spray-station/"
+  },
+  "modified": "2017-11-06T13:40:56",
+  "modified_gmt": "2017-11-06T13:40:56",
+  "slug": "ps9000b-grc-gfrc-spray-station",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/ps9000b-grc-gfrc-spray-station",
+  "title": { "rendered": "PS9000B GRC / GFRC Spray Station" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: center;\">With Floor Mounted \u201cExtra Long\u201d Spray Support Boom</h3>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p><span id=\"E183\">The PS9000 and PS10000 series </span><span id=\"E184\">utilise the proven technology of</span><span id=\"E185\"> durable rotor/stator progressive cavity pumps,</span><span id=\"E186\"> driven by tough 3-phase electric motors and reliable hydrostatic gearboxes</span><span id=\"E187\">. These have been developed for the traditional Hand Spray and Auto Spray processes where manufacture</span><span id=\"E188\">r</span><span id=\"E189\">s need to produce at high outputs whilst maintaining consistency of quality.</span></p>\n</div>\n</div>\n<div class=\"vc_empty_space\"></div>\n<div class=\"separator small left \"></div>\n</div>\n</div>\n</div>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<ul>\n<li>The most popular, reliable and user-friendly spray stations available</li>\n<li>Easily manoeuvrable</li>\n<li>Easy manual or mechanical loading</li>\n<li>Twin section control panel protected by waterproof cabinet</li>\n<li>Supplied with Concentric Spray Gun (other spray heads are available)</li>\n<li>Fitted with removable sieve to prevent blockages</li>\n<li>Large wheels with articulated castors</li>\n<li>Remote control</li>\n<li>In-line lubricator for smooth running of the chopper motor</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p><span id=\"E183\">The PS9000 and PS10000 series </span><span id=\"E184\">utilise the proven technology of</span><span id=\"E185\">durable rotor/stator progressive cavity pumps,</span><span id=\"E186\">driven by tough 3-phase electric motors and reliable hydrostatic gearboxes</span><span id=\"E187\">. These have been developed for the traditional Hand Spray and Auto Spray processes where manufacture</span><span id=\"E188\">r</span><span id=\"E189\">s need to produce at high outputs whilst maintaining consistency of quality.</span></p>\n",
+    "protected": false
+  },
+  "featured_media": 1003,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [53, 23],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1002" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1002"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1003"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1002" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1002"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1002"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

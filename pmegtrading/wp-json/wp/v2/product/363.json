@@ -1,0 +1,67 @@
+{
+  "id": 363,
+  "date": "2016-04-09T00:00:00",
+  "date_gmt": "2016-04-09T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/t770-compact-tracked-loaders/"
+  },
+  "modified": "2017-06-21T16:08:33",
+  "modified_gmt": "2017-06-21T16:08:33",
+  "slug": "t770-compact-tracked-loaders",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/t770-compact-tracked-loaders",
+  "title": { "rendered": "T770 Compact Tracked Loaders" },
+  "content": {
+    "rendered": "<p style=\"text-align: justify;\">Whenever you need to work in the most demanding conditions or increase your working season, the T770 will be your best partner. With more pushing power, more tipping load and lower ground pressure than a skid-steer loader, landscaping, grading, forestry, loading application will be done better.</p>\n<p style=\"text-align: justify;\">\nA new level: with the T770 Roller suspension\u2122 and 2 speed travel options, comfort &#038; performance are ensured.\u00a0The maintenance-free chain case and the forged steel rollers and idlers maximise uptime.</p>\n<p style=\"text-align: justify;\">\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/S770_T770_A770_EN.pdf\" target=\"_blank\" class=\"button primary is-primary is-medium\" rel=\"noopener\"  >\n    <span>T770 Compact Tracked Loaders Brochure</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<h3>Stay on the right track</h3>\n<ul class=\"float\">\n<li>Operator comfort</li>\n<li>Visibility</li>\n<li>Performance</li>\n<li>Reliability/durability</li>\n<li>Serviceability</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 364,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 9],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/363" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=363"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/364"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=363" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=363"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=363"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": 14000,
+  "date": "2021-03-28T13:18:53",
+  "date_gmt": "2021-03-28T13:18:53",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=14000"
+  },
+  "modified": "2021-03-28T13:34:37",
+  "modified_gmt": "2021-03-28T13:34:37",
+  "slug": "s-75-3-screw-compressor-air-cooled",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/s-75-3-screw-compressor-air-cooled",
+  "title": { "rendered": "S 75-3 Screw Compressor  Air Cooled" },
+  "content": {
+    "rendered": "<p><strong>BOGE S 75-3 screw compressor\u00a0 air cooled</strong></p>\n<p>Complete and ready to connect, fully automatic operation, with CE approval stamp</p>\n<p>&nbsp;</p>\n<p><strong>The most efficient way to produce compressed air.</strong></p>\n<p>Compressed air is one of the most important auxiliary powers in industry and crafts. Particularly for continual compressed air requirements BOGE screw compressors are the first choice.</p>\n<p>Series S by BOGE sets standards for the efficient and reliable production of compressed air and ensures that you always have <strong>air to work</strong>.</p>\n<p>&nbsp;</p>\n<p><strong>Excellent performance with low operating costs, </strong><strong>Energy saving and environmentally friendly</strong></p>\n<p>&nbsp;</p>\n<p>\u2013\u00a0\u00a0 The <strong>BOGE energy-saving air end</strong> with an optimized screw profile ensures, in combination with generously designed components,\u00a0optimally designed performance ranges and maximum volumetric efficiencies.</p>\n<p>\u2013\u00a0\u00a0 The intelligent design of the whole system allows the lowest internal pressure loss\u00a0and optimal suction of the oil injection cooled <strong>BOGE-compression stage</strong></p>\n<p>\u2013\u00a0\u00a0 The <strong>BOGE suction regulator</strong> ensures, through a fully balanced start, gentle and intrinsically safe operation of all moving parts. If the system is at a standstill\u00a0it closes off hermetically</p>\n<p>\u2013\u00a0\u00a0 The <strong>high-efficiency</strong>, maintenance-free <strong>BOGE GM drive system</strong> achieves maximum lifetime through optimal, operation-dependent dynamic adjustment of the belt tension and optimises power consumption through the use of high-efficiency\u00a0<strong>IE 3</strong> drive motors</p>\n<p>\u2013\u00a0\u00a0 The targeted cool air feed through the sound attenuation cowl with dirt repellent\u00a0lining in the <strong>BOGE cool air flow</strong> ensures, with highly effective aftercoolers, low compressed air output temperatures and optimal cooling of all integrated components. The conscious use of the chimney effect ensures perfect\u00a0flow conditions and prevents heat nests when the machine is idle</p>\n<p>\u2013\u00a0\u00a0 The use of the <strong>latest compressor controls </strong>ensures, with the\u00a0<strong>BOGE control, regulation and monitoring concept</strong>, the automatic selection of the most efficient operating mode as well as intrinsically safe operation at all times of the compressor. Individual fault alarms, permanent current compression temperature and pressure displays, precise and easy pressure settings on the keyboard\u00a0and frost protection for compressors to -10\u00b0C from the factory are just some of the features</p>\n<p>&nbsp;</p>\n<p><strong>Maintenance friendly</strong></p>\n<p>\u2013\u00a0\u00a0 For routine inspection and maintenance the entire inside must be\u00a0easily accessible through large doors and removable sheeting in the cover</p>\n<p>\u2013\u00a0\u00a0 Easy maintenance due to spin-on oil separator cartridge and\u00a0high capacity oil filter; valveless oil circuit</p>\n<p>\u2013\u00a0\u00a0 This minimises your maintenance and service costs</p>\n<p>&nbsp;</p>\n<p><strong>Additional features</strong></p>\n<p>\u2013\u00a0\u00a0 Compressor unit isolated from mechanical vibration</p>\n<p>\u2013\u00a0\u00a0 Motor protection IP 55 with PTC thermistors</p>\n<p>\u2013\u00a0\u00a0 Integrated electrical switch cabinet (IP 54)</p>\n<p>\u2013\u00a0\u00a0 Belt guard for safe operation\u00a0 and protection of the V-belt from dirt ingress</p>\n<p>\u2013\u00a0\u00a0 Constant low oil carry-over in all operating phases due to efficient pre-separation in the integral compressed air-oil separator</p>\n<p>\u2013\u00a0\u00a0 No condensate in the oil due to thermostatically controlled oil cooler</p>\n<p>\u2013\u00a0\u00a0 Powder coated surface, light blue, RAL 5012</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p><strong>BOGE S 75-3 screw compressor\u00a0 air cooled</strong></p>\n<p>Complete and ready to connect, fully automatic operation, with CE approval stamp</p>\n<p><strong>The most efficient way to produce compressed air.</strong></p>\n<p>Compressed air is one of the most important auxiliary powers in industry and crafts. Particularly for continual compressed air requirements BOGE screw compressors are the first choice.</p>\n<p>Series S by BOGE sets standards for the efficient and reliable production of compressed air and ensures that you always have <strong>air to work</strong>.</p>\n",
+    "protected": false
+  },
+  "featured_media": 14006,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [198, 199],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/14000" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=14000"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/14006"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=14000" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=14000"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=14000"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

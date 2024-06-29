@@ -1,0 +1,65 @@
+{
+  "id": 616,
+  "date": "2016-04-17T00:00:00",
+  "date_gmt": "2016-04-17T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/s70-skid-steer-loader/" },
+  "modified": "2017-06-21T16:08:53",
+  "modified_gmt": "2017-06-21T16:08:53",
+  "slug": "s70-skid-steer-loader",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/s70-skid-steer-loader",
+  "title": { "rendered": "S70 Skid-Steer Loader" },
+  "content": {
+    "rendered": "<h1 class=\"product-title entry-title\">S70 Skid-Steer Loader</h1>\n<p style=\"text-align: justify;\">S70, outstanding performance in a compact package, The S70 is the most compact skid-steer loader in the range.</p>\n<p>Thanks to its radius lift pattern, this short wheel base machine is ideal when it comes to tackling jobs in spaces too tight for other equipment.</p>\n<p>More than 20 attachments turn this mini loader into a versatile model.</p>\n<p>The operator-friendly cab (low noise, less vibrations, easy entry and exit, excellent visibility, improved safety, upgraded instrument panel with additional functionalities and diagnostic capabilities) passes through openings less than 92 cm wide by 182 cm high!</p>\n<p>The S70 is also easy to transport, giving you the benefit of handling multiple tasks at multiple sites in a single day.</p>\n<p>Get even more with the Deluxe heated cab and the narrow or heavy duty tires available as factory options.</p>\n<p>Looking for more information about the S70? Get in touch with your local Bobcat dealer. Quickly find the closest Bobcat dealer thanks to our dealer locator.</p>\n<p>\u00a0</p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/downloads/S70_EN.pdf\" target=\"_blank\" class=\"button primary is-primary is-medium\" rel=\"noopener\"  >\n    <span>S70 Skid Steer Loader Brochure</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul class=\"float\">\n<li>Cab \u2013 comfort</li>\n<li>Transverse mounted engine \u2013 serviceability</li>\n<li>Wide range of attachments \u2013 versatility</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 617,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 12],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/616" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=616"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/617"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=616" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=616"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=616"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

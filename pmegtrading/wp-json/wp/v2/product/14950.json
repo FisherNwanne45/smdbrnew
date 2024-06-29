@@ -1,0 +1,67 @@
+{
+  "id": 14950,
+  "date": "2023-09-14T16:59:38",
+  "date_gmt": "2023-09-14T13:59:38",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=14950"
+  },
+  "modified": "2023-09-17T11:52:47",
+  "modified_gmt": "2023-09-17T08:52:47",
+  "slug": "1200xxh-portable-air-compressors",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/1200xxh-portable-air-compressors",
+  "title": { "rendered": "1200XXH Portable Air Compressors" },
+  "content": {
+    "rendered": "\t<section class=\"section\" id=\"section_2037758659\">\n\t\t<div class=\"bg section-bg fill bg-fill  bg-loaded\" >\n\n\t\t\t\n\t\t\t\n\t\t\t\n\n\t\t</div>\n\n\t\t\n\n\t\t<div class=\"section-content relative\">\n\t\t\t\n<div class=\"row row-collapse align-center\"  id=\"row-762716694\">\n\n\t<div id=\"col-367942511\" class=\"col medium-8 small-10 large-6\"  >\n\t\t\t\t<div class=\"col-inner text-center\"  >\n\t\t\t\n\t\t\t\n<h1 class=\"text-white mb-0\">Product Information</h1>\n\t\t</div>\n\t\t\t\t\t</div>\n\n\t\n</div>\n\t\t</div>\n\n\t\t\n<style>\n#section_2037758659 {\n  padding-top: 100px;\n  padding-bottom: 100px;\n}\n@media (min-width:550px) {\n  #section_2037758659 {\n    padding-top: 50px;\n    padding-bottom: 50px;\n  }\n}\n</style>\n\t</section>\n\t\n\t<div class=\"img has-hover x md-x lg-x y md-y lg-y\" id=\"image_1138750121\">\n\t\t\t\t\t\t\t\t<div class=\"img-inner image-cover dark\" style=\"padding-top:56.25%;\">\n\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"988\" height=\"800\" src=\"https://pmegtrading.com/wp-content/uploads/2023/09/1200xxh-988x800.webp\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/09/1200xxh-988x800.webp 988w, https://pmegtrading.com/wp-content/uploads/2023/09/1200xxh-494x400.webp 494w, https://pmegtrading.com/wp-content/uploads/2023/09/1200xxh-768x622.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/09/1200xxh-600x486.webp 600w, https://pmegtrading.com/wp-content/uploads/2023/09/1200xxh.webp 1099w\" sizes=\"(max-width: 988px) 100vw, 988px\" />\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n<style>\n#image_1138750121 {\n  width: 100%;\n}\n</style>\n\t</div>\n\t\n<div class=\"row no-gutters\">\n<div class=\"col bg-secondary_light d-flex align-items-center\">\n<h3 class=\"my-2 px-3 font-family-condensed text-uppercase text-white\" style=\"text-align: left;\">Specifications</h3>\n<table width=\"971\">\n<tbody>\n<tr>\n<td width=\"591\">Specifications</td>\n<td width=\"380\"></td>\n</tr>\n<tr>\n<td>Running Gear</td>\n<td>DWQ</td>\n</tr>\n<tr>\n<td>Capacity [m3/min / cfm]</td>\n<td>34 / 1200</td>\n</tr>\n<tr>\n<td>Pressure [Bar]</td>\n<td>29.8 /432</td>\n</tr>\n<tr>\n<td>Engine</td>\n<td>CUMMINS</td>\n</tr>\n<tr>\n<td>Engine Model</td>\n<td>CUM QSX15-525HP</td>\n</tr>\n<tr>\n<td>Working Altitude</td>\n<td>Normal</td>\n</tr>\n<tr>\n<td>Specifications</td>\n<td>AWF, Suction Fan, Low Fuel Stop</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The 1200 compressor represents the epitome of advanced engineering and steadfast reliability. Its design reflects unparalleled efficiency. Driven by the powerhouse that is the Cummins engine, the compressor not only meets but exceeds industry standards, making it an essential choice for professionals seeking top-tier performance.</p>\n",
+    "protected": false
+  },
+  "featured_media": 14951,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [221, 220],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/14950" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=14950"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/14951"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=14950" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=14950"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=14950"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

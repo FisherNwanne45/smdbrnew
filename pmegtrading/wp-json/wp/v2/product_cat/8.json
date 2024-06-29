@@ -1,0 +1,32 @@
+{
+  "id": 8,
+  "count": 18,
+  "description": "Bobcat\u00ae attachments and implements help you grow your business, gain versatility, replace less-efficient machines and give you the tools to accomplish major projects. Choose from skid-steer loader attachments, compact track loader attachments, mini track loader attachments, compact excavator (mini excavator) attachments, Toolcat\u2122 utility work machine attachments and implements, telehandler attachments and utility vehicle attachments.",
+  "link": "https://pmegtrading.com/product-category/bobcat/bobcat-attachments",
+  "name": "Attachments",
+  "slug": "bobcat-attachments",
+  "taxonomy": "product_cat",
+  "parent": 27,
+  "meta": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/8" }],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/27"
+      }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=8" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

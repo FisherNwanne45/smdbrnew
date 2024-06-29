@@ -1,0 +1,67 @@
+{
+  "id": 1667,
+  "date": "2017-02-13T12:48:08",
+  "date_gmt": "2017-02-13T12:48:08",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/av-110-x-tier-2-articulated-tandem-roller/"
+  },
+  "modified": "2017-06-21T16:10:08",
+  "modified_gmt": "2017-06-21T16:10:08",
+  "slug": "av-110-x-tier-2-articulated-tandem-roller",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/av-110-x-tier-2-articulated-tandem-roller",
+  "title": { "rendered": "AV 110 X Tier 2 Articulated Tandem Roller" },
+  "content": {
+    "rendered": "<p>A unique propulsion system powers the Ammann AV 110 X Tier 2 Articulated Tandem Roller, helping it efficiently deliver the weight and vibration necessary to achieve optimum compaction results.</p>\n<p>Key to the propulsion system is location of the power train in the rear frame. In addition, independent pumps for drive and vibration provide optimal traction and compaction force. A combination of drum dimensions, frequencies and amplitudes also help deliver results.</p>\n<p>The roller has two frames connected by a double joint that enable crab steering on each side. The crab steering provides increased compaction output and responsiveness, crucial on any jobsite.</p>\n<p>\u00a0</p>\n<h4 class=\"drawer-title\">OVERVIEW</h4>\n<div class=\"drawer-content\">\n<ul>\n<li>Integrated ROPS/FOPS</li>\n<li>Excellent view to drum surface, edges and sprinkling system</li>\n<li>Rotating/sliding seat</li>\n<li>2 drive levers for easy operation</li>\n<li>Cabin isolated from heat and vibration</li>\n<li>2 amplitudes and frequencies</li>\n<li>Balanced drum dimensions</li>\n<li>Reliable, long-life vibration system</li>\n<li>Large water tanks</li>\n<li>Independent, double-pump system drum drives</li>\n<li>Excellent traction, even in difficult terrain</li>\n<li>Double joint enables crab steering</li>\n<li>Steering angle and compact design for manoeuvrability</li>\n<li>Convenient access to service points and fluid ports</li>\n</ul>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/soil_and_asphalt_compactors_brochure_mpb-1411-00-en.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>PRODUCT FAMILY OVERVIEW</span>\n  </a>\n\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Integrated ROPS/FOPS</li>\n<li>Excellent view to drum surface, edges and sprinkling system</li>\n<li>Rotating/sliding seat</li>\n<li>2 drive levers for easy operation</li>\n<li>Cabin isolated from heat and vibration</li>\n<li>2 amplitudes and frequencies</li>\n<li>Balanced drum dimensions</li>\n<li>Reliable, long-life vibration system</li>\n<li>Large water tanks</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 1668,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [28, 17],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1667" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1667"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1668"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1667" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1667"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1667"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

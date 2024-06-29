@@ -1,0 +1,67 @@
+{
+  "id": 15206,
+  "date": "2023-10-17T12:47:05",
+  "date_gmt": "2023-10-17T09:47:05",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15206"
+  },
+  "modified": "2023-10-17T12:52:11",
+  "modified_gmt": "2023-10-17T09:52:11",
+  "slug": "e50z-compact-excavator",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/e50z-compact-excavator",
+  "title": { "rendered": "E50z Compact Excavator" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15208\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/e50z-gallery-1.webp\" alt=\"\" width=\"1700\" height=\"838\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/e50z-gallery-1.webp 1700w, https://pmegtrading.com/wp-content/uploads/2023/10/e50z-gallery-1-800x394.webp 800w, https://pmegtrading.com/wp-content/uploads/2023/10/e50z-gallery-1-1400x690.webp 1400w, https://pmegtrading.com/wp-content/uploads/2023/10/e50z-gallery-1-768x379.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/e50z-gallery-1-1536x757.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/e50z-gallery-1-600x296.webp 600w\" sizes=\"(max-width: 1700px) 100vw, 1700px\" /></p>\n<p>&nbsp;</p>\n<table style=\"height: 138px;\" width=\"986\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"101\"></td>\n</tr>\n<tr>\n<td>Operating Weight</td>\n<td>4905 kg</td>\n</tr>\n<tr>\n<td>Maximum Digging Depth</td>\n<td>3923 mm</td>\n</tr>\n<tr>\n<td>Hydraulic Pump Capacity, with Auxiliary line</td>\n<td>138.5 L/min</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Water Cooled</td>\n<td>Kubota 47.5 hp</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Bobcat\u00ae E50Z mini excavator is a real standout in the 4-to-5-ton size class! With zero tail swing, it can happily work in confined areas without sacrificing digging performance. Equipped with cab and bucket, it has an operating weight of 4905 kg and a maximum digging depth of 3.52 m. The E50 is also available with a long arm option that maximizes dig depth, reach and dump height clearance. An angle blade and clamp options are also available.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15220,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 11],
+  "product_tag": [10],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15206" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15206"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15220"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15206" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15206"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15206"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": 15307,
+  "date": "2023-10-17T14:45:23",
+  "date_gmt": "2023-10-17T11:45:23",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15307"
+  },
+  "modified": "2023-10-17T14:54:18",
+  "modified_gmt": "2023-10-17T11:54:18",
+  "slug": "atr-68-rammer",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/atr-68-rammer",
+  "title": { "rendered": "ATR 68 Rammer" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15313\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/ATR-68-3.webp\" alt=\"\" width=\"1200\" height=\"800\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/ATR-68-3.webp 1200w, https://pmegtrading.com/wp-content/uploads/2023/10/ATR-68-3-600x400.webp 600w, https://pmegtrading.com/wp-content/uploads/2023/10/ATR-68-3-768x512.webp 768w\" sizes=\"(max-width: 1200px) 100vw, 1200px\" /></p>\n<p>&nbsp;</p>\n<table style=\"height: 184px;\" width=\"1108\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"128\"></td>\n</tr>\n<tr>\n<td>Operating Weight</td>\n<td>68 kg</td>\n</tr>\n<tr>\n<td>Working Width</td>\n<td>35.5 cm</td>\n</tr>\n<tr>\n<td>Compaction</td>\n<td>13 kN / 12 Hz</td>\n</tr>\n<tr>\n<td>Engine</td>\n<td>Honda GX 100-Petrol</td>\n</tr>\n<tr>\n<td>Strikes a per minute</td>\n<td>680 BPM</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The rammer, with a weight of 68 kg, is equipped with a Honda GX100, 4-stroke petrol engine that is powerful, prevents fluid spills when on steep grades and meets all global emission standards. The ATR 68 also is offered with the Honda GXR120 petrol engine, which provides the same benefits as the GX100 but adds more power with lower immissions.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15315,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [28, 15],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15307" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15307"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15315"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15307" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15307"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15307"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

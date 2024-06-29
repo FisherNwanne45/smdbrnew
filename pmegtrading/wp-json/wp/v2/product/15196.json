@@ -1,0 +1,67 @@
+{
+  "id": 15196,
+  "date": "2023-10-17T12:30:20",
+  "date_gmt": "2023-10-17T09:30:20",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15196"
+  },
+  "modified": "2023-10-17T12:43:49",
+  "modified_gmt": "2023-10-17T09:43:49",
+  "slug": "e37-compact-excavator",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/e37-compact-excavator",
+  "title": { "rendered": "E37 Compact Excavator" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15198\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/e37-gallery-1.webp\" alt=\"\" width=\"1700\" height=\"838\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/e37-gallery-1.webp 1700w, https://pmegtrading.com/wp-content/uploads/2023/10/e37-gallery-1-800x394.webp 800w, https://pmegtrading.com/wp-content/uploads/2023/10/e37-gallery-1-1400x690.webp 1400w, https://pmegtrading.com/wp-content/uploads/2023/10/e37-gallery-1-768x379.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/e37-gallery-1-1536x757.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/e37-gallery-1-600x296.webp 600w\" sizes=\"(max-width: 1700px) 100vw, 1700px\" /></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<table style=\"height: 123px;\" width=\"1082\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"101\"></td>\n</tr>\n<tr>\n<td>Operating Weight</td>\n<td>1780 kg</td>\n</tr>\n<tr>\n<td>Maximum Digging Depth</td>\n<td>3117.0 mm</td>\n</tr>\n<tr>\n<td>Hydraulic Pump Capacity, with Auxiliary line</td>\n<td>87.1 L.min</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Water Cooled</td>\n<td>D34 BSH SV</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>E37 Mini Excavator. The new Bobcat\u00ae E37 model is a new generation of Bobcat conventional tail swing model offering higher stability coupled with excellent performance and further enhanced controllability. It features a new roomy premium cab with optional powerful air conditioning to ensure an ideal operator environment in all weather conditions.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15204,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 11],
+  "product_tag": [10],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15196" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15196"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15204"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15196" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15196"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15196"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1640,
+  "date": "2017-02-13T10:02:47",
+  "date_gmt": "2017-02-13T10:02:47",
+  "guid": { "rendered": "https://pmegtrading.com/product/arx-20-tandem-roller/" },
+  "modified": "2017-06-21T16:10:07",
+  "modified_gmt": "2017-06-21T16:10:07",
+  "slug": "arx-20-tandem-roller",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/arx-20-tandem-roller",
+  "title": { "rendered": "ARX 20 Tandem Roller" },
+  "content": {
+    "rendered": "<p>The Ammann ARX 20 Tandem Roller is a light, articulated ride-on roller that delivers optimum compaction results through its double-drive and double-vibration systems.</p>\n<p>The roller works flush against curbs and other obstructions to eliminate the need for special edge compaction efforts. Excellent visibility to the drums also helps the operator.</p>\n<p>An electric drive-lever makes for smooth starting and stopping and is among the reasons the roller is popular with operators. Other operator benefits include a rubber-mounted platform that limits vibration and an intuitive instrument panel.</p>\n<p>The ARX 20 is built with high quality, long-lasting components that reduce the cost of ownership over the lifetime of the machine. It is reliable, economical, safe and fuel efficient.</p>\n<p>\u00a0</p>\n<h4 class=\"drawer-title\">OVERVIEW</h4>\n<div class=\"drawer-content\">\n<ul>\n<li>Soil and asphalt applications</li>\n<li>High-torque, water-cooled Yanmar diesel engine</li>\n<li>2 working speeds</li>\n<li>2 frequencies with 2 centrifugal forces</li>\n<li>Single or double vibration with double traction</li>\n<li>Optimal drum diameter</li>\n<li>Balanced weight front and rear</li>\n<li>Multiple water filters</li>\n<li>2 scrapers per drum</li>\n<li>Easy-to-operate, ergonomic instrument panel</li>\n<li>Rubber-mounted operator\u2019s platform</li>\n<li>Tight turning radius</li>\n<li>Unobstructed view of drums</li>\n<li>Compact dimensions for transport</li>\n<li>Smooth starting and reversing by electric drive-lever</li>\n<li>Bearings and central articulated joint lubricated for the machine\u2019s life</li>\n<li>Easy access to maintenance points, water filters and nozzles</li>\n<li>Outside drain plugs for quick fluid changes</li>\n<li>Foldable ROPS</li>\n<li>Vandal protection of multiple components</li>\n</ul>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Soil and asphalt applications</li>\n<li>High-torque, water-cooled Yanmar diesel engine</li>\n<li>2 working speeds</li>\n<li>2 frequencies with 2 centrifugal forces</li>\n<li>Single or double vibration with double traction</li>\n<li>Optimal drum diameter</li>\n<li>Balanced weight front and rear</li>\n<li>Multiple water filters</li>\n<li>2 scrapers per drum</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 1641,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [28, 17],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1640" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1640"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1641"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1640" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1640"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1640"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

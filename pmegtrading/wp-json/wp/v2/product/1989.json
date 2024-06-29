@@ -1,0 +1,65 @@
+{
+  "id": 1989,
+  "date": "2017-02-15T10:31:12",
+  "date_gmt": "2017-02-15T10:31:12",
+  "guid": { "rendered": "https://pmegtrading.com/product/f3-single-disc-machine/" },
+  "modified": "2019-07-17T05:52:20",
+  "modified_gmt": "2019-07-17T05:52:20",
+  "slug": "f8-single-disc-machine",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/f8-single-disc-machine",
+  "title": { "rendered": "F8 Single Disc Machine" },
+  "content": {
+    "rendered": "<h2 class=\"tn-large-header\" style=\"text-align: center;\">F8 Features and Benefits</h2>\n<div class=\"tn-featured-text-image left\">\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>The Tennant F8 high-speed, corded, single disc machine can help remove blemishes and applies a high gloss to hard floor surfaces:</h3>\n<ul>\n<li>Keep your floors clean with the F8 that leaves a polished floor and professional shine</li>\n<li>Remove most dirt, and restore floor coatings from many types of damage, including burns, rubber marks and firmly ingrained stains</li>\n<li>Increase operator comfort and safety with ergonomically designed handle and double-safety switch</li>\n</ul>\n<h3>Key machine features of the F8 Single Disc Machine:</h3>\n<ul>\n<li>59 dBA sound level for quiet, convenient operation in noise-sensitive environments</li>\n<li>400 rpm gives floors a high gloss for a professional image</li>\n<li>Pad downward pressure at 27 g/cm2 for high quality floor cleaning performance</li>\n</ul>\n</div>\n<div class=\"tn-featured-text-image right\"><img decoding=\"async\" class=\"aligncenter\" src=\"http://assets.tennantco.com/globalassets/webassets/burnishers%20and%20floor%20machines/media%20gallery%20images/f8-env-hallway.jpg\" alt=\"211;#F8 Feature Image\" /></div>\n</div>\n</div>\n<div class=\"tn-featured-text-image right\"></div>\n<div class=\"tn-featured-text-image right\"></div>\n<div class=\"tn-featured-text-image left\"></div>\n<p class=\"tn-large-header\" style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/f-series-brochure.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Tennant high-speed F8 Single Disc Machine quietly polishes, scrubs, and strips floors or helps restore floor coatings with easy-to-use, ergonomic controls.</p>\n",
+    "protected": false
+  },
+  "featured_media": 1997,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [49, 44],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1989" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1989"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1997"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1989" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1989"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1989"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

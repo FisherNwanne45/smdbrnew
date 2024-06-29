@@ -1,0 +1,34 @@
+{
+  "id": 17,
+  "count": 7,
+  "description": "What might initially appear as comfort actually translates into jobsite productivity. For example, conveniently located, intuitive controls make the operator\u2019s job easier \u2013 and they help him be more efficient, too. Reduced vibration to the cab means less operator fatigue \u2013 and more force applied to the compaction target. The list goes on, but the story remains the same: Operator comfort is synonymous with productivity.",
+  "link": "https://pmegtrading.com/product-category/ammann/amman-tandem-and-combo-rollers",
+  "name": "Tandem and Combo Rollers",
+  "slug": "amman-tandem-and-combo-rollers",
+  "taxonomy": "product_cat",
+  "parent": 28,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/17" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/28"
+      }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=17" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1014,
+  "date": "2016-05-07T00:00:00",
+  "date_gmt": "2016-05-07T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/water-admixture-polymer-dispensing-systems/"
+  },
+  "modified": "2017-11-06T14:21:51",
+  "modified_gmt": "2017-11-06T14:21:51",
+  "slug": "water-admixture-polymer-dispensing-systems",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/water-admixture-polymer-dispensing-systems",
+  "title": { "rendered": "Water, Admixture &#038; Polymer Dispensing Systems" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: center;\">For accurate dispensing of the liquids used in GRC / GFRC production</h3>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p>Accurate dispensing of the liquids used in Glass fibre Reinforced Concrete production is vital for both quality and cost control. The Power-Sprays automatic liquid dispensing systems enable this with the push of a single button.</p>\n</div>\n</div>\n<div class=\"vc_empty_space\"></div>\n</div>\n</div>\n</div>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<ul>\n<li>Dispenses liquids with the push of a single button</li>\n<li>For dispensing water, plasticisers, accelerators, retarders, polymers\u2026</li>\n<li>Volumetric measuring cylinder with graduated scale</li>\n<li>2 adjustable level sensors, discharge valve and refill pump</li>\n<li>Capacities range from 500ml to 25 L</li>\n<li>Improves batching accuracy and product consistency</li>\n<li>Reduces costly \u201chuman error\u201d factor</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Accurate dispensing of the liquids used in Glass fibre Reinforced Concrete production is vital for both quality and cost control. The Power-Sprays automatic liquid dispensing systems enable this with the push of a single button.</p>\n",
+    "protected": false
+  },
+  "featured_media": 1015,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [30, 23],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1014" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1014"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1015"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1014" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1014"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1014"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

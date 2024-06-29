@@ -1,0 +1,82 @@
+{
+  "id": 49,
+  "date": "2014-02-20T00:00:00",
+  "date_gmt": "2014-02-20T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/2014/02/20/construction-machinery-show-in-dammam-feb-16-21-2014/"
+  },
+  "modified": "2014-02-20T00:00:00",
+  "modified_gmt": "2014-02-20T00:00:00",
+  "slug": "construction-machinery-show-in-dammam-feb-16-21-2014",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pmegtrading.com/construction-machinery-show-in-dammam-feb-16-21-2014",
+  "title": {
+    "rendered": "Construction Machinery Show in Dammam Feb. 16-21, 2014"
+  },
+  "content": {
+    "rendered": "<p>PMEG had participated in the Construction Machinery Show 2014 at Dhahran International Exhibition Center, Dammam, which is the largest heavy construction machinery event in the region. PMEG has showcased some of its wide variety of heavy construction machinery products, as well as its building system solutions, and raw materials for GRC solutions.</p>\n<p>PMEG has also conducted live demonstrations of its equipments in action, and technical explanations of the equipments being showcased.</p>\n<p>The mayor of the Eastern Province, his Excellency Eng. Fahad bin Mohammed Al-Jubeir was particullay impressed by the demonstrations that PMEG held.</p>\n<p>For further information <a href=\"http://www.ameinfo.com/blog/mentors/c/cpi/eng-fahad-bin-mohammed-al-jubeir-tours-construction-machinery-show-dammam-opening-day/\" target=\"_blank\">click here</a>.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>PMEG had participated in the Construction Machinery Show 2014 at Dhahran International Exhibition Center, Dammam, which is the largest heavy construction machinery event in the region. PMEG has showcased some of its wide variety of heavy construction machinery products, as well as its building system solutions, and raw materials for GRC solutions. PMEG has also [&#8230;]\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 50,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [7],
+  "tags": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/posts/49" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/posts" }],
+    "about": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/types/post" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=49"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/posts/49/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/50"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=49" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/categories?post=49"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/tags?post=49"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

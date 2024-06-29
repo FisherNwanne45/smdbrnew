@@ -1,0 +1,67 @@
+{
+  "id": 15061,
+  "date": "2023-10-01T13:25:21",
+  "date_gmt": "2023-10-01T10:25:21",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15061"
+  },
+  "modified": "2023-10-01T13:25:32",
+  "modified_gmt": "2023-10-01T10:25:32",
+  "slug": "s86-skid-steer-loader",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/s86-skid-steer-loader",
+  "title": { "rendered": "S86 Skid-Steer Loader" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15063\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/Bobcat_S8617.webp\" alt=\"\" width=\"2100\" height=\"1401\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/Bobcat_S8617.webp 2100w, https://pmegtrading.com/wp-content/uploads/2023/10/Bobcat_S8617-600x400.webp 600w, https://pmegtrading.com/wp-content/uploads/2023/10/Bobcat_S8617-1199x800.webp 1199w, https://pmegtrading.com/wp-content/uploads/2023/10/Bobcat_S8617-768x512.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/Bobcat_S8617-1536x1025.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/Bobcat_S8617-2048x1366.webp 2048w\" sizes=\"(max-width: 2100px) 100vw, 2100px\" /></p>\n<table style=\"height: 129px;\" width=\"977\">\n<tbody>\n<tr>\n<td width=\"361\">\n<h4><strong>Specifications</strong></h4>\n</td>\n<td width=\"71\"></td>\n</tr>\n<tr>\n<td>Operating Capacity</td>\n<td>1587 kg</td>\n</tr>\n<tr>\n<td>Tipping Load Capacity</td>\n<td>3175 kg</td>\n</tr>\n<tr>\n<td>Pump Capacity</td>\n<td>87.1 L/min</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Water Cooled</td>\n<td>107 hp</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>With impressive lift capacity and an industry-leading 3.35M lift height, the Bobcat\u00ae S86 is the largest skid-steer loader in the lineup. This Tier 4 model helps you do more than ever before, but still in a compact frame. Unmatched power to help you push through your toughest jobs. Benefit from industry-leading breakout force, rated operating capacities, faster cycle times and quicker turns.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15083,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 12],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15061" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15061"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15083"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15061" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15061"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15061"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

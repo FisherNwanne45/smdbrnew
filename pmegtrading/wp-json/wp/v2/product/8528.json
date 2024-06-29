@@ -1,0 +1,65 @@
+{
+  "id": 8528,
+  "date": "2017-08-28T10:42:11",
+  "date_gmt": "2017-08-28T10:42:11",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=8528/" },
+  "modified": "2017-08-28T10:47:36",
+  "modified_gmt": "2017-08-28T10:47:36",
+  "slug": "k-3003-mobile-unit-for-masonry-cleaning",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/k-3003-mobile-unit-for-masonry-cleaning",
+  "title": { "rendered": "K-3003 Mobile Unit for Masonry Cleaning" },
+  "content": {
+    "rendered": "<div class=\"page-header\">\n<div class=\"page-header\">\n<div class=\"page-header\">\n<div class=\"page-header\">\n<h2>K-3003 &#8211; Mobile Unit</h2>\n</div>\n<div>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-8475\" src=\"https://pmegtrading.com/wp-content/uploads/2017/08/K-3003-Mobile-Unit-for-Masonry-Cleaning.jpg\" alt=\"K-3003 Mobile Unit for Masonry Cleaning\" width=\"825\" height=\"429\" srcset=\"https://pmegtrading.com/wp-content/uploads/2017/08/K-3003-Mobile-Unit-for-Masonry-Cleaning.jpg 825w, https://pmegtrading.com/wp-content/uploads/2017/08/K-3003-Mobile-Unit-for-Masonry-Cleaning-600x312.jpg 600w, https://pmegtrading.com/wp-content/uploads/2017/08/K-3003-Mobile-Unit-for-Masonry-Cleaning-769x400.jpg 769w, https://pmegtrading.com/wp-content/uploads/2017/08/K-3003-Mobile-Unit-for-Masonry-Cleaning-768x399.jpg 768w\" sizes=\"(max-width: 825px) 100vw, 825px\" />For ornamental or pre-casters doing smaller pieces, the K-3003 delivers solid performance and high productivity. Intricate castings are no problem &#8211; the ability to etch quickly with a powered spray eliminates the pooling, over-etching/under-etching common to other methods.</p>\n<h3>Applications</h3>\n<ul>\n<li>Precast Concrete Etching</li>\n<li>Cleaning brick faced panel removing retarder from exposed aggregate panels.</li>\n<li>Cleaning Forms, Mixers, other Equipment</li>\n<li>\u2026all other traditional pressure washer applications</li>\n</ul>\n<h3>Features</h3>\n<ul>\n<li>Acid Induction &#8211; Controlled Introduction of Chemical into High Pressure Water Stream &#8211; No Other Machine Does This!</li>\n<li>Trailer or skid mount</li>\n</ul>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/08/K-3003-Brochure-102915.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>Download Product Overview</span>\n  </a>\n\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>For ornamental or pre-casters doing smaller pieces, the K-3003 delivers solid performance and high productivity. Intricate castings are no problem &#8211; the ability to etch quickly with a powered spray eliminates the pooling, over-etching/under-etching common to other methods.</p>\n",
+    "protected": false
+  },
+  "featured_media": 8475,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [161, 160],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/8528" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=8528"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/8475"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=8528" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=8528"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=8528"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

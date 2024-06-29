@@ -1,0 +1,65 @@
+{
+  "id": 8151,
+  "date": "2017-08-27T12:56:29",
+  "date_gmt": "2017-08-27T12:56:29",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=8151/" },
+  "modified": "2017-11-05T09:48:36",
+  "modified_gmt": "2017-11-05T09:48:36",
+  "slug": "500ze-green-machines-electrical-street-sweeper",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/500ze-green-machines-electrical-street-sweeper",
+  "title": { "rendered": "500ze Green Machines Electrical Street Sweeper" },
+  "content": {
+    "rendered": "<h2>500ze Features and Benefits</h2>\n<h3>Green Machines 500ze Electrical Street Sweeper allows any-time cleaning in public areas</h3>\n<ul>\n<li>Increase productivity by sweeping non-stop for up to eight hours without charging the batteries</li>\n<li>Minimise environmental impact with sweeper power provided by two lithium-ion battery packs to eliminate engine emissions</li>\n<li>Quietly sweep anywhere at any time with lithium-ion battery packs powering the street sweeper</li>\n</ul>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-8152\" src=\"https://pmegtrading.com/wp-content/uploads/2017/08/500ze-Green-Machines-Electrical-Street-Sweeper-1.jpg\" alt=\"500ze Green Machines Electrical Street Sweeper 1\" width=\"600\" height=\"600\" srcset=\"https://pmegtrading.com/wp-content/uploads/2017/08/500ze-Green-Machines-Electrical-Street-Sweeper-1.jpg 600w, https://pmegtrading.com/wp-content/uploads/2017/08/500ze-Green-Machines-Electrical-Street-Sweeper-1-300x300.jpg 300w, https://pmegtrading.com/wp-content/uploads/2017/08/500ze-Green-Machines-Electrical-Street-Sweeper-1-100x100.jpg 100w, https://pmegtrading.com/wp-content/uploads/2017/08/500ze-Green-Machines-Electrical-Street-Sweeper-1-280x280.jpg 280w, https://pmegtrading.com/wp-content/uploads/2017/08/500ze-Green-Machines-Electrical-Street-Sweeper-1-400x400.jpg 400w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></p>\n<h3>Key machine features of the Green Machines 500ze Electrical Street Sweeper</h3>\n<ul>\n<li>CloudMaker technology and three-stage dust filtration clean and protect the environment while using up to 70% less water than traditional street sweepers</li>\n<li>Lithium-ion batteries provide eight hours of continuous sweeping and then recharge in four hours to improve productivity</li>\n<li>Top speed of 15mph/25kph allows the 500ze to move swiftly between sweep areas while providing a smooth ride with four-wheel suspension system</li>\n</ul>\n<h3>Choose the ideal options to customise the Green Machines 500ze Electrical Street Sweeper</h3>\n<ul>\n<li>Colour closed-circuit television (CCTV) reversing camera allows operator to see obstacles behind the sweeper to improve safety as the sweeper moves in reverse</li>\n<li>On-board pressure washer blasts debris away in hard-to-reach spaces</li>\n<li>Air-conditioned cab provides operator comfort and reduces fatigue in hot weather conditions</li>\n<li>More options available on request</li>\n</ul>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/08/500ze_Imagebroschuere_EN.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Green Machines 500ze Electrical Street Sweeper is powered by lithium ion battery technology to quietly clean any time of day with no engine emissions.</p>\n",
+    "protected": false
+  },
+  "featured_media": 8156,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [157],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/8151" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=8151"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/8156"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=8151" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=8151"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=8151"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 36,
+  "count": 7,
+  "description": "The world\u2019s leading manufacturer of special glass. NEG was founded over half a century ago, in 1949. In the intervening years, the company has consistently focused on developing and improving its glassmaking technology and introducing new products. NEG has always been committed to creating and refining its technology. In addition to the production facilities in Japan that constitute its core base, NEG has established plants overseas to meet global needs. ",
+  "link": "https://pmegtrading.com/product-category/neg",
+  "name": "NEG",
+  "slug": "neg",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/36" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=36" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

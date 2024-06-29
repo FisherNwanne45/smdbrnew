@@ -1,0 +1,67 @@
+{
+  "id": 14040,
+  "date": "2021-03-28T14:45:51",
+  "date_gmt": "2021-03-28T14:45:51",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=14040"
+  },
+  "modified": "2021-03-28T14:52:25",
+  "modified_gmt": "2021-03-28T14:52:25",
+  "slug": "ds-100-2-refrigerant-compressed-air-dryer",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/ds-100-2-refrigerant-compressed-air-dryer",
+  "title": { "rendered": "DS 100-2 Refrigerant Compressed Air Dryer" },
+  "content": {
+    "rendered": "<h3><strong>BOGE DS 100-2 refrigerant compressed air dryer</strong></h3>\n<p>&nbsp;</p>\n<p><strong>The energy-efficient refrigerant dryer</strong></p>\n<p>&nbsp;</p>\n<p>\u2013\u00a0\u00a0 The innovative aluminium heat exchanger ensures up to 20% lower\u00a0energy consumption compared to the predecessor series</p>\n<p>\u2013\u00a0\u00a0 In addition, the pressure loss has been further reduced compared to the predecessor series.</p>\n<p>\u2013\u00a0\u00a0 Their bifrequent design (50/60 Hz) makes the dryers suitable\u00a0for global use</p>\n<p>\u2013\u00a0\u00a0 A digital control including a status indicator and a potential-free contact are included as standard</p>\n<p>\u2013\u00a0\u00a0 Constant pressure dew point maintained in each operating phase from 0 &#8211; 100 % flow rate</p>\n<p>\u2013\u00a0\u00a0 Environmentally-friendly and ozone harmless refrigerant R134a with up to 25% reduced\u00a0refrigerant quantity</p>\n<p>\u2013\u00a0\u00a0 Standard supply with attached time-controlled condensate drain.</p>\n<p>\u2013\u00a0\u00a0 High level of protection against corrosion for an extended service life using powder-coated housing parts</p>\n<p>\u2013\u00a0\u00a0 Compact design for minimum set-up area</p>\n<p>\u2013\u00a0\u00a0 Compressed air outlet at the rear</p>\n<p>\u2013\u00a0\u00a0 Easy access to the drain recess from two sides</p>\n<p>\u2013\u00a0\u00a0 Fully detachable panels allow easy access for maintenance</p>\n<p>\u2013\u00a0\u00a0 Power supply cable and european plug</p>\n<p>&nbsp;</p>\n<p>\u2013\u00a0\u00a0 <strong>Pre-filter</strong></p>\n<p>The use of a BOGE pre-filter (F\u2026P) upstream of the refrigererant dryer\u00a0is strongly recommended. Damage resulting from the lack of a pre-filter</p>\n<p>may void the warranty.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The new DS 100-2 series features a highly efficient aluminium heat exchanger, which minimises performance losses in the refrigeration cycle and at the same time uses less refrigerant than comparable models. The power consumption is also minimal, making running costs exceptionally low. All models in the new series are fitted as standard with a digital controller, featuring practical functions including status display, floating alarm contact and maintenance reminder. In addition to their superb energy efficiency, the new DS-2 models also have impressively low CO2 emissions ratings. They are designed to run on both 50 and 60 Hz (230 V) power supplies and as such can be used throughout the world. For models with a flow capacity of 2.6 m3/min or more, an additional energy saving option is available, further reducing power consumption in part-load operation.</p>\n",
+    "protected": false
+  },
+  "featured_media": 14046,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [198, 200],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/14040" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=14040"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/14046"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=14040" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=14040"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=14040"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

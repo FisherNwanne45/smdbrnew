@@ -1,0 +1,80 @@
+{
+  "id": 51,
+  "date": "2013-10-17T00:00:00",
+  "date_gmt": "2013-10-17T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/2013/10/17/visit-of-bobcats-president/"
+  },
+  "modified": "2013-10-17T00:00:00",
+  "modified_gmt": "2013-10-17T00:00:00",
+  "slug": "visit-of-bobcats-president",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pmegtrading.com/visit-of-bobcats-president",
+  "title": { "rendered": "Visit of Bobcat\u2019s President" },
+  "content": {
+    "rendered": "<p>In appreciation of the historical visit of Bobcat\u2019s president and representatives at GTE\u2019s main company branch in the Eastern Region Al Rakah in October 2013.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>In appreciation of the historical visit of Bobcat\u2019s president and representatives at GTE\u2019s main company branch in the Eastern Region Al Rakah in October 2013.</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 52,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [7],
+  "tags": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/posts/51" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/posts" }],
+    "about": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/types/post" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=51"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/posts/51/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/52"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=51" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/categories?post=51"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/tags?post=51"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

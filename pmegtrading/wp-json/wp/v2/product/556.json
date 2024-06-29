@@ -1,0 +1,65 @@
+{
+  "id": 556,
+  "date": "2016-04-17T00:00:00",
+  "date_gmt": "2016-04-17T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/s450-skid-steer-loader/" },
+  "modified": "2017-06-21T16:08:51",
+  "modified_gmt": "2017-06-21T16:08:51",
+  "slug": "s450-skid-steer-loader",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/s450-skid-steer-loader",
+  "title": { "rendered": "S450 Skid-Steer Loader" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: justify;\">S450 \u2013 Comfort and control for the compact Skid Steer Loader market</h3>\n<p>The Bobcat <strong>S450 </strong>combines all the advantages of a truly compact loader but incorporates many features found on larger machines. The <strong>S450</strong> offers class leading comfort and visibility to allow for greater control and accuracy in tight working spaces. Additionally, and uniquely for a Skid Steer in this class size, a fully pressurised cab with air-conditioning option available.</p>\n<p>The comprehensive options list allows you to configure your machine with different operator controls and 2 speed functionality for added comfort and productivity.</p>\n<p>To complete the compact package, serviceability features and uptime protection are on a level also seen on larger models. The<strong>S450</strong> uses the same large range of attachments as used on our other models to bring you the most comfortable compact loader for any application.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul class=\"float\">\n<li>Large cab and great operator comfort</li>\n<li>Air Conditioning option and pressurised cab</li>\n<li>Compact machine with all round visibility</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 557,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 12],
+  "product_tag": [10],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/556" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=556"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/557"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=556" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=556"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=556"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

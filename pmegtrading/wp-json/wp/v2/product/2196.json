@@ -1,0 +1,65 @@
+{
+  "id": 2196,
+  "date": "2017-02-20T08:35:49",
+  "date_gmt": "2017-02-20T08:35:49",
+  "guid": { "rendered": "https://pmegtrading.com/product/sc-net/" },
+  "modified": "2017-06-21T16:11:28",
+  "modified_gmt": "2017-06-21T16:11:28",
+  "slug": "sc-net",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/sc-net",
+  "title": { "rendered": "SC Net" },
+  "content": {
+    "rendered": "<p>The continuous ARG fiber strands can work as reinforcement or crack control material effectively. It is used as reinforcement or crack control material for rendering, precast concrete and Glassfiber Reinforced Concrete (GRC). It is also applicable as repairing material to peeling prevention method for concrete members.</p>\n<p>SC NET is made of glass fibre, which contains the largest content of ZrO2 commercially available.\u00a0SC NET is a scrim for the use of reinforcement of mortar and concrete.</p>\n<p>\u00a0</p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/SC-NET.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>SC NET is made of glass fibre, which contains the largest content of ZrO2 commercially available.\u00a0SC NET is a scrim for the use of reinforcement of mortar and concrete.</p>\n",
+    "protected": false
+  },
+  "featured_media": 2198,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [32, 36],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/2196" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=2196"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/2198"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=2196" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=2196"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=2196"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

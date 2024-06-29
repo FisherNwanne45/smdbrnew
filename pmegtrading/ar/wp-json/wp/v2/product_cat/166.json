@@ -1,0 +1,38 @@
+{
+  "id": 166,
+  "count": 4,
+  "description": "",
+  "link": "https://pmegtrading.com/ar/product-category/jacobson-chemicals-ar/re-usable-melting-rubber-melting-equipment-ar",
+  "name": "\u0627\u0644\u0645\u0637\u0627\u0637 \u0627\u0644\u0642\u0627\u0628\u0644 \u0644\u0625\u0639\u0627\u062f\u0629 \u0627\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0648 \u0645\u0639\u062f\u0627\u062a \u0630\u0648\u0628\u0627\u0646",
+  "slug": "re-usable-melting-rubber-melting-equipment-ar",
+  "taxonomy": "product_cat",
+  "parent": 148,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat/166" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      {
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/taxonomies/product_cat"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat/148"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product?product_cat=166"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

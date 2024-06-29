@@ -1,0 +1,65 @@
+{
+  "id": 909,
+  "date": "2016-05-01T00:00:00",
+  "date_gmt": "2016-05-01T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/r-evolution/" },
+  "modified": "2023-10-18T14:50:38",
+  "modified_gmt": "2023-10-18T11:50:38",
+  "slug": "r-evolution",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/r-evolution",
+  "title": { "rendered": "R-Evolution" },
+  "content": {
+    "rendered": "<p><strong>EXPERIENCE VISIBILITY</strong></p>\n<p>D\u2019avino Self Loading Concrete Mixers present themselves as the solution to visibility issues that every other conventional mixer suffers from. Dead angles which inhibit direct view can affect safety and productivity, delaying return on your investment.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>4 stroke 4 cylinder turbo diesel 1104D-44T; Max Power 74 kW @ 2300 RPM; transmission 4\u00d74 Hydrostatic; operator\u2019s Turret Welded to the rotating frame, with rotation at 315\u00b0</p>\n",
+    "protected": false
+  },
+  "featured_media": 910,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [21, 224],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/909" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=909"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/910"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=909" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=909"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=909"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 199,
+  "date": "2016-04-08T00:00:00",
+  "date_gmt": "2016-04-08T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/buckets-excavators/" },
+  "modified": "2017-06-21T16:08:22",
+  "modified_gmt": "2017-06-21T16:08:22",
+  "slug": "buckets-excavators",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/buckets-excavators",
+  "title": { "rendered": "Buckets (Excavators)" },
+  "content": {
+    "rendered": "<p style=\"text-align: justify;\">Attachment capabilities make a big impact on your productivity. When attachment changes are simple, operators are more likely to use the proper-sized bucket and the best attachment for the job. That can mean fuel savings, less time spent backfilling and less wear and tear on your machine.</p>\n<p>Most models feature the exclusive X-ChangeTM system that allows you to change attachments quickly. If you want the most convenient attachment changes in the industry, purchase the optional Hydraulic X-Change system. Activate the hydraulic pins at the flip of a switch; retract for attachment removal or extend for attachment hook up. Install the retainer pins before operating. The system maintains optimal &#8220;pin-on&#8221; bucket geometry, so arm and bucket force are not compromised.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Come in a wide range for digging, trenching and grading and are available in different sizes.\u00a0 Standard or heavy duty is available for most sizes.</p>\n",
+    "protected": false
+  },
+  "featured_media": 200,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [8, 27],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/199" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=199"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/200"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=199" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=199"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=199"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

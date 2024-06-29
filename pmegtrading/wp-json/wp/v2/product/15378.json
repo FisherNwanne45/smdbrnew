@@ -1,0 +1,67 @@
+{
+  "id": 15378,
+  "date": "2023-10-17T15:45:21",
+  "date_gmt": "2023-10-17T12:45:21",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15378"
+  },
+  "modified": "2023-10-17T15:50:31",
+  "modified_gmt": "2023-10-17T12:50:31",
+  "slug": "aph-65-85-hydrostatic-vibrator-plate",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/aph-65-85-hydrostatic-vibrator-plate",
+  "title": { "rendered": "APH 65/85 Hydrostatic Vibrator Plate" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15382\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/aph_6585_vibratory_plate_avd_dsc02322_190319.webp\" alt=\"\" width=\"1350\" height=\"900\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/aph_6585_vibratory_plate_avd_dsc02322_190319.webp 1350w, https://pmegtrading.com/wp-content/uploads/2023/10/aph_6585_vibratory_plate_avd_dsc02322_190319-600x400.webp 600w, https://pmegtrading.com/wp-content/uploads/2023/10/aph_6585_vibratory_plate_avd_dsc02322_190319-1200x800.webp 1200w, https://pmegtrading.com/wp-content/uploads/2023/10/aph_6585_vibratory_plate_avd_dsc02322_190319-768x512.webp 768w\" sizes=\"(max-width: 1350px) 100vw, 1350px\" /></p>\n<p>&nbsp;</p>\n<table style=\"height: 128px;\" width=\"1113\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"128\"></td>\n</tr>\n<tr>\n<td>Operating Weight</td>\n<td>471 kg</td>\n</tr>\n<tr>\n<td>Working Width</td>\n<td>55/70/85 cm</td>\n</tr>\n<tr>\n<td>Compaction Force and\u00a0 Frequency</td>\n<td>65 kN / 55 Hz</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Air Cooled</td>\n<td>Hatz Supra 1D81S</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The APH 65/85 is another powerful worker that delivers compaction force every step of the way. The plate is equipped with the market-leading Ammann three-shaft exciter system, which not only enables performance and climbing ability but also makes the machine more responsive and easier to handle for the operator with compaction force of 6.5 ton. The optional ACE compaction measuring system is a key tool many contractors utilise in efforts to achieve thorough, efficient compaction results.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15392,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [28, 18],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15378" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15378"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15392"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15378" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15378"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15378"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

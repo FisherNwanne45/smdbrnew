@@ -1,0 +1,67 @@
+{
+  "id": 15422,
+  "date": "2023-10-17T17:23:53",
+  "date_gmt": "2023-10-17T14:23:53",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15422"
+  },
+  "modified": "2023-10-18T08:00:41",
+  "modified_gmt": "2023-10-18T05:00:41",
+  "slug": "arx23-2-tandem-roller",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/arx23-2-tandem-roller",
+  "title": { "rendered": "ARX23-2 Tandem Roller" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15424\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/38735_en_78572_41309_arx-23-2c-light-tandem-roller-3d-rendering-0037-1.webp\" alt=\"\" width=\"1000\" height=\"666\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/38735_en_78572_41309_arx-23-2c-light-tandem-roller-3d-rendering-0037-1.webp 1000w, https://pmegtrading.com/wp-content/uploads/2023/10/38735_en_78572_41309_arx-23-2c-light-tandem-roller-3d-rendering-0037-1-601x400.webp 601w, https://pmegtrading.com/wp-content/uploads/2023/10/38735_en_78572_41309_arx-23-2c-light-tandem-roller-3d-rendering-0037-1-768x511.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/38735_en_78572_41309_arx-23-2c-light-tandem-roller-3d-rendering-0037-1-600x400.webp 600w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></p>\n<p>&nbsp;</p>\n<table style=\"height: 141px;\" width=\"1180\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"128\"></td>\n</tr>\n<tr>\n<td>Operating Weight</td>\n<td>2425 kg</td>\n</tr>\n<tr>\n<td>Working Width</td>\n<td>113 mm</td>\n</tr>\n<tr>\n<td>Compaction Force and\u00a0 Frequency</td>\n<td>24 kN /58/66 Hz</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Air Cooled</td>\n<td>Kubota D1703-M-DI</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Ammann ARX 23-2 Tandem Roller is compact and able to work flush against curbs and other obstructions. But it is heavier than the lightest Ammann Tandem Roller models, making it a good fit for jobs that require a bit more weight and drum width. The roller has compaction power output of 41 kN. It weighs 2250 kg and has a drum width of 1000 mm.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15426,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [28, 17],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15422" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15422"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15426"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15422" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15422"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15422"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

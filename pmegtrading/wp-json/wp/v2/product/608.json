@@ -1,0 +1,65 @@
+{
+  "id": 608,
+  "date": "2016-04-17T00:00:00",
+  "date_gmt": "2016-04-17T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/s650-skid-steer-loader/" },
+  "modified": "2017-06-21T16:08:52",
+  "modified_gmt": "2017-06-21T16:08:52",
+  "slug": "s650-skid-steer-loader",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/s650-skid-steer-loader",
+  "title": { "rendered": "S650 Skid-Steer Loader" },
+  "content": {
+    "rendered": "<h3>The best is now even better!</h3>\n<p>With the new Bobcat loaders, there\u2019s a difference you can see \u2013 and a difference you\u2019ll experience on the job. They have a completely re-engineered cab that keeps you comfortable, with superior power and hydraulic performance that will help you do more, do it faster and<br />\nbetter.</p>\n<p>Harnessing over 50 years of leadership in the design and construction of compact equipment, Bobcat has begun the launch of a completely new generation of machines that set up the new standard in the skid-steer and compact tracked loader market worldwide.</p>\n<p>All the innovations on the new loaders are dramatic. Take the Premium Cab design, the largest on the market, with more space, less noise and enhanced ergonomics for greater operator comfort, enhanced productivity and better protection both back and front. Even more dramatic is the new forward position of the cab that significantly increases visibility for the operator both in front and all round the machine. Add to this a significant increase in power and hydraulic performance that boosts productivity; simplified maintenance and serviceability; and a completely new engineering design coupled with improved durability that further increases uptime.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul class=\"float\">\n<li>Cab-Forward design</li>\n<li>Better visibility</li>\n<li>Superior performance</li>\n<li>Maximizing uptime</li>\n<li>Ultimate protection</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 609,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 12],
+  "product_tag": [10],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/608" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=608"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/609"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=608" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=608"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=608"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

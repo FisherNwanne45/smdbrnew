@@ -1,0 +1,65 @@
+{
+  "id": 1752,
+  "date": "2017-02-14T05:51:42",
+  "date_gmt": "2017-02-14T05:51:42",
+  "guid": { "rendered": "https://pmegtrading.com/product/acr-70d-rammer/" },
+  "modified": "2017-06-21T16:10:28",
+  "modified_gmt": "2017-06-21T16:10:28",
+  "slug": "acr-70d-rammer",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/acr-70d-rammer",
+  "title": { "rendered": "ACR 70D Rammer" },
+  "content": {
+    "rendered": "<p>The ACR 70D provides the most rammer weight, at 83 kg. It utilises a YANMAR L48 diesel engine that is popular with contractors who prefer light equipment with diesel engines \u2013 and of course want power, too.</p>\n<p>The rammer features a n adjustable, vibration-resistant handle that helps fight fatigue and keep the operator focused throughout a shift.</p>\n<p>The added weight combined with the low centre of gravity and the YANMAR engine provide plenty of compaction pop.</p>\n<p>\u00a0</p>\n<h4 class=\"drawer-title\">OVERVIEW</h4>\n<div class=\"drawer-content\">\n<div class=\"drawer-content\">\n<ul>\n<li>Best-in-class drive</li>\n<li>Sure-grip, vibration-insulated guide handle for fatigue-free operation</li>\n<li>Corrosion-free fuel tank</li>\n<li>Powerful and robust single-spring system</li>\n<li>Easily accessible recoil starter</li>\n<li>Throttle adjustment with automatic idle</li>\n<li>Robust crank drive</li>\n<li>Wear-resistant ramming shoe made of high quality plastic with integrated steel plate</li>\n<li>Additional rollers and grips for easy loading and unloading</li>\n</ul>\n</div>\n</div>\n<div class=\"drawer-content\">\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/acr_rammers_brochure_mpb-1579-00-en-1.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>PRODUCT FAMILY OVERVIEW</span>\n  </a>\n\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Best-in-class drive</li>\n<li>Sure-grip, vibration-insulated guide handle for fatigue-free operation</li>\n<li>Corrosion-free fuel tank</li>\n<li>Powerful and robust single-spring system</li>\n<li>Easily accessible recoil starter</li>\n<li>Throttle adjustment with automatic idle</li>\n<li>Robust crank drive</li>\n<li>Wear-resistant ramming shoe made of high quality plastic with integrated steel plate</li>\n<li>Additional rollers and grips for easy loading and unloading</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 1758,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [28, 15],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1752" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1752"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1758"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1752" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1752"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1752"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

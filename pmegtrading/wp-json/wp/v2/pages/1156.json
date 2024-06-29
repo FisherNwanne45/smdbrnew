@@ -1,0 +1,58 @@
+{
+  "id": 1156,
+  "date": "2016-12-14T00:00:00",
+  "date_gmt": "2016-12-14T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/?page_id=1156" },
+  "modified": "2018-03-28T10:07:26",
+  "modified_gmt": "2018-03-28T10:07:26",
+  "slug": "catalog-media-red",
+  "status": "publish",
+  "type": "page",
+  "link": "https://pmegtrading.com/catalog-media-red",
+  "title": { "rendered": "CATALOG MEDIA RED" },
+  "content": {
+    "rendered": "[real3dflipbook id=&#8221;1&#8243;]\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "[real3dflipbook id=&#8221;1&#8243;]\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "page-blank-landingpage.php",
+  "meta": { "footnotes": "" },
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/pages/1156" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/pages" }],
+    "about": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/types/page" }],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1156"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/pages/1156/revisions"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1156" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

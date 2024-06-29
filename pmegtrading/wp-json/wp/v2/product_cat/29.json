@@ -1,0 +1,34 @@
+{
+  "id": 29,
+  "count": 15,
+  "description": "PMEG offers complete range of Concrete Batching Plants and Transport Systems for Precast and Readymix Concrete Factories. Used for Precast Concrete Products and Readymix Concrete with Wet Cast &amp; Zero Slump Application. High Speed Shuttle System \u2013 Skip with Bottom Discharge Flap or Conveyor Screw Spreader, Rail Mounted Concrete Feeder with Electrical, Diesel or LPG Motor",
+  "link": "https://pmegtrading.com/product-category/max-truder/precast-concrete-factory-equipment",
+  "name": "Precast Concrete Factory Equipment",
+  "slug": "precast-concrete-factory-equipment",
+  "taxonomy": "product_cat",
+  "parent": 24,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/29" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/24"
+      }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=29" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

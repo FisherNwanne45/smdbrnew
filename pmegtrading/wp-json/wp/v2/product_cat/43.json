@@ -1,0 +1,28 @@
+{
+  "id": 43,
+  "count": 4,
+  "description": "The CROMA machines are designed to answer your needs and meet your requirements. Every machine is produced with the best tools and the best components in order to guarantee precision, quality, longevity and adaptability.",
+  "link": "https://pmegtrading.com/product-category/croma",
+  "name": "Croma",
+  "slug": "croma",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/43" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=43" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

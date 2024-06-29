@@ -1,0 +1,28 @@
+{
+  "id": 34,
+  "count": 4,
+  "description": "Polytek Development Corp. manufactures the most complete and versatile line of liquid mold rubbers, liquid casting plastics/resins/foams and other specialty molding and casting materials. These mold materials include two-part, high-performance RTV polyurethane silicone as well as one-part latex and other specialty systems. Polytek liquid rubbers and plastics are used in countless applications where the flexibility and ease-of-use of rubber molds are needed to create exact, highly detailed reproductions of any original model in concrete, plaster, resin, foam, wax and more.",
+  "link": "https://pmegtrading.com/product-category/polytek",
+  "name": "Polytek",
+  "slug": "polytek",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/34" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=34" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

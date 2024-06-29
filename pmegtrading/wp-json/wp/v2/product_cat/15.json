@@ -1,0 +1,34 @@
+{
+  "id": 15,
+  "count": 2,
+  "description": "Ammann Rammers feature the best forward-movement in the industry, helping contractors in all applications work productively and ultimately achieve compaction targets. The forward-moving ability makes them the tool of choice for contractors and rental agencies.",
+  "link": "https://pmegtrading.com/product-category/ammann/amman-rammers",
+  "name": "Rammers",
+  "slug": "amman-rammers",
+  "taxonomy": "product_cat",
+  "parent": 28,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/15" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/28"
+      }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=15" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

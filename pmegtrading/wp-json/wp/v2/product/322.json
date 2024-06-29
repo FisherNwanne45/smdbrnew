@@ -1,0 +1,65 @@
+{
+  "id": 322,
+  "date": "2016-04-08T00:00:00",
+  "date_gmt": "2016-04-08T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/wheel-saw/" },
+  "modified": "2017-06-21T16:08:26",
+  "modified_gmt": "2017-06-21T16:08:26",
+  "slug": "wheel-saw",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/wheel-saw",
+  "title": { "rendered": "Wheel Saw" },
+  "content": {
+    "rendered": "<div class=\"row\">\n<div class=\"col-xs-12\">\n<p>Cut through a variety of surfaces with the wheel saw attachment.</p>\n<p>Powered by the carrier\u2019s high-flow hydraulics, the wheel saw cuts through asphalt, concrete, and other materials to produce a trench for installing utility lines. The trench cleaner (available with 6 in. and 8 in. wheels only), which is raised and lowered hydraulically, assures a clean trench for installation. Use the hydraulic depth adjustment gauge to deliver a consistent, uniform cut depth. For operating close to curbs and walls, the hydraulic side-shift allows the attachment to shift flush with any nearby object for a close cut.</p>\n<p>Operate with minimal damage to the surrounding jobsite and eliminate the mess of excavation. The wheel saw attachment provides a more precise cut than air or hydraulic hammers and is easier to transport than dedicated machines.</p>\n<p>The wheel saw is the ideal attachment for road repair crews and rental facilities.</p>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Top Tasks</h2>\n<ul>\n<li>Cut trenches for installing water, gas, electrical, utility, and fiber-optic cable lines</li>\n<li>Prepare pavement for repairs</li>\n<li>Cut through asphalt, rebar, concrete, frozen ground, and wire mesh</li>\n</ul>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>How It Works</h2>\n<p>The hydraulic motor turns the carbide tipped wheel to cut material which then exits through openings on the side of the wheel saw. A hydraulic cylinder controls the depth of cut. A second hydraulic cylinder raises and lowers the trench cleaner to provide a clean bottom trench.</p>\n</div>\n<h2>Features</h2>\n<ul>\n<li><strong>Carbide-Tipped Bits</strong>: For longer tooth wear, bits are carbide-tipped for maximum uptime protection.</li>\n<li><strong>Hydraulic Depth Adjustment</strong>: Depth gauge provides for uniform depth control while cutting.</li>\n<li><strong>Hydraulic Side-Shift</strong>: For operating close to curbs and walls, the hydraulic side-shift allows the attachment to shift flush with any nearby object.</li>\n<li><strong>Side Cutter Teeth</strong>: Reduce wear to the side of the wheel.</li>\n<li><strong>Skis</strong>: The full length of the skis provides maximum stability and cutting accuracy.</li>\n<li><strong>Spoil Deflectors</strong>: Push milled materials away from the trench, delivering a clean trench for installation.</li>\n<li><strong>Stands</strong>: To improve an operator\u2019s ability to attach and remove the wheel saw, storage stands raise the skis when the attachment is not in use.</li>\n<li><strong>Trench Cleaner</strong>: Hydraulically controlled, the trench cleaner ensures a clean trench is left behind when operating the wheel saw (6- and 8-inch wheels only).</li>\n<li><strong>Hour Meter</strong>: Hours are electronically stored on the attachment and can be read with the deluxe instrumentation panel on Bobcat M-Series loaders to keep track of service intervals and component life.</li>\n</ul>\n</div>\n<div class=\"clearfix\"></div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Cuts through asphalt, concrete, frozen ground and wire mesh</li>\n<li>Ideal for precise cuts on road repairs and utility installations</li>\n<li>Two models: 18- or 24-in. max. dig depths</li>\n<li>Wheel widths: 3, 6 and 8 in.</li>\n<li>Hydraulic side shift</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 323,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [8, 27],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/322" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=322"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/323"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=322" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=322"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=322"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MaxPlants &#8211; Prime Machinery & Equipment General Trading FZE </title>
+	<atom:link href="https://pmegtrading.com/product-category/max-truder/precast-concrete-factory-equipment/maxplants/feed" rel="self" type="application/rss+xml" />
+	<link>https://pmegtrading.com</link>
+	<description>Construction Equipment Rentals and Sales in Saudi Arabia</description>
+	<lastBuildDate>Thu, 11 Aug 2022 14:25:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+
+<image>
+	<url>https://pmegtrading.com/wp-content/uploads/2016/11/cropped-general-trading-and-equipment-company-big-logo-512X512-png-tr-1-32x32.png</url>
+	<title>MaxPlants &#8211; Prime Machinery & Equipment General Trading FZE </title>
+	<link>https://pmegtrading.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Stationary Precast Concrete Factory</title>
+		<link>https://pmegtrading.com/product/stationary-precast-concrete-factory</link>
+					<comments>https://pmegtrading.com/product/stationary-precast-concrete-factory#respond</comments>
+		
+		<dc:creator><![CDATA[PMEG Support]]></dc:creator>
+		<pubDate>Wed, 10 Aug 2022 10:04:52 +0000</pubDate>
+				<guid isPermaLink="false">https://pmegtrading.com/?post_type=product&#038;p=14452</guid>
+
+					<description><![CDATA[<strong>Modular, scalable stationar</strong>y production technology ensures optimal precast production with maximum output. Low running costs and the highest quality end products permit a short-term return on investment. Our <strong>modular system</strong> allows <strong>easy conversions, retrofits and upgrades,</strong> for example in capacity, product range, degree of automation. A highly automated precast plant starting from the concrete mixing plant to the concrete transport to the production machine avoids manual errors. Applied industrial procedures ensure highly efficient production. The enormous cement savings and minimal water consumption of our hollow core slab production modules enable further efficiency increases in two- or three-shift operation.]]></description>
+		
+					<wfw:commentRss>https://pmegtrading.com/product/stationary-precast-concrete-factory/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mobile Precast Factory</title>
+		<link>https://pmegtrading.com/product/mobile-precast-factory</link>
+					<comments>https://pmegtrading.com/product/mobile-precast-factory#respond</comments>
+		
+		<dc:creator><![CDATA[PMEG Support]]></dc:creator>
+		<pubDate>Wed, 10 Aug 2022 09:07:03 +0000</pubDate>
+				<guid isPermaLink="false">https://pmegtrading.com/?post_type=product&#038;p=14445</guid>
+
+					<description><![CDATA[A <strong>mobile modular, scalable</strong> precast concrete plant offers entirely new possibilities for the production of high-quality precast concrete parts on site. The advantages in quote calculation for large projects will also be attractive. A mobile plant enables you in offering high-quality precast concrete parts at best flexibility with minimum transport costs. The <strong>location-independence</strong> of the facility gives you a clear competitive advantage in project tenders; with on-site production even eliminating the need to invest in a suitable plot of land.]]></description>
+		
+					<wfw:commentRss>https://pmegtrading.com/product/mobile-precast-factory/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

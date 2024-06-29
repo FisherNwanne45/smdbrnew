@@ -1,0 +1,36 @@
+{
+  "id": 163,
+  "count": 1,
+  "description": "Ammann Walk-Behind Rollers combine two applications in a single machine. The operator chooses whether to utilise a high-amplitude setting for work on gravel / soil or a low-amplitude setting for asphalt and bituminous materials.",
+  "link": "https://pmegtrading.com/product-category/ammann/amman-walk-behind-rollerse",
+  "name": "Walk Behind Rollers",
+  "slug": "amman-walk-behind-rollerse",
+  "taxonomy": "product_cat",
+  "parent": 28,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/163" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/28"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=163"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

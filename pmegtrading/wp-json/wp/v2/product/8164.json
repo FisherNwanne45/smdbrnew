@@ -1,0 +1,65 @@
+{
+  "id": 8164,
+  "date": "2017-08-27T13:14:31",
+  "date_gmt": "2017-08-27T13:14:31",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=8164/" },
+  "modified": "2017-11-05T09:48:28",
+  "modified_gmt": "2017-11-05T09:48:28",
+  "slug": "636-green-machines-series-air-sweeper",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/636-green-machines-series-air-sweeper",
+  "title": { "rendered": "636 Green Machines Series Air Sweeper" },
+  "content": {
+    "rendered": "<h2><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-8167\" src=\"https://pmegtrading.com/wp-content/uploads/2017/08/636-Green-Machines-Series-Air-Sweeper-2.jpg\" alt=\"636 Green Machines Series Air Sweeper 2\" width=\"600\" height=\"600\" srcset=\"https://pmegtrading.com/wp-content/uploads/2017/08/636-Green-Machines-Series-Air-Sweeper-2.jpg 600w, https://pmegtrading.com/wp-content/uploads/2017/08/636-Green-Machines-Series-Air-Sweeper-2-300x300.jpg 300w, https://pmegtrading.com/wp-content/uploads/2017/08/636-Green-Machines-Series-Air-Sweeper-2-100x100.jpg 100w, https://pmegtrading.com/wp-content/uploads/2017/08/636-Green-Machines-Series-Air-Sweeper-2-280x280.jpg 280w, https://pmegtrading.com/wp-content/uploads/2017/08/636-Green-Machines-Series-Air-Sweeper-2-400x400.jpg 400w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></h2>\n<h2>636 Features and Benefits</h2>\n<h3>Green Machines 636 Series Air Sweeper is easy to operate and allows any-time cleaning in public spaces</h3>\n<ul>\n<li>Efficiently sweep footpaths and other pedestrian spaces without disrupting patrons, employees or guests</li>\n<li>Clean where other large city cleaning machines cannot\u00a0&#8211;\u00a0on footpaths, under planters, round benches, and in other hard-to-reach areas</li>\n<li>Put operators at ease with all-round visibility and easy-to-use ergonomic controls</li>\n</ul>\n<h3>Key machine features of the Green Machines 636 Series Air Sweeper</h3>\n<ul>\n<li>CloudMaker\u00ae technology and the three-stage dust filtration clean and protect the environment while using 70% less water than traditional street sweepers</li>\n<li>Vari-track\u2122 extendable front track provides stable 20 mph / 32 km transport speed to allow operators to arrive at the job quickly</li>\n<li>Four-wheel drive and fully independent suspension give the operator a quality ride</li>\n</ul>\n<h3>Choose the ideal options to customise the Green Machines 636 Series Air Sweeper</h3>\n<ul>\n<li>Colour closed-circuit television (CCTV) reversing camera allows operator to see obstacles behind the sweeper to improve safety as the sweeper moves in reverse</li>\n<li>On-board pressure washer blasts debris away in hard-to-reach spaces</li>\n<li>Air conditioned cab improves operator comfort and reduces fatigue in hot weather conditions</li>\n</ul>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/08/636_Imagebroschuere_EN.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Green Machines 636 Series air sweeper manoeuvres easily in congested public spaces to quietly clean with minimal dust any time of day.</p>\n",
+    "protected": false
+  },
+  "featured_media": 8169,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [157],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/8164" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=8164"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/8169"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=8164" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=8164"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=8164"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

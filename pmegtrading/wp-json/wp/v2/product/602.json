@@ -1,0 +1,65 @@
+{
+  "id": 602,
+  "date": "2016-04-17T00:00:00",
+  "date_gmt": "2016-04-17T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/s630-skid-steer-loader/" },
+  "modified": "2017-06-21T16:08:52",
+  "modified_gmt": "2017-06-21T16:08:52",
+  "slug": "s630-skid-steer-loader",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/s630-skid-steer-loader",
+  "title": { "rendered": "S630 Skid-Steer Loader" },
+  "content": {
+    "rendered": "<h3>The new generation</h3>\n<div class=\"productdesc\">\n<div>\n<p>The new Bobcat 600 series loader models combine all the advantages of a truly compact loader with many new features and improvements. The S630 belongs to a new platform that fits in between the medium and large frame loaders and offers significantly improved visibility, performance, comfort and uptime protection in a more compact package.</p>\n<p>The new Bobcat S630 radial lift path skid-steer loader is designed and built to offer the highest levels of performance, efficiency and operator comfort. Add to this a significant <strong>increase in power and hydraulic performance that boosts productivity; simplified maintenance and serviceability; and a completely new engineering design coupled with improved durability that further increases uptime.</strong></p>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul class=\"float\">\n<li>Operator Comfort</li>\n<li>Visibility</li>\n<li>Superior performance</li>\n<li>Reliability</li>\n<li>Durability</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 603,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 12],
+  "product_tag": [10],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/602" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=602"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/603"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=602" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=602"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=602"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

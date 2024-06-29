@@ -1,0 +1,36 @@
+{
+  "id": 214,
+  "count": 4,
+  "description": "Concrete is a recyclable artificial stone made from natural raw materials. Construction with concrete is sustainable thanks to the long life of buildings made from it. The thermal mass of concrete is very beneficial for energy-efficient temperature management in buildings. Concrete does not burn, so it is ideal for first-class fire protection in buildings. Reinforced concrete is highly load bearing and highly resilient, ideally suited for earthquake proof, storm and tempest resistant slim structures.\r\n\r\nPrecast concrete is synonymous for cost-efficient construction through the application of industrial processes in construction. This results in significantly shortened construction time, enormous savings in material and working time, and at the same time extraordinarily high building quality with reduced construction costs. There are almost no limits for architectural design. Whether for highly individual or mass-produced buildings.",
+  "link": "https://pmegtrading.com/product-category/max-truder/precast-concrete-factory-equipment/maxelements",
+  "name": "Maxelements",
+  "slug": "maxelements",
+  "taxonomy": "product_cat",
+  "parent": 29,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/214" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/29"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=214"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

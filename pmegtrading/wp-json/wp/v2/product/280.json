@@ -1,0 +1,65 @@
+{
+  "id": 280,
+  "date": "2016-04-08T00:00:00",
+  "date_gmt": "2016-04-08T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/sweeper/" },
+  "modified": "2017-06-21T16:08:25",
+  "modified_gmt": "2017-06-21T16:08:25",
+  "slug": "sweeper",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/sweeper",
+  "title": { "rendered": "Sweeper" },
+  "content": {
+    "rendered": "<div class=\"row\">\n<div class=\"col-xs-12\">\n<h3 style=\"text-align: center;\">Sweep, collect, and dump dirt and other debris with the sweeper attachment.</h3>\n<p>When operating the sweeper, poly bristles deposit debris in the sweeper bucket to be dumped when full, eliminating the need for multiple clean-up attachments. Or use the sweeper to spread materials evenly across a worksite.</p>\n<p>The sweeper attachment is ideal for construction, industrial, and municipal jobs. For optimal bristle-to-surface contact in an easy-to-use attachment, choose the efficiency of the sweeper.</p>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Top Tasks</h2>\n<ul>\n<li>Clean parking lots, sidewalks, docks, and warehouses</li>\n<li>Scrape mud and other caked-on materials from roadways, driveways, and other jobsites</li>\n</ul>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>How It Works</h2>\n<p>Bristles are mounted onto a tube that can be turned in either direction with a hydraulic motor. When sweeping in reverse the cutting edge must be on the ground and the bristles sweep into the bucket, similar to a broom and dust pan, When sweeping in the forward direction the bristles flick material forward against a rubber flap, go over the top of the bristles and are deposited into the bucket.</p>\n</div>\n</div>\n<div class=\"clearfix\"></div>\n<div class=\"row\">\n<div class=\"col-xs-12\">\n<h2>Features</h2>\n<ul>\n<li><strong>Poly Bristles</strong>: Deposit dirt and debris into the sweeper bucket, cleaning a surface with ease and eliminating the need for multiple clean-up attachments. Steel bristles are also available.</li>\n<li><strong>Reversible Cutting Edge</strong>: Helps to cut through caked-on mud and materials. Also, reversible capabilities of the cutting edge allow it to last twice as long.</li>\n<li><strong>Versatility</strong>: Operate the sweeper attachment going in either forward or reverse. Also, use the sweeper to remove debris or to spread materials evenly across a jobsite.</li>\n</ul>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Sweeps, collects and dumps debris going forward or in reverse</li>\n<li>Polypropylene bristles deposit debris in the bucket</li>\n<li>Optional gutter brush</li>\n<li>Six models: 44 to 84 in.</li>\n<li>Water kit available to reduce dust</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 281,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [8, 27],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/280" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=280"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/281"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=280" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=280"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=280"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

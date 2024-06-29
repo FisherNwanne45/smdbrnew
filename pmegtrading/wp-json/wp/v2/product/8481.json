@@ -1,0 +1,65 @@
+{
+  "id": 8481,
+  "date": "2017-08-27T10:22:19",
+  "date_gmt": "2017-08-27T10:22:19",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=8481/" },
+  "modified": "2017-11-27T09:46:50",
+  "modified_gmt": "2017-11-27T09:46:50",
+  "slug": "arg-chopped-strands-acs25ph-950x20v",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/arg-chopped-strands-acs25ph-950x20v",
+  "title": { "rendered": "ARG Chopped Strands (ACS25PH-950X(20)/V)" },
+  "content": {
+    "rendered": "<p>Chopped Strands are produced by cutting strand bundles, which are made of 50 to 200 fine ARG fiber filaments, into various length. It is used as reinforcement for Glassfiber Reinforced Concrete (GRC), Calcium Silicate and Slag Gypsum products. It is also used as the crack control material for normal concrete and cement mortar. It&#8217;s high alkali and acid resistance can be applied to glass fiber papers and filters.</p>\n<p>ACS25PH-950X(20)/V is made of glass, which contains the largest\u00a0content of ZrO2 commercially available.</p>\n<p>ACS25PH-950X is a high integrity strand to meet the requirements\u00a0of conventional \u201cpremix\u201d products. Chopped fibres disperse as<br />\nstrands in a matrix of mortar. The excellent strand integrity of\u00a0ACS25PH950X allows longer mixing time and ensures uniform\u00a0dispersion in the matrix and stable bending strength of GRC.\u00a0Excellent strand integrity also allows keeping good moldability of\u00a0mortar containing glass fibres regardless of varying mixing time.</p>\n<p>ACS25PH-950X has quality approval by DIBt (Deutsches Institutf\u00fcr Bautechnik) No. Z-3.72-1730.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/08/ACS25PH-950X.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>ACS25PH-901X(20)/V is made of glass, which contains the largest content of ZrO2 commercially available.</p>\n",
+    "protected": false
+  },
+  "featured_media": 8493,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [32, 36],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/8481" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=8481"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/8493"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=8481" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=8481"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=8481"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

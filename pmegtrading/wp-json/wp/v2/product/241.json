@@ -1,0 +1,65 @@
+{
+  "id": 241,
+  "date": "2016-04-08T00:00:00",
+  "date_gmt": "2016-04-08T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/man-platform/" },
+  "modified": "2017-06-21T16:08:23",
+  "modified_gmt": "2017-06-21T16:08:23",
+  "slug": "man-platform",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/man-platform",
+  "title": { "rendered": "Man Platform" },
+  "content": {
+    "rendered": "<p>Use the man platform for great flexibility in work, doing away with scaffolding and safety nets while simplifying and speeding up the job. It extends from 2,4 m to 4 m in 10 seconds per side. Two spring pins lock and release the extension. The new man platform rotates hydraulically with the optional remote controls. Get even more with the Man Platform-Ready and remote controls available as factory options.</p>\n<div>\n<p>This attachment can be used on Bobcat telescopic handlers of 12 m and above.</p>\n<p>Two models are available: 1 m and 2,4/4 m.</p>\n<p>Get even more with the Man Platform-Ready and remote controls available as factory options.</p>\n</div>\n<p>\u00a0</p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2016/04/Man-Platform_English.pdf\" target=\"_blank\" class=\"button primary is-primary is-medium\" rel=\"noopener\"  >\n    <span>Man Platform Attachment Specifications</span>\n  </a>\n\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2016/04/Manplatform-Brochure_EN.pdf\" target=\"_blank\" class=\"button primary is-primary is-medium\" rel=\"noopener\"  >\n    <span>Man Platform Attachment Brochure</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Compatibility with T35120SL MP</li>\n<li>Man platform preconfiguration on Bobcat telescopic handlers of 12 m and above</li>\n<li>Emergency control boxes in the man platform and at the rear of the machine</li>\n<li>2 models available</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 242,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [8, 27],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/241" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=241"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/242"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=241" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=241"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=241"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

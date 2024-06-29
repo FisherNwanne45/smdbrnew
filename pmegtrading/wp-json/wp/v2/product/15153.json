@@ -1,0 +1,67 @@
+{
+  "id": 15153,
+  "date": "2023-10-11T16:03:30",
+  "date_gmt": "2023-10-11T13:03:30",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15153"
+  },
+  "modified": "2023-10-12T11:10:29",
+  "modified_gmt": "2023-10-12T08:10:29",
+  "slug": "e20z-compact-excavator",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/e20z-compact-excavator",
+  "title": { "rendered": "E20z Compact Excavator" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15169\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/20211109_E20z_action_40.webp\" alt=\"\" width=\"1434\" height=\"956\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/20211109_E20z_action_40.webp 1434w, https://pmegtrading.com/wp-content/uploads/2023/10/20211109_E20z_action_40-600x400.webp 600w, https://pmegtrading.com/wp-content/uploads/2023/10/20211109_E20z_action_40-1200x800.webp 1200w, https://pmegtrading.com/wp-content/uploads/2023/10/20211109_E20z_action_40-768x512.webp 768w\" sizes=\"(max-width: 1434px) 100vw, 1434px\" /></p>\n<p>&nbsp;</p>\n<table style=\"height: 158px;\" width=\"1089\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"71\"></td>\n</tr>\n<tr>\n<td>Operating Weight</td>\n<td>1930 kg</td>\n</tr>\n<tr>\n<td>Maximum Digging Depth</td>\n<td>2565 mm</td>\n</tr>\n<tr>\n<td>Hydraulic Pump Capacity, with Auxiliary line</td>\n<td>41.3 L/min</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Water Cooled</td>\n<td>Kubota 13.3 hp</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Bobcat\u00ae E20Z compact excavator (mini excavator) delivers impressive performance in confined spaces with the need for only minimal repositioning. The operator can hydraulically retract the undercarriage to a width of only 98 cm in order to travel through gates or between walls and houses, then expand it to 136 cm for a wider footprint and greater performance. The E20Z has zero tail swing for versatility and maneuverability on the most compact jobsites.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15173,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 11],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15153" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15153"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15173"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15153" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15153"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15153"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

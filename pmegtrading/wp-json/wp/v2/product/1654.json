@@ -1,0 +1,65 @@
+{
+  "id": 1654,
+  "date": "2017-02-13T12:28:07",
+  "date_gmt": "2017-02-13T12:28:07",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=1654" },
+  "modified": "2017-06-21T16:10:08",
+  "modified_gmt": "2017-06-21T16:10:08",
+  "slug": "arx-26-tandem-roller",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/arx-26-tandem-roller",
+  "title": { "rendered": "ARX 26 Tandem Roller" },
+  "content": {
+    "rendered": "<p>The Ammann ARX 26 Tandem Roller delivers 47 kN of compaction force yet still works flush to curbs and other obstructions.</p>\n<p>The roller covers some ground with its 1200 mm drum width. The machine is designed to provide the operator with exceptional drum views, one factor in helping the machine work close to potential obstructions.</p>\n<p>An electric drive-lever makes for smooth starting and stopping and is among the reasons the rollers is popular with operators. Other operator benefits include a rubber-mounted platform that limits vibration and an intuitive instrument panel.</p>\n<p>The ARX 26 also includes high quality, long-lasting components that reduce the cost of ownership over the lifetime of the machine. It is reliable, economical, safe and fuel efficient.</p>\n<p>\u00a0</p>\n<h4 class=\"drawer-title\">OVERVIEW</h4>\n<div class=\"drawer-content\">\n<div class=\"drawer-content\">\n<ul>\n<li>Soil and asphalt applications</li>\n<li>Lateral sliding seat</li>\n<li>High-torque, water-cooled Yanmar diesel engine</li>\n<li>2 working speeds</li>\n<li>2 frequencies with 2 centrifugal forces</li>\n<li>Single or double vibration with double traction</li>\n<li>Optimal drum diameter</li>\n<li>Balanced weight front and rear</li>\n<li>Multiple water filters</li>\n<li>2 scrapers per drum</li>\n<li>Easy-to-operate, ergonomic instrument panel</li>\n<li>Rubber-mounted operator\u2019s platform</li>\n<li>Tight turning radius</li>\n<li>Unobstructed view of drums</li>\n<li>Compact dimensions for transport</li>\n<li>Smooth starting and reversing by electric drive-lever</li>\n<li>Bearings and central articulated joint lubricated for the machine\u2019s life</li>\n<li>Easy access to maintenance points and water filters and nozzles</li>\n<li>Outside drain plugs for quick fluid changes</li>\n<li>Foldable ROPS</li>\n<li>Vandal protection of multiple components</li>\n</ul>\n</div>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/light_tandem_vibratory-roller_en.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>PRODUCT FAMILY OVERVIEW</span>\n  </a>\n\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Soil and asphalt applications</li>\n<li>Lateral sliding seat</li>\n<li>High-torque, water-cooled Yanmar diesel engine</li>\n<li>2 working speeds</li>\n<li>2 frequencies with 2 centrifugal forces</li>\n<li>Single or double vibration with double traction</li>\n<li>Optimal drum diameter</li>\n<li>Balanced weight front and rear</li>\n<li>Multiple water filters</li>\n<li>2 scrapers per drum</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 1655,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [28, 17],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1654" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1654"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1655"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1654" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1654"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1654"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

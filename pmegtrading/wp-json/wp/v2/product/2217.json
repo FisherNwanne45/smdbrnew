@@ -1,0 +1,69 @@
+{
+  "id": 2217,
+  "date": "2017-02-20T10:13:24",
+  "date_gmt": "2017-02-20T10:13:24",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/super-plasticizers-flowaid-ft-flowaid-scc/"
+  },
+  "modified": "2017-06-21T16:11:33",
+  "modified_gmt": "2017-06-21T16:11:33",
+  "slug": "super-plasticizers-flowaid-ft-flowaid-scc",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/super-plasticizers-flowaid-ft-flowaid-scc",
+  "title": {
+    "rendered": "Super Plasticizers \u2013 Flowaid FT &#038; Flowaid SCC"
+  },
+  "content": {
+    "rendered": "<ul>\n<li>We offer Super Plasticizers based on Polycarboxylic Polymers, specially designed for use in GRC</li>\n<li>These are Special Formulations for use in both Premix and Sprayed GRC</li>\n<li>Give High Workability without Segregation</li>\n<li>No Retardation</li>\n<li>Up to 40% Water Reduction is possible with Flowaid SCC</li>\n<li>Give Higher Product Strengths at all ages</li>\n<li>Improves the Workability of GRC Mixes for Pumping and Casting</li>\n</ul>\n<p><a title=\"\" href=\"https://pmegtrading.com/wp-content/uploads/2017/02/Flowaid-FT-TD.pdf\" target=\"_blank\">Flowaid FT</a> enables large water reductions to be made whilst retaining workability.</p>\n<p><a title=\"\" href=\"https://pmegtrading.com/wp-content/uploads/2017/02/Flowaid-SCC-TD.pdf\" target=\"_blank\">Flowaid SCC</a> improves the workability of GRC mixes used for pumping and casting, reducing or eliminating the need for vibration.</p>\n<p>\u00a0</p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/Flowaid-FT-TD.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>Download the Flowaid FT Brochure</span>\n  </a>\n\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/Flowaid-SCC-TD.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>Download the Flowaid SCC Brochure</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul>\n<li>Specially formulation for use in premix and sprayed GRC</li>\n<li>High workability without segregation</li>\n<li>No retardation</li>\n<li>Up to 40% water reduction possible with Flowaid SCC</li>\n<li>Higher strengths at all ages</li>\n<li>Flowaid FT can be used with acrylic polymer</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 2222,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [35, 33],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/2217" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=2217"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/2222"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=2217" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=2217"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=2217"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": 977,
+  "date": "2016-05-07T00:00:00",
+  "date_gmt": "2016-05-07T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/lw-combination-spray-gun/"
+  },
+  "modified": "2017-11-06T14:46:47",
+  "modified_gmt": "2017-11-06T14:46:47",
+  "slug": "lw-combination-spray-gun",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/lw-combination-spray-gun",
+  "title": { "rendered": "LW Combination Spray Gun" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: center;\">Alternative to the Concentric GRC / GFRC Spray Head</h3>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p>A spray head for the production of Traditional Hand Spray GRC / GFRC, this product generates a tight spray pattern and benefits from quick release fittings for fast, easy cleaning and maintenance.</p>\n</div>\n</div>\n<div class=\"vc_empty_space\"></div>\n</div>\n</div>\n</div>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<ul>\n<li>Recommended spray gun for Glassfibre Reinforced Gypsum (GRG)</li>\n<li>Easy spray pattern adjustment</li>\n<li>Glass fibre roving is cut to length &amp;\u00a0mixed with the slurry</li>\n<li>Recommended for\u00a0fast setting materials</li>\n<li>Quick to dismantle</li>\n<li>Easy to clean</li>\n<li>Fine mist coats can be sprayed by just using the slurry gun</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>A spray head for the production of Traditional Hand Spray GRC / GFRC, this product generates a tight spray pattern and benefits from quick release fittings for fast, easy cleaning and maintenance.</p>\n",
+    "protected": false
+  },
+  "featured_media": 978,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [54, 23],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/977" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=977"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/978"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=977" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=977"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=977"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

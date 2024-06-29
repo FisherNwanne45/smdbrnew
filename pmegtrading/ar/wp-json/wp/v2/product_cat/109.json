@@ -1,0 +1,38 @@
+{
+  "id": 109,
+  "count": 2,
+  "description": "\u0627\u062d\u0635\u0644 \u0639\u0644\u0649 \u062a\u0646\u0638\u064a\u0641 \u0628\u0627\u0644\u0643\u0646\u0633 \u0648\u0627\u0644\u0643\u0634\u0637 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0643\u0627\u0646\u0633\u0629-\u0627\u0644\u0645\u0643\u0634\u0637\u0629 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629 \u0627\u0644\u0645\u0632\u0648\u062f\u0629 \u0628\u0645\u0643\u0627\u0646 \u0644\u0644\u0645\u0634\u063a\u0651\u0644. \u062a\u0648\u0641\u0631 \u0634\u0631\u0643\u0629 Tennant (\u062a\u064a\u0646\u0627\u0646\u062a) \u0627\u0644\u0643\u0627\u0646\u0633\u0629-\u0627\u0644\u0645\u0643\u0634\u0637\u0629 \u0627\u0644\u0645\u0632\u0648\u062f\u0629 \u0628\u0645\u0643\u0627\u0646 \u0644\u0644\u0645\u0634\u063a\u0651\u0644 \u0648\u0627\u0644\u062a\u064a \u062a\u0639\u0645\u0644 \u0628\u0627\u0644\u0628\u0637\u0627\u0631\u064a\u0629 \u0628\u062a\u0642\u0646\u064a\u0627\u062a \u0645\u0628\u062a\u0643\u0631\u0629 \u0644\u062a\u0646\u0638\u064a\u0641 \u0627\u0644\u0645\u0633\u0627\u062d\u0627\u062a \u0627\u0644\u0648\u0627\u0633\u0639\u0629 \u0628\u0641\u0639\u0627\u0644\u064a\u0629 \u0633\u0648\u0627\u0621 \u0641\u064a \u0627\u0644\u062f\u0627\u062e\u0644 \u0623\u0648 \u0627\u0644\u062e\u0627\u0631\u062c \u0628\u062a\u0645\u0631\u064a\u0631\u0629 \u0648\u0627\u062d\u062f\u0629.  \r\n",
+  "link": "https://pmegtrading.com/ar/product-category/tennant/sweeper-scrubbers",
+  "name": "\u0622\u0644\u0627\u062a \u0641\u0631\u0643 \u0648\u0643\u0646\u0633 \u0627\u0644\u0623\u0631\u0636\u064a\u0627\u062a",
+  "slug": "sweeper-scrubbers",
+  "taxonomy": "product_cat",
+  "parent": 105,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat/109" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      {
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/taxonomies/product_cat"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product_cat/105"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://pmegtrading.com/ar/wp-json/wp/v2/product?product_cat=109"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

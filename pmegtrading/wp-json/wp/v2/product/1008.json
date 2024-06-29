@@ -1,0 +1,67 @@
+{
+  "id": 1008,
+  "date": "2016-05-07T00:00:00",
+  "date_gmt": "2016-05-07T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/twin-roving-electric-glassfibre-chopper/"
+  },
+  "modified": "2017-11-06T13:45:52",
+  "modified_gmt": "2017-11-06T13:45:52",
+  "slug": "twin-roving-electric-glassfibre-chopper",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/twin-roving-electric-glassfibre-chopper",
+  "title": { "rendered": "Twin Roving Electric Glassfibre Chopper" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: center;\">Accurately cuts and dispenses AR Glassfibre for Premix GRC / GFRC</h3>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p id=\"E247\">The electric glass fibre chopper is designed for manufacturers who wish to purchase their glass fibre in Rovings as opposed to Chopped Strands.</p>\n</div>\n</div>\n<div class=\"vc_empty_space\"></div>\n</div>\n</div>\n</div>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<ul>\n<li>Chopped fibre lengths range from 6mm to 25mm.</li>\n<li>The quantity of fibre is controlled automatically by a timer.</li>\n<li>Need to weigh the chopped fibre is eliminated.</li>\n<li>The output is 1.4kg per minute (based on 2500 Tex).</li>\n<li>Easy-to-change cutter block</li>\n<li>Pneumatic ram to regulate the cutter pressure</li>\n<li>Efficient air mover to convey the cut fibres to the receiving vessel.</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The electric glass fibre chopper is designed for manufacturers who wish to purchase their glass fibre in Rovings as opposed to Chopped Strands.</p>\n",
+    "protected": false
+  },
+  "featured_media": 1009,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [54, 23],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1008" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1008"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1009"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1008" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1008"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1008"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

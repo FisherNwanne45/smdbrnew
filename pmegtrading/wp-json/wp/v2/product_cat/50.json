@@ -1,0 +1,28 @@
+{
+  "id": 50,
+  "count": 2,
+  "description": "Compact stowed dimensions enable these superb machines to enter buildings or work areas where traditional access platforms are too large or too heavy. \"Ragno\" can be set up on finished flooring, uneven ground, slopes and even steps, thanks to its unique hydraulic outrigger system. ",
+  "link": "https://pmegtrading.com/product-category/palazzani",
+  "name": "Palazzani",
+  "slug": "palazzani",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/50" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=50" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

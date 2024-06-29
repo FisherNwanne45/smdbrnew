@@ -1,0 +1,67 @@
+{
+  "id": 1788,
+  "date": "2017-02-14T09:16:58",
+  "date_gmt": "2017-02-14T09:16:58",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/6200-compact-rider-sweeper/"
+  },
+  "modified": "2017-10-31T13:22:18",
+  "modified_gmt": "2017-10-31T13:22:18",
+  "slug": "6200-compact-rider-sweeper",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/6200-compact-rider-sweeper",
+  "title": { "rendered": "6200 Compact Rider Sweeper" },
+  "content": {
+    "rendered": "<h2 class=\"tn-large-header\">6200 Features and Benefits</h2>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>Tennant\u2019s 6200 Compact Rider Sweeper is battery powered to quietly capture dust and debris in a single pass</h3>\n<ul>\n<li>Efficiently sweep and capture light dust and debris in a single pass</li>\n<li>Open sightlines designed into the compact ride-on sweeper allow operator to confidently maneuver through tight cleaning spaces</li>\n<li>Reduce maintenance and repair costs with heavy duty body construction and high quality sweeper components</li>\n</ul>\n</div>\n<div class=\"tn-featured-text-image right\"><img decoding=\"async\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Sweeper%20riders/Media%20Gallery%20Images/6200-env-sidewalk.jpg\" alt=\"418;#6200 Feature Image\" /></div>\n</div>\n<div></div>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-image left\"><img decoding=\"async\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Sweeper%20riders/Media%20Gallery%20Images/6200-env-high-dump.jpg\" alt=\"418;#6200 Feature Image\" /></div>\n<div class=\"tn-featured-text-wrap right\">\n<h3>Key machine features of the 6200 Compact Rider sweeper</h3>\n<ul>\n<li>Auto Adjust\u2122 sweeping system adapts hopper loading action to maintain peak sweeping performance throughout life of the brush</li>\n<li>Hopper\u2019s multi-level dumping ability eliminates need for operator to handle debris</li>\n<li>Thermo Sentry\u00ae temperature sensor monitors the hopper for dangerously high temperatures and shuts down the vacuum to avoid damage</li>\n</ul>\n</div>\n</div>\n<div></div>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>Choose the ideal options to tailor the 6200 Compact Rider Sweeper to your environment</h3>\n<ul>\n<li>Quick Mop\u2122 widens the sweeper dry mop cleaning path to 5.5 ft / 1.7m, allowing the sweeper to clean up to one million square feet / 93,000 square metres on a single battery charge</li>\n<li>Dual side brushes increase operator productivity</li>\n<li>Vacuum wand extends cleaning reach into tight spaces</li>\n</ul>\n<p>\u200b\u200b\u200b\u200b</p>\n</div>\n<div class=\"tn-featured-text-image right\"><img decoding=\"async\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Sweeper%20riders/Media%20Gallery%20Images/6200-env-manufacturing.jpg\" alt=\"418;#6200 Feature Image\" /></div>\n</div>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/6200-brochure_1.012.001.am_.en_.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Tennant\u2019s 6200 compact rider sweeper is a versatile battery-powered sweeper that quietly captures dust and debris in a single pass.</p>\n",
+    "protected": false
+  },
+  "featured_media": 1789,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [46, 44],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1788" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1788"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1789"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1788" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1788"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1788"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

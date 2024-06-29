@@ -1,0 +1,67 @@
+{
+  "id": 14974,
+  "date": "2023-09-17T12:03:35",
+  "date_gmt": "2023-09-17T09:03:35",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=14974"
+  },
+  "modified": "2023-09-17T12:03:35",
+  "modified_gmt": "2023-09-17T09:03:35",
+  "slug": "arabian-sun-lsw-3-light-tower",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/arabian-sun-lsw-3-light-tower",
+  "title": { "rendered": "Arabian Sun LSW-3 Light Tower" },
+  "content": {
+    "rendered": "\t<section class=\"section\" id=\"section_983546250\">\n\t\t<div class=\"bg section-bg fill bg-fill  bg-loaded\" >\n\n\t\t\t\n\t\t\t\n\t\t\t\n\n\t\t</div>\n\n\t\t\n\n\t\t<div class=\"section-content relative\">\n\t\t\t\n<div class=\"row row-collapse align-center\"  id=\"row-1920611339\">\n\n\t<div id=\"col-1433354579\" class=\"col medium-8 small-10 large-6\"  >\n\t\t\t\t<div class=\"col-inner text-center\"  >\n\t\t\t\n\t\t\t\n<h1 class=\"text-white mb-0\">Product Information</h1>\n\t\t</div>\n\t\t\t\t\t</div>\n\n\t\n</div>\n\t\t</div>\n\n\t\t\n<style>\n#section_983546250 {\n  padding-top: 100px;\n  padding-bottom: 100px;\n}\n@media (min-width:550px) {\n  #section_983546250 {\n    padding-top: 50px;\n    padding-bottom: 50px;\n  }\n}\n</style>\n\t</section>\n\t\n\t<div class=\"img has-hover x md-x lg-x y md-y lg-y\" id=\"image_1453444773\">\n\t\t\t\t\t\t\t\t<div class=\"img-inner image-cover dark\" style=\"padding-top:56.25%;\">\n\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1020\" height=\"644\" src=\"https://pmegtrading.com/wp-content/uploads/2023/09/arabian-sun-construction-site-1267x800.webp\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/09/arabian-sun-construction-site-1267x800.webp 1267w, https://pmegtrading.com/wp-content/uploads/2023/09/arabian-sun-construction-site-634x400.webp 634w, https://pmegtrading.com/wp-content/uploads/2023/09/arabian-sun-construction-site-768x485.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/09/arabian-sun-construction-site-1536x970.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/09/arabian-sun-construction-site-600x379.webp 600w, https://pmegtrading.com/wp-content/uploads/2023/09/arabian-sun-construction-site.webp 1920w\" sizes=\"(max-width: 1020px) 100vw, 1020px\" />\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n<style>\n#image_1453444773 {\n  width: 100%;\n}\n</style>\n\t</div>\n\t\n<div class=\"row no-gutters\">\n<div class=\"col bg-secondary_light d-flex align-items-center\">\n<h3 class=\"my-2 px-3 font-family-condensed text-uppercase text-white\" style=\"text-align: left;\">Specifications</h3>\n<table width=\"478\">\n<tbody>\n<tr>\n<td width=\"251\">Working Height</td>\n<td width=\"227\">9 m.</td>\n</tr>\n<tr>\n<td>Lamps</td>\n<td>metal halide (4x1000W)</td>\n</tr>\n<tr>\n<td>Rotation</td>\n<td>340 deg.</td>\n</tr>\n<tr>\n<td>Alternator single phase</td>\n<td>8kVA \u2013 230V</td>\n</tr>\n<tr>\n<td>Auxiliary outlet</td>\n<td>3kVA w/ Receptacles 220V/110V</td>\n</tr>\n<tr>\n<td>Running Time</td>\n<td>43h</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Water Cooled</td>\n<td>Kubota D1105</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Arabian Sun\u2019s LSW-3Y Light Tower from Pramac Co. is the perfect lighting solution for your job site. Compact, robust, and user-friendly. The LSW-3Y provides a cost-effective solution to your construction, infrastructure, and road-works lighting &amp; power needs.</p>\n",
+    "protected": false
+  },
+  "featured_media": 14969,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [20],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/14974" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=14974"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/14969"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=14974" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=14974"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=14974"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

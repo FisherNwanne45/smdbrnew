@@ -1,0 +1,67 @@
+{
+  "id": 986,
+  "date": "2016-05-07T00:00:00",
+  "date_gmt": "2016-05-07T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/multi-roving-glassfibre-chopper/"
+  },
+  "modified": "2017-11-06T15:01:56",
+  "modified_gmt": "2017-11-06T15:01:56",
+  "slug": "multi-roving-glassfibre-chopper",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/multi-roving-glassfibre-chopper",
+  "title": { "rendered": "Multi Roving Glass Fiber Chopper" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: center;\">Accurately cuts and dispenses AR Glassfibre for Premix GRC/GFRC</h3>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p>To meet the\u00a0demand for a safe and efficient system to add Alkali Resistant fibres to the mixes, Power-Sprays has developed a range of fibre choppers and fibre dispensers.</p>\n</div>\n</div>\n<div class=\"vc_empty_space\"></div>\n</div>\n</div>\n</div>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<ul>\n<li>Can cut up to 5 rovings simultaneously at rates of up to 600g per roving per minute</li>\n<li>Accuracy is generally within 10g of the required weight</li>\n<li>Supplied with spare cutting cylinder assembly, guards and mounting frame.</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>To meet the\u00a0demand for a safe and efficient system to add Alkali Resistant fibres to the mixes, Power-Sprays has developed a range of fibre choppers and fibre dispensers.</p>\n",
+    "protected": false
+  },
+  "featured_media": 987,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [54, 23],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/986" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=986"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/987"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=986" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=986"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=986"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

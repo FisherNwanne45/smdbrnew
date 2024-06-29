@@ -1,0 +1,67 @@
+{
+  "id": 15329,
+  "date": "2023-10-17T15:08:31",
+  "date_gmt": "2023-10-17T12:08:31",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15329"
+  },
+  "modified": "2023-10-17T15:12:11",
+  "modified_gmt": "2023-10-17T12:12:11",
+  "slug": "apr22-40-reversible-vibrator-plate",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/apr22-40-reversible-vibrator-plate",
+  "title": { "rendered": "APR22/40 Reversible Vibrator Plate" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15335\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/apr_2240_vibratory_plate_j84a3982_191210.webp\" alt=\"\" width=\"1600\" height=\"900\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/apr_2240_vibratory_plate_j84a3982_191210.webp 1600w, https://pmegtrading.com/wp-content/uploads/2023/10/apr_2240_vibratory_plate_j84a3982_191210-711x400.webp 711w, https://pmegtrading.com/wp-content/uploads/2023/10/apr_2240_vibratory_plate_j84a3982_191210-1400x788.webp 1400w, https://pmegtrading.com/wp-content/uploads/2023/10/apr_2240_vibratory_plate_j84a3982_191210-768x432.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/apr_2240_vibratory_plate_j84a3982_191210-1536x864.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/apr_2240_vibratory_plate_j84a3982_191210-600x338.webp 600w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" /></p>\n<p>&nbsp;</p>\n<table style=\"height: 148px;\" width=\"1070\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"128\"></td>\n</tr>\n<tr>\n<td>Operating Weight</td>\n<td>118 kg</td>\n</tr>\n<tr>\n<td>Working Width</td>\n<td>40/40 cm</td>\n</tr>\n<tr>\n<td>Compaction Force and\u00a0 Frequency</td>\n<td>23 kN / 98 Hz</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Air Cooled</td>\n<td>Hatz-Diesel</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The lightweight and narrow width of the APR 22/40 make this reversible plate compactor a great fit especially on small or confined worksites with a working width of 40 cm and a weight of 118 kg with the diesel engine, this vibratory plate squeezes into tight locations. It\u2019s the ability to overcome steep grades and move quickly on even and uneven surfaces.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15331,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [28, 18],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15329" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15329"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15331"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15329" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15329"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15329"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

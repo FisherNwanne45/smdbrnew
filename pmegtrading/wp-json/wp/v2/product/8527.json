@@ -1,0 +1,67 @@
+{
+  "id": 8527,
+  "date": "2017-08-28T10:20:12",
+  "date_gmt": "2017-08-28T10:20:12",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=8527/" },
+  "modified": "2017-10-31T14:16:59",
+  "modified_gmt": "2017-10-31T14:16:59",
+  "slug": "k-3004-k-3008-stationary-unit-for-acid-etching",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/k-3004-k-3008-stationary-unit-for-acid-etching",
+  "title": {
+    "rendered": "K-3004 &#038; K-3008 Stationary Unit for Acid Etching"
+  },
+  "content": {
+    "rendered": "<div class=\"page-header\">\n<h2>K-3004 &amp; K-3008 &#8211; Stationary Units</h2>\n</div>\n<div>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-8469\" src=\"https://pmegtrading.com/wp-content/uploads/2017/08/K-3004-K-3008-Stationary-Unit-for-Acid-Etching.jpg\" alt=\"K-3004 &amp; K-3008 Stationary Unit for Acid Etching\" width=\"805\" height=\"738\" srcset=\"https://pmegtrading.com/wp-content/uploads/2017/08/K-3004-K-3008-Stationary-Unit-for-Acid-Etching.jpg 805w, https://pmegtrading.com/wp-content/uploads/2017/08/K-3004-K-3008-Stationary-Unit-for-Acid-Etching-600x550.jpg 600w, https://pmegtrading.com/wp-content/uploads/2017/08/K-3004-K-3008-Stationary-Unit-for-Acid-Etching-436x400.jpg 436w, https://pmegtrading.com/wp-content/uploads/2017/08/K-3004-K-3008-Stationary-Unit-for-Acid-Etching-768x704.jpg 768w\" sizes=\"(max-width: 805px) 100vw, 805px\" />The same great technology and performance found in our mobile units adapted for use in permanent etching areas.</p>\n<h3>Applications</h3>\n<ul>\n<li>Precast Concrete Etching</li>\n<li>Cleaning brick faced panel removing retarder from exposed aggregate panels.</li>\n<li>Cleaning Forms, Mixers, other Equipment</li>\n<li>\u2026all other traditional pressure washer applications</li>\n</ul>\n<h3>Features</h3>\n<ul>\n<li>Acid Induction &#8211; Controlled Introduction of Chemical into High Pressure Water Stream &#8211; No Other Machine Does This!</li>\n<li>Acid system can draw and use chemical directly from a tote or carboy &#8211; whatever container you buy the chemicals in. Big improvement in safety. Eliminates chemical handling time and expense.</li>\n<li>Designed for fixed installation near the etching area</li>\n<li>Low maintenance electric motor powers the pump</li>\n<li>Choice of natural gas or liquid propane burners eliminates burner fueling, while cutting down energy cost. Diesel fuel burner also available.</li>\n<li>Modular for installation flexibility</li>\n<li>Same safety features and heavy duty components, materials and construction as our mobile machines</li>\n</ul>\n</div>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/08/K-30048-Brochure-111015.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>Download Product Overview</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The same great technology and performance found in our mobile units adapted for use in permanent etching areas.</p>\n",
+    "protected": false
+  },
+  "featured_media": 8469,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [161, 160],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/8527" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=8527"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/8469"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=8527" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=8527"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=8527"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

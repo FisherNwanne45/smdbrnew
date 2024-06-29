@@ -1,0 +1,34 @@
+{
+  "id": 13,
+  "count": 4,
+  "description": "Bobcat Telehandlers: high performance but economical! The heavy-duty 4.4 litre Perkins Engine is well adapted to even the most severe environment and provides high performance while keeping fuel consumption very low. Ideal for working in tough conditions in agriculture, construction, waste management and many other applications.",
+  "link": "https://pmegtrading.com/product-category/bobcat/bobcat-telescopic-handlers",
+  "name": "Telescopic Handlers",
+  "slug": "bobcat-telescopic-handlers",
+  "taxonomy": "product_cat",
+  "parent": 27,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/13" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/27"
+      }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=13" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

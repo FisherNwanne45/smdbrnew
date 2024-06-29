@@ -1,0 +1,67 @@
+{
+  "id": 15365,
+  "date": "2023-10-17T15:32:24",
+  "date_gmt": "2023-10-17T12:32:24",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15365"
+  },
+  "modified": "2023-10-17T15:42:47",
+  "modified_gmt": "2023-10-17T12:42:47",
+  "slug": "aph50-75-hydrostatic-vibrator-plate",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/aph50-75-hydrostatic-vibrator-plate",
+  "title": { "rendered": "APH50/75 Hydrostatic Vibrator Plate" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15371\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/aph_5075_vibratory_plate_avd_j84a4187_191210.webp\" alt=\"\" width=\"1600\" height=\"900\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/aph_5075_vibratory_plate_avd_j84a4187_191210.webp 1600w, https://pmegtrading.com/wp-content/uploads/2023/10/aph_5075_vibratory_plate_avd_j84a4187_191210-711x400.webp 711w, https://pmegtrading.com/wp-content/uploads/2023/10/aph_5075_vibratory_plate_avd_j84a4187_191210-1400x788.webp 1400w, https://pmegtrading.com/wp-content/uploads/2023/10/aph_5075_vibratory_plate_avd_j84a4187_191210-768x432.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/aph_5075_vibratory_plate_avd_j84a4187_191210-1536x864.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/aph_5075_vibratory_plate_avd_j84a4187_191210-600x338.webp 600w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" /></p>\n<p>&nbsp;</p>\n<table style=\"height: 139px;\" width=\"1091\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"128\"></td>\n</tr>\n<tr>\n<td>Operating Weight</td>\n<td>350 kg</td>\n</tr>\n<tr>\n<td>Working Width</td>\n<td>45/60/75 cm</td>\n</tr>\n<tr>\n<td>Compaction Force and\u00a0 Frequency</td>\n<td>50 kN / 70 Hz</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Air Cooled</td>\n<td>Hatz Supra\u00a0 1D50S</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Ammann APH 50/75 Hydrostatic Vibratory Plate features a two-shaft exciter system that assures powerful compaction forces. This machine is highly reliable and trusted in the marketplace because of its robust design and long component life. APH 50/75 is the smallest machine within the APH range with compaction force of 5 ton. It can be operated easily and comfortably, even in tight areas, and works well around obstacles such as columns and in cohesive materials.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15367,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [28, 18],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15365" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15365"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15367"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15365" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15365"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15365"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

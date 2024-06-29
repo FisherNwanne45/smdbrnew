@@ -1,0 +1,65 @@
+{
+  "id": 956,
+  "date": "2016-05-07T00:00:00",
+  "date_gmt": "2016-05-07T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/chopped-fibre-feeder/" },
+  "modified": "2017-11-06T13:51:07",
+  "modified_gmt": "2017-11-06T13:51:07",
+  "slug": "chopped-fibre-feeder",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/chopped-fibre-feeder",
+  "title": { "rendered": "Multi Roving Glass Fiber Chopper + Feeder" },
+  "content": {
+    "rendered": "<h2 style=\"text-align: center;\">Accurate dispensing of pre-cut glass and synthetic fibres.</h2>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p>The Chopped Fibre Feeder\u00a0comprises material holding hopper, rotary valve, delivery hopper and feed duct.</p>\n</div>\n</div>\n<div class=\"vc_empty_space\"></div>\n</div>\n</div>\n</div>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<ul>\n<li>Includes 3 load cells and programmable weigh batch control system.</li>\n<li>Unique agitating \u201canti-bridging\u201d system to ensure fibres are kept moving</li>\n<li>Control system incorporates an automatic \u201cin-flight\u201d correction system</li>\n<li>Dispenses AR Glassfibres and many Polypropylene fibres (subject to prior testing)</li>\n<li>Accurate recording and traceability when connected to a central batch computer system</li>\n<li>GRC/GFRC, Ready Mixed Concrete and Precast Concrete batching plant applications</li>\n<li>Can be installed within existing batch plants</li>\n<li>Gravity feed into mixer or optional vacuum delivery system</li>\n<li>Safe dispensing of fibres to high plant levels or ready mixed concrete trucks</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Chopped Fibre Feeder\u00a0comprises material holding hopper, rotary valve, delivery hopper and feed duct<strong>.</strong></p>\n",
+    "protected": false
+  },
+  "featured_media": 957,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [54, 23],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/956" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=956"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/957"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=956" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=956"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=956"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

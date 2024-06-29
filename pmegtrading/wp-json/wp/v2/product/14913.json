@@ -1,0 +1,67 @@
+{
+  "id": 14913,
+  "date": "2023-09-14T14:31:06",
+  "date_gmt": "2023-09-14T11:31:06",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=14913"
+  },
+  "modified": "2023-09-14T15:21:22",
+  "modified_gmt": "2023-09-14T12:21:22",
+  "slug": "185-portable-air-compressors",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/185-portable-air-compressors",
+  "title": { "rendered": "185 Portable Air Compressors" },
+  "content": {
+    "rendered": "\t<section class=\"section\" id=\"section_561995035\">\n\t\t<div class=\"bg section-bg fill bg-fill  bg-loaded\" >\n\n\t\t\t\n\t\t\t\n\t\t\t\n\n\t\t</div>\n\n\t\t\n\n\t\t<div class=\"section-content relative\">\n\t\t\t\n<div class=\"row row-collapse align-center\"  id=\"row-478333665\">\n\n\t<div id=\"col-836021950\" class=\"col medium-8 small-10 large-6\"  >\n\t\t\t\t<div class=\"col-inner text-center\"  >\n\t\t\t\n\t\t\t\n<h1 class=\"text-white mb-0\">Product Information</h1>\n\t\t</div>\n\t\t\t\t\t</div>\n\n\t\n</div>\n\t\t</div>\n\n\t\t\n<style>\n#section_561995035 {\n  padding-top: 100px;\n  padding-bottom: 100px;\n}\n@media (min-width:550px) {\n  #section_561995035 {\n    padding-top: 50px;\n    padding-bottom: 50px;\n  }\n}\n</style>\n\t</section>\n\t\n\t<div class=\"img has-hover x md-x lg-x y md-y lg-y\" id=\"image_619787803\">\n\t\t\t\t\t\t\t\t<div class=\"img-inner dark\" >\n\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"1020\" height=\"503\" src=\"https://pmegtrading.com/wp-content/uploads/2023/09/Screenshot-2023-09-14-135718-1400x691.webp\" class=\"attachment-large size-large\" alt=\"\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/09/Screenshot-2023-09-14-135718-1400x691.webp 1400w, https://pmegtrading.com/wp-content/uploads/2023/09/Screenshot-2023-09-14-135718-800x395.webp 800w, https://pmegtrading.com/wp-content/uploads/2023/09/Screenshot-2023-09-14-135718-768x379.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/09/Screenshot-2023-09-14-135718-1536x758.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/09/Screenshot-2023-09-14-135718-2048x1010.webp 2048w, https://pmegtrading.com/wp-content/uploads/2023/09/Screenshot-2023-09-14-135718-600x296.webp 600w\" sizes=\"(max-width: 1020px) 100vw, 1020px\" />\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n<style>\n#image_619787803 {\n  width: 100%;\n}\n</style>\n\t</div>\n\t\n<div class=\"row no-gutters\">\n<div class=\"col bg-secondary_light d-flex align-items-center\">\n<h3 class=\"my-2 px-3 font-family-condensed text-uppercase text-white\" style=\"text-align: left;\">Specifications</h3>\n<table width=\"971\">\n<tbody>\n<tr>\n<td width=\"591\">Running Gear</td>\n<td width=\"380\">DPQ</td>\n</tr>\n<tr>\n<td>Capacity [m3/min / cfm]</td>\n<td>5.2 (185)</td>\n</tr>\n<tr>\n<td>Pressure [Bar]</td>\n<td>7 (100)</td>\n</tr>\n<tr>\n<td>Engine</td>\n<td>KOBOTA</td>\n</tr>\n<tr>\n<td>Engine Model</td>\n<td>V2403</td>\n</tr>\n<tr>\n<td>Working Altitude</td>\n<td>Normal</td>\n</tr>\n<tr>\n<td>Specifications</td>\n<td>AWF, Suction Fan, Low Fuel Stop</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The workhorse of Sullair\u2019s elite mobile fleet, the Sullair 185 is fully optimized and ready to hit the road with legendary Sullair air end, compact design, and easy service and maintenance.</p>\n",
+    "protected": false
+  },
+  "featured_media": 14924,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [221, 220],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/14913" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=14913"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/14924"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=14913" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=14913"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=14913"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

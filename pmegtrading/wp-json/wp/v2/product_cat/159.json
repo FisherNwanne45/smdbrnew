@@ -1,0 +1,30 @@
+{
+  "id": 159,
+  "count": 7,
+  "description": "Today Sky Climber\u00ae with its global dealer network, enjoys the distinction within the industry of brand name recognition, a reputation for developing and manufacturing superior quality products and for being the first to offer many of today\u2019s innovative suspended access products.",
+  "link": "https://pmegtrading.com/product-category/sky-climber",
+  "name": "Sky Climber",
+  "slug": "sky-climber",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/159" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=159"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

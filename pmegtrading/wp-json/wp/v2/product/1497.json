@@ -1,0 +1,65 @@
+{
+  "id": 1497,
+  "date": "2017-02-08T14:13:53",
+  "date_gmt": "2017-02-08T14:13:53",
+  "guid": { "rendered": "https://pmegtrading.com/product/testing-equipment/" },
+  "modified": "2017-06-21T16:09:40",
+  "modified_gmt": "2017-06-21T16:09:40",
+  "slug": "testing-equipment",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/testing-equipment",
+  "title": { "rendered": "Testing Equipment" },
+  "content": {
+    "rendered": "<h2 style=\"text-align: center;\">The four-point bending test is the most important test for assessing quality</h2>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p>We offer a range of Flexural Testing Equipment including M350-5CT, the Bench-Mounted Twin Column Computer Controlled Universal Strength Testing Machine and M350-5AT, an Advanced Machine with Integral PC System running, Touch Screen Display and Active Tester Control Panel showing Real-time Test Curves, Calculated Results and Statistics</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<ul>\n<li>The Machines are supplied with LC 500 High Accuracy Grade 0.5 Load Cells with range 5000 N Tension &#038; Compression</li>\n<li>The Machines come with a 4 Point GRC Bend of Adjustable Span</li>\n<li>The Machines use a Fully Integrated and Customizable WinTest Analysis Universal Testing Software</li>\n<li>The machines are used to determine the Modulus of Rupture (MOR) and Limit of Proportionality (LOP) of GRC Specimen</li>\n</ul>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p>Bench mounted twin column computer controlled universal strength testing machine.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"wpb_column vc_column_container vc_col-sm-12\">\n<div class=\"vc_column-inner \">\n<div class=\"wpb_wrapper\">\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<ul>\n<li>Maximum capacity 5kN</li>\n<li>High accuracy grade 0.5 load cell.</li>\n<li>Range 5000N tension and compression</li>\n<li>A full machine control Windows based Universal test program</li>\n<li>Adjustable span 4-point bend fixture.</li>\n<li>Complies with GRCA, European, USA and other International Standards.</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "featured_media": 1498,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [31, 23],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1497" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1497"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1498"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1497" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1497"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1497"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

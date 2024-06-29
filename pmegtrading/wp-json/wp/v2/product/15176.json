@@ -1,0 +1,67 @@
+{
+  "id": 15176,
+  "date": "2023-10-12T11:15:33",
+  "date_gmt": "2023-10-12T08:15:33",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15176"
+  },
+  "modified": "2023-10-17T12:23:14",
+  "modified_gmt": "2023-10-17T09:23:14",
+  "slug": "e35z-compact-excavator",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/e35z-compact-excavator",
+  "title": { "rendered": "E35z Compact Excavator" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15186\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/E35z_K4_8857.webp\" alt=\"\" width=\"2100\" height=\"1400\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/E35z_K4_8857.webp 2100w, https://pmegtrading.com/wp-content/uploads/2023/10/E35z_K4_8857-600x400.webp 600w, https://pmegtrading.com/wp-content/uploads/2023/10/E35z_K4_8857-1200x800.webp 1200w, https://pmegtrading.com/wp-content/uploads/2023/10/E35z_K4_8857-768x512.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/E35z_K4_8857-1536x1024.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/E35z_K4_8857-2048x1365.webp 2048w\" sizes=\"(max-width: 2100px) 100vw, 2100px\" /></p>\n<p>&nbsp;</p>\n<table style=\"height: 134px;\" width=\"1063\">\n<tbody>\n<tr>\n<td width=\"533\"><strong>Specifications</strong></td>\n<td width=\"101\"></td>\n</tr>\n<tr>\n<td>Operating Weight</td>\n<td>3349 kg</td>\n</tr>\n<tr>\n<td>Maximum Digging Depth</td>\n<td>3117 mm</td>\n</tr>\n<tr>\n<td>Hydraulic Pump Capacity, with Auxiliary line</td>\n<td>100.8 L/min</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Water Cooled</td>\n<td>Kubota 30.6 hp</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>A popular choice in the 3-4 ton size class, the Bobcat\u00ae E35Z mini excavator excels on jobsites where space is confined, such as next to buildings, walls and other obstacles. The Zero Tail Swing (ZTS) gives the operator unrestricted rotation, greater flexibility and reduced potential for damage to the machine and surrounding property. You can boost your digging performance with the long arm option or a clamp.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15182,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 11],
+  "product_tag": [10],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15176" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15176"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15182"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15176" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15176"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15176"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

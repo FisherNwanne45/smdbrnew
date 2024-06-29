@@ -1,0 +1,28 @@
+{
+  "id": 44,
+  "count": 24,
+  "description": "Dedicated to creating a cleaner, safer, healthier world since 1870, Tennant Company is a world-leading manufacturer of indoor and outdoor environmental cleaning solutions and specialty floor coatings. Tennant\u2019s industrial and commercial sweepers, scrubber-dryers, coatings, detergents, carpet-cleaning equipment, vacuums, burnishers and more deliver award-winning cleaning solutions.",
+  "link": "https://pmegtrading.com/product-category/tennant",
+  "name": "Tennant",
+  "slug": "tennant",
+  "taxonomy": "product_cat",
+  "parent": 0,
+  "meta": [],
+  "_links": {
+    "self": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat/44" }
+    ],
+    "collection": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat" }
+    ],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/taxonomies/product_cat" }
+    ],
+    "wp:post_type": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/product?product_cat=44" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

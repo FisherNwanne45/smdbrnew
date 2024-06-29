@@ -1,0 +1,67 @@
+{
+  "id": 343,
+  "date": "2016-04-09T00:00:00",
+  "date_gmt": "2016-04-09T00:00:00",
+  "guid": {
+    "rendered": "https://pmegtrading.com/product/t590-compact-track-loaders/"
+  },
+  "modified": "2017-06-21T16:08:27",
+  "modified_gmt": "2017-06-21T16:08:27",
+  "slug": "t590-compact-track-loaders",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/t590-compact-track-loaders",
+  "title": { "rendered": "T590 Compact Track Loaders" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: justify;\">Power meets comfort!</h3>\n<p>With the new Bobcat loaders, there\u2019s a difference you can see \u2013 and a difference you\u2019ll experience on the job. They have a completely re-engineered cab that keeps you comfortable, with superior power and hydraulic performance that will help you do more, do it faster and better. Add to this simplified maintenance and serviceability; and a completely new engineering design coupled with improved durability that further increases up-time.</p>\n<p>The S530, S570, S590 and T590 models feature vertical lift path boom arms particularly suited to lift and carry as well as material-handling applications. The new vertical lift path loaders offer an increased lift height compared to the previous generation of machines and, combined with an optimised lift arm design, provide operators with the ability to lift heavier loads higher, making it easier to clear high-sided truck boxes and hoppers, as well as placing pallets loaded with heavy materials.</p>\n<p>\u00a0</p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/S510-S530-S550-S570-S590-T590_EN.pdf\" target=\"_blank\" class=\"button primary is-primary is-medium\" rel=\"noopener\"  >\n    <span>T590 Compact Track Loaders Brochure</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<h3>T590 \u2013 Versatile machine with huge amount of attachments</h3>\n<ul class=\"float\">\n<li>Higher performance</li>\n<li>Best working conditions</li>\n<li>Increased hydraulic power</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 344,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 9],
+  "product_tag": [10],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/343" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=343"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/344"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=343" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=343"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=343"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

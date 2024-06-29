@@ -1,0 +1,65 @@
+{
+  "id": 8532,
+  "date": "2017-08-28T11:05:49",
+  "date_gmt": "2017-08-28T11:05:49",
+  "guid": { "rendered": "https://pmegtrading.com/?post_type=product&#038;p=8532/" },
+  "modified": "2017-11-27T10:05:50",
+  "modified_gmt": "2017-11-27T10:05:50",
+  "slug": "light-weight-stage",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/light-weight-stage",
+  "title": { "rendered": "LIGHT WEIGHT STAGE" },
+  "content": {
+    "rendered": "<p>The <strong><em>SKY CLIMBER\u00ae </em></strong><strong>LIGHT WEIGHT STAGE </strong>is designed for use with any <strong><em>SKY CLIMBER\u00ae </em></strong>powered rigging hoist. The combination forms a complete modular light weight suspended access system and is a cost effective complement to the range of <strong><em>SKY CLIMBER\u00ae </em></strong>products. The suspension, connection and walk-through stirrups are fabricated from zinc plated steel. All other components are aluminum alloy.</p>\n<p>The Light Weight Stage is the ideal solution for your work environment!</p>\n<h3><u>Light and easy:</u></h3>\n<p>A 12 m platform can be handled and assembled by 2 men. The heaviest component, a 3 m floor section weighs only 22 kg. Fast and easy, the components are designed to assemble a 16 m platform in less than 15 minutes. No tools required as all joints are made by means of connection pins and secured with safety pins.</p>\n<h3><u>Modular:</u></h3>\n<p>Using 1, 2 or 3 m modules, the <strong>LIGHT WEIGHT STAGE </strong>can be assembled to achieve a maximum length of 12 m between suspension centres. Walk-through stirrups can be used with this system as an alternative to the standard suspension stirrups.</p>\n<p>When walk-through stirrups are used, an additional module can be added to each end, making a maximum stage length of 16 m and giving better access to corners of buildings, etc. In addition, the walk-through stirrup assembly in conjunction with two balcony sections of 0,75 m can be used to make up a single hoist cage having a nominal length of 1,5 m maximum.</p>\n<h3><u>Economical:</u></h3>\n<p>The <strong><em>SKY CLIMBER\u00ae </em></strong><strong>LIGHT WEIGHT STAGE </strong>is providing a very cost effective solution to many\u00a0 access problems.</p>\n<h3><u>Safety:</u></h3>\n<p>All Standard configurations are CE (EN1808) approved, meeting and or exceeding European safety regulations.</p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/08/LIGHT-WEIGHT-STAGE.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The <strong><em>SKY CLIMBER\u00ae </em></strong><strong>LIGHT WEIGHT STAGE </strong>is designed for use with any <strong><em>SKY CLIMBER\u00ae </em></strong>powered rigging hoist. The combination forms a complete modular light weight suspended access system and is a cost effective complement to the range of <strong><em>SKY CLIMBER\u00ae </em></strong>products.</p>\n",
+    "protected": false
+  },
+  "featured_media": 8359,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [159],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/8532" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=8532"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/8359"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=8532" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=8532"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=8532"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

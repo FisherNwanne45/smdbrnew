@@ -1,0 +1,65 @@
+{
+  "id": 1965,
+  "date": "2017-02-15T09:19:20",
+  "date_gmt": "2017-02-15T09:19:20",
+  "guid": { "rendered": "https://pmegtrading.com/product/v6-dry-canister-vacuum/" },
+  "modified": "2017-11-05T09:54:23",
+  "modified_gmt": "2017-11-05T09:54:23",
+  "slug": "v6-dry-canister-vacuum",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/v6-dry-canister-vacuum",
+  "title": { "rendered": "V6 Dry Canister Vacuum" },
+  "content": {
+    "rendered": "<h2 class=\"tn-large-header\" style=\"text-align: center;\">V6 Features and Benefits</h2>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-wrap left\">\n<h3>The Tennant V6 Dry Canister Vacuum is designed to clean quickly and easily any time, anywhere on both carpeted and hard floor surfaces:</h3>\n<ul>\n<li>Improve your Indoor Environmental Quality (IEQ) with standard 3-stage HEPA filtration system that traps small dust particles.</li>\n<li>Make operator experience a priority with an easy-to-use telescopic vacuum wand for cleaning hard-to-reach areas.</li>\n<li>Rely on consistent performance in commercial applications with durable, proven major components.</li>\n</ul>\n</div>\n<div class=\"tn-featured-text-image right\"><img decoding=\"async\" class=\"aligncenter\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Vacuums/Media%20Gallery%20Images/V6-portable.jpg\" alt=\"372;# Feature Image\" /></div>\n</div>\n<div></div>\n<div class=\"tn-featured-benefit\">\n<div class=\"tn-featured-text-image left\"><img decoding=\"async\" class=\"aligncenter\" src=\"http://assets.tennantco.com/GlobalAssets/WebAssets/Vacuums/Media%20Gallery%20Images/V6-retail2.jpg\" alt=\"372;# Feature Image\" /></div>\n</div>\n<div class=\"tn-featured-text-image left\"></div>\n<div class=\"tn-featured-text-image left\"></div>\n<div class=\"tn-featured-text-image left\"></div>\n<p class=\"tn-large-header\" style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/20122435_ten_family_vacuums_en-v19-lr.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Tennant V6 Dry Canister Vacuum is ready for use any time, anywhere with a low dBA, a variety of wand accessories, and compact transport and storage.\u200b</p>\n",
+    "protected": false
+  },
+  "featured_media": 1974,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [49, 44],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/1965" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=1965"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/1974"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=1965" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=1965"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=1965"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 548,
+  "date": "2016-04-16T00:00:00",
+  "date_gmt": "2016-04-16T00:00:00",
+  "guid": { "rendered": "https://pmegtrading.com/product/s100-skid-steer-loader/" },
+  "modified": "2017-06-21T16:08:51",
+  "modified_gmt": "2017-06-21T16:08:51",
+  "slug": "s100-skid-steer-loader",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/s100-skid-steer-loader",
+  "title": { "rendered": "S100 Skid-Steer Loader" },
+  "content": {
+    "rendered": "<h3 style=\"text-align: justify;\">S100, amazing power in a compact package</h3>\n<p>The S100 is the ideal size to work quickly and efficiently on limited-access jobsites thanks to its radius lift pattern and its short wheel base.</p>\n<p>More than 20 attachments turn this small skid-steer loader into a problem-solving model. The Bob-TachTM mounting system makes changing attachments quick and easy.<br />\nThe S100 is also easy to transport, giving you the benefit of handling multiple tasks at multiple sites in a single day.</p>\n<p>Get even more with the Deluxe heated cab, the counterweights, the Power Bob-Tach\u2122, the bucket position valve and the Deluxe instrument panel available as factory options.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<ul class=\"float\">\n<li>Compactness</li>\n<li>Transportability</li>\n<li>Performance</li>\n<li>Durability</li>\n</ul>\n",
+    "protected": false
+  },
+  "featured_media": 549,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [27, 12],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/548" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=548"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/549"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=548" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=548"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=548"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

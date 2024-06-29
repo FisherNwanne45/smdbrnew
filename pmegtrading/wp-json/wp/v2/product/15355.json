@@ -1,0 +1,67 @@
+{
+  "id": 15355,
+  "date": "2023-10-17T15:24:06",
+  "date_gmt": "2023-10-17T12:24:06",
+  "guid": {
+    "rendered": "https://pmegtrading.com/?post_type=product&#038;p=15355"
+  },
+  "modified": "2023-10-17T15:28:29",
+  "modified_gmt": "2023-10-17T12:28:29",
+  "slug": "apr30-50-reversible-vibrator-plate",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/apr30-50-reversible-vibrator-plate",
+  "title": { "rendered": "APR30/50 Reversible Vibrator Plate" },
+  "content": {
+    "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-15361\" src=\"https://pmegtrading.com/wp-content/uploads/2023/10/apr_3050_vibratory_plate_j84a4021_191210.webp\" alt=\"\" width=\"1600\" height=\"900\" srcset=\"https://pmegtrading.com/wp-content/uploads/2023/10/apr_3050_vibratory_plate_j84a4021_191210.webp 1600w, https://pmegtrading.com/wp-content/uploads/2023/10/apr_3050_vibratory_plate_j84a4021_191210-711x400.webp 711w, https://pmegtrading.com/wp-content/uploads/2023/10/apr_3050_vibratory_plate_j84a4021_191210-1400x788.webp 1400w, https://pmegtrading.com/wp-content/uploads/2023/10/apr_3050_vibratory_plate_j84a4021_191210-768x432.webp 768w, https://pmegtrading.com/wp-content/uploads/2023/10/apr_3050_vibratory_plate_j84a4021_191210-1536x864.webp 1536w, https://pmegtrading.com/wp-content/uploads/2023/10/apr_3050_vibratory_plate_j84a4021_191210-600x338.webp 600w\" sizes=\"(max-width: 1600px) 100vw, 1600px\" /></p>\n<p>&nbsp;</p>\n<table style=\"height: 134px;\" width=\"1089\">\n<tbody>\n<tr>\n<td width=\"533\">Specifications</td>\n<td width=\"128\"></td>\n</tr>\n<tr>\n<td>Operating Weight</td>\n<td>215 kg</td>\n</tr>\n<tr>\n<td>Working Width</td>\n<td>50 mm</td>\n</tr>\n<tr>\n<td>Compaction Force and\u00a0 Frequency</td>\n<td>32 kN / 90 Hz</td>\n</tr>\n<tr>\n<td>Engine, Diesel, Air Cooled</td>\n<td>Hatz-Diesel</td>\n</tr>\n</tbody>\n</table>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The APR 30/50 maintain the easy handling that is common to smaller reversible vibratory plates, but they add productivity potential with working widths of 50 cm. That added capacity helps cover ground quickly, yet also maintains the \u201con-the-spot\u201d capabilities, enabling a focus on particularly tough-to-compact areas.</p>\n",
+    "protected": false
+  },
+  "featured_media": 15359,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "product_cat": [28, 18],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/15355" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=15355"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/15359"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=15355" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=15355"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=15355"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

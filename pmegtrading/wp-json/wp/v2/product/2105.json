@@ -1,0 +1,65 @@
+{
+  "id": 2105,
+  "date": "2017-02-15T14:54:31",
+  "date_gmt": "2017-02-15T14:54:31",
+  "guid": { "rendered": "https://pmegtrading.com/product/industrial-series/" },
+  "modified": "2017-06-21T16:11:16",
+  "modified_gmt": "2017-06-21T16:11:16",
+  "slug": "industrial-series",
+  "status": "publish",
+  "type": "product",
+  "link": "https://pmegtrading.com/product/industrial-series",
+  "title": { "rendered": "Industrial Series" },
+  "content": {
+    "rendered": "<table border=\"0\" cellspacing=\"1\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td align=\"left\" valign=\"top\"><strong>The Industrial Series\u00a0is\u00a0the highest level of strength and performance in CROMA computerized foam cutting systems. Whatever the\u00a0feature of your specific need and your request, this series can receive any configuration we will study according to your requirements.</strong></p>\n<p>thanks to the including <a href=\"http://www.croma-foamcutter.com/Assets/Client/FTP/Croma/Spec%20Sheets/French%20A4%20review/Independent%20Axis%20mode.pdf\" target=\"_blank\">Independent wire axis mode</a><br />\ncutting capability : both end of the wires are independently driven<br />\nThis exclusive mode added with the numerous adaptable options make the<br />\ninvestment very profitable<br />\nWith a reinforced and very evolutive structure, these cutting systems have already been delivered and improved for a long time. Their working capacities are really important and the configurations can be really specific.<br />\n<img decoding=\"async\" title=\"Industrial Foam Cutting Machine\" src=\"http://www.croma-foamcutter.com/Assets/Client/Images/Croma/Our%20Products/Cutting%20Systems/Industrial%20Series/serie%20indus%20armoire%20machine.jpg\" alt=\"Industrial Hot Wire Cutting Machine\" longdesc=\"http://www.croma-foamcutter.com/Hot%20Wire%20Cutting%20Machine%20to%20cut%20EPS,%20XPS%20and%20other%20type%20of%20foam\" align=\"right\" /><br />\nFrom the single outline cutting system to the fully automatic cutting line (for example addition of block support or blocks handling), all the\u00a0aspects of your need will be satisfied. Industrial System will be inserted in any specific and custom realization (See examples in the spec sheet \u201cIndustrial Custom realizations\u201d).</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellspacing=\"1\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td align=\"left\" valign=\"top\">\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr>\n<td colspan=\"2\" align=\"center\"></td>\n<td colspan=\"2\" align=\"center\"><strong><span class=\"TITREENCARD\">CUTTING CAPACITIES</span></strong></td>\n<td colspan=\"2\" align=\"center\"></td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellspacing=\"5\" cellpadding=\"0\" align=\"center\">\n<tbody>\n<tr>\n<td align=\"left\" valign=\"middle\"><strong><br />\nModel<br />\n</strong></td>\n<td align=\"left\" valign=\"top\"><strong><br />\nAxis X</strong> <sup>(1)<br />\n</sup></td>\n<td align=\"left\" valign=\"top\"><strong><br />\nAxis Y</strong><sup>\u00a0 (2)</sup></td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table>\n<p><strong><br />\nAxis Z</strong> <sup>(3)</sup></p>\n<p><strong>488</strong>255 cm (100&#8243;)155 cm (61&#8243;)255 cm (100&#8243;)<strong>888</strong>255 cm (100&#8243;)255 cm (100&#8243;)255 cm (100&#8243;)<strong>8 16 8</strong>505 cm (198&#8243;)255 cm (100&#8243;)255 cm (100&#8243;)<strong>8 16 16</strong>505 cm (198&#8243;)255 cm (100&#8243;)505 cm (198&#8243;)<em>(1) horizontal movement<br />\n(2) vertical movement<br />\n(3) cutting wire(s) length</em></p>\n<p style=\"text-align: center;\"><a href=\"https://pmegtrading.com/wp-content/uploads/2017/02/Industrial-Series.pdf\" target=\"blank\" class=\"button primary is-primary is-medium\"  >\n    <span>DOWNLOAD PRODUCT OVERVIEW</span>\n  </a>\n\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>The Craftsman Series allows you to produce 3D foam products at a reasonable price. These machines, easy to install, can be linked to a 3 dimensional printer.</p>\n",
+    "protected": false
+  },
+  "featured_media": 2108,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "product_cat": [42, 43],
+  "product_tag": [],
+  "_links": {
+    "self": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product/2105" }],
+    "collection": [{ "href": "https://pmegtrading.com/wp-json/wp/v2/product" }],
+    "about": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/types/product" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/comments?post=2105"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/media/2108"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://pmegtrading.com/wp-json/wp/v2/media?parent=2105" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "product_cat",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_cat?post=2105"
+      },
+      {
+        "taxonomy": "product_tag",
+        "embeddable": true,
+        "href": "https://pmegtrading.com/wp-json/wp/v2/product_tag?post=2105"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}
