@@ -3172,303 +3172,93 @@
 
       <main id="main" class="">
         <div id="content" role="main" class="content-area">
-          <section class="section has-parallax" id="section_1354441025">
-            <div
-              class="bg section-bg fill bg-fill"
-              data-parallax-container=".section"
-              data-parallax-background
-              data-parallax="-3">
-              <div
-                class="is-border"
-                style="border-width: 1px 0px 1px 0px"></div>
-            </div>
+           
+<style>/* Basic styling for the slider */
+#slider {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 517px; /* Adjust height as needed */
+}
+
+#slider-container {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.slider-slide {
+  flex: 0 0 100%; /* Each slide takes full width */
+}
+
+.slider-slide img {
+  width: 100%;
+  height: 517px; /* Adjust height as needed */
+  object-fit: cover;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const slides = [
+    "./wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-1b.jpg",
+    "./wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-2d.jpg",
+    "./wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-3c.jpg",
+    "./wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-4b.jpg",
+    "./wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-5b.jpg",
+    "./wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-6d.jpg"
+  ];
+
+  const sliderContainer = document.getElementById("slider-container");
+  const sliderSlides = document.querySelectorAll(".slider-slide");
+
+  // Create slides dynamically
+  slides.forEach((slideUrl, index) => {
+    const slide = document.createElement("div");
+    slide.classList.add("slider-slide");
+
+    const img = document.createElement("img");
+    img.src = slideUrl;
+    img.alt = "Slide Image";
+    slide.appendChild(img);
+
+    sliderContainer.appendChild(slide);
+  });
+
+  // Slider logic
+  let slideIndex = 0;
+  const slideCount = slides.length;
+  const slideWidth = sliderSlides[0].offsetWidth; // Width of each slide
+
+  function showSlides() {
+    slideIndex = (slideIndex + 1) % slideCount;
+    const offset = -slideIndex * slideWidth;
+    sliderContainer.style.transform = `translateX(${offset}px)`;
+  }
+
+  setInterval(showSlides, 3000); // Auto slide every 6 seconds
+});
+
+</script>
+          <section class="section" id="section_1354441025">
+             
 
             <div class="section-content relative">
               <div class="banner-grid-wrapper">
-                <div
-                  id="banner-grid-286740007"
-                  class="banner-grid row row-grid row-xsmall"
-                  data-packery-options="">
+                <div id="banner-grid-286740007" class="banner-grid row row-grid row-xsmall" data-packery-options="">
                   <div class="col grid-col large-7 grid-col-1">
                     <div class="col-inner">
-                      <div
-                        class="slider-wrapper relative"
-                        id="slider-180075882">
-                        <div
-                          class="slider slider-nav-circle slider-nav-large slider-nav-light slider-style-normal"
-                          data-flickity-options='{
-            "cellAlign": "center",
-            "imagesLoaded": true,
-            "lazyLoad": 1,
-            "freeScroll": false,
-            "wrapAround": true,
-            "autoPlay": 6000,
-            "pauseAutoPlayOnHover" : true,
-            "prevNextButtons": true,
-            "contain" : true,
-            "adaptiveHeight" : true,
-            "dragThreshold" : 10,
-            "percentPosition": true,
-            "pageDots": true,
-            "rightToLeft": false,
-            "draggable": true,
-            "selectedAttraction": 0.1,
-            "parallax" : 0,
-            "friction": 0.6        }'>
-                          <div
-                            class="banner has-hover has-slide-effect slide-zoom-out-fast"
-                            id="banner-820904584">
-                            <div class="banner-inner fill">
-                              <div class="banner-bg fill">
-                                <div class="bg fill bg-fill"></div>
-                              </div>
-
-                              <div class="banner-layers container">
-                                <a
-                                  class="fill"
-                                  href="https://pmegtrading.com/construction-equipment"
-                                  ><div class="fill banner-link"></div
-                                ></a>
-                              </div>
-                            </div>
-
-                            <div class="height-fix is-invisible">
-                              <img
-                                fetchpriority="high"
-                                decoding="async"
-                                width="766"
-                                height="517"
-                                src="wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-1b.jpg"
-                                class="attachment-orginal size-orginal"
-                                alt="Prime Machinery & Equipment General Trading FZE  Slide 1b"
-                                srcset="
-                                  https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-1b.jpg         766w,
-                                  https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-1b-600x405.jpg 600w,
-                                  https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-1b-593x400.jpg 593w
-                                "
-                                sizes="(max-width: 766px) 100vw, 766px" />
-                            </div>
-
-                            <style>
-                              #banner-820904584 .bg.bg-loaded {
-                                background-image: url(wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-1b.jpg);
-                              }
-                              #banner-820904584 .bg {
-                                background-position: 49% 54%;
-                              }
-                            </style>
-                          </div>
-
-                          <div
-                            class="banner has-hover has-slide-effect slide-zoom-in-fast"
-                            id="banner-954803341">
-                            <div class="banner-inner fill">
-                              <div class="banner-bg fill">
-                                <div class="bg fill bg-fill"></div>
-                              </div>
-
-                              <div class="banner-layers container">
-                                <a
-                                  class="fill"
-                                  href="https://pmegtrading.com/construction-equipment"
-                                  ><div class="fill banner-link"></div
-                                ></a>
-                              </div>
-                            </div>
-
-                            <div class="height-fix is-invisible">
-                              <img
-                                decoding="async"
-                                width="766"
-                                height="517"
-                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20766%20517%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                data-src="https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-2d.jpg"
-                                class="lazy-load attachment-orginal size-orginal"
-                                alt="Prime Machinery & Equipment General Trading FZE  Slide 2d"
-                                srcset=""
-                                data-srcset="https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-2d.jpg 766w, https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-2d-600x405.jpg 600w, https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-2d-593x400.jpg 593w"
-                                sizes="(max-width: 766px) 100vw, 766px" />
-                            </div>
-
-                            <style>
-                              #banner-954803341 .bg.bg-loaded {
-                                background-image: url(wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-2d.jpg);
-                              }
-                              #banner-954803341 .bg {
-                                background-position: 48% 54%;
-                              }
-                            </style>
-                          </div>
-
-                          <div
-                            class="banner has-hover has-slide-effect slide-zoom-out-fast"
-                            id="banner-698752703">
-                            <div class="banner-inner fill">
-                              <div class="banner-bg fill">
-                                <div class="bg fill bg-fill"></div>
-                              </div>
-
-                              <div class="banner-layers container">
-                                <a
-                                  class="fill"
-                                  href="https://pmegtrading.com/construction-systems"
-                                  ><div class="fill banner-link"></div
-                                ></a>
-                              </div>
-                            </div>
-
-                            <div class="height-fix is-invisible">
-                              <img
-                                decoding="async"
-                                width="766"
-                                height="517"
-                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20766%20517%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                data-src="https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-3c.jpg"
-                                class="lazy-load attachment-orginal size-orginal"
-                                alt=""
-                                srcset=""
-                                data-srcset="https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-3c.jpg 766w, https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-3c-600x405.jpg 600w, https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-3c-593x400.jpg 593w"
-                                sizes="(max-width: 766px) 100vw, 766px" />
-                            </div>
-
-                            <style>
-                              #banner-698752703 .bg.bg-loaded {
-                                background-image: url(wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-3c.jpg);
-                              }
-                              #banner-698752703 .bg {
-                                background-position: 49% 49%;
-                              }
-                            </style>
-                          </div>
-
-                          <div
-                            class="banner has-hover has-slide-effect slide-zoom-in-fast"
-                            id="banner-1759740246">
-                            <div class="banner-inner fill">
-                              <div class="banner-bg fill">
-                                <div class="bg fill bg-fill"></div>
-                              </div>
-
-                              <div class="banner-layers container">
-                                <a
-                                  class="fill"
-                                  href="https://pmegtrading.com/construction-systems"
-                                  ><div class="fill banner-link"></div
-                                ></a>
-                              </div>
-                            </div>
-
-                            <div class="height-fix is-invisible">
-                              <img
-                                decoding="async"
-                                width="766"
-                                height="517"
-                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20766%20517%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                data-src="https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-4b.jpg"
-                                class="lazy-load attachment-orginal size-orginal"
-                                alt="Prime Machinery & Equipment General Trading FZE  Slide 4b"
-                                srcset=""
-                                data-srcset="https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-4b.jpg 766w, https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-4b-600x405.jpg 600w, https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-4b-593x400.jpg 593w"
-                                sizes="(max-width: 766px) 100vw, 766px" />
-                            </div>
-
-                            <style>
-                              #banner-1759740246 .bg.bg-loaded {
-                                background-image: url(wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-4b.jpg);
-                              }
-                              #banner-1759740246 .bg {
-                                background-position: 47% 51%;
-                              }
-                            </style>
-                          </div>
-
-                          <div
-                            class="banner has-hover has-slide-effect slide-zoom-out-fast"
-                            id="banner-1956065181">
-                            <div class="banner-inner fill">
-                              <div class="banner-bg fill">
-                                <div class="bg fill bg-fill"></div>
-                              </div>
-
-                              <div class="banner-layers container">
-                                <a
-                                  class="fill"
-                                  href="https://pmegtrading.com/cleaning-industrials"
-                                  ><div class="fill banner-link"></div
-                                ></a>
-                              </div>
-                            </div>
-
-                            <div class="height-fix is-invisible">
-                              <img
-                                decoding="async"
-                                width="766"
-                                height="517"
-                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20766%20517%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                data-src="https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-5b.jpg"
-                                class="lazy-load attachment-orginal size-orginal"
-                                alt="Prime Machinery & Equipment General Trading FZE  Slide 5b"
-                                srcset=""
-                                data-srcset="https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-5b.jpg 766w, https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-5b-600x405.jpg 600w, https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-5b-593x400.jpg 593w"
-                                sizes="(max-width: 766px) 100vw, 766px" />
-                            </div>
-
-                            <style>
-                              #banner-1956065181 .bg.bg-loaded {
-                                background-image: url(wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-5b.jpg);
-                              }
-                              #banner-1956065181 .bg {
-                                background-position: 49% 45%;
-                              }
-                            </style>
-                          </div>
-
-                          <div
-                            class="banner has-hover has-slide-effect slide-zoom-in-fast"
-                            id="banner-80189344">
-                            <div class="banner-inner fill">
-                              <div class="banner-bg fill">
-                                <div class="bg fill bg-fill"></div>
-                              </div>
-
-                              <div class="banner-layers container">
-                                <a
-                                  class="fill"
-                                  href="https://pmegtrading.com/cleaning-industrials"
-                                  ><div class="fill banner-link"></div
-                                ></a>
-                              </div>
-                            </div>
-
-                            <div class="height-fix is-invisible">
-                              <img
-                                decoding="async"
-                                width="766"
-                                height="517"
-                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20766%20517%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                data-src="https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-6d.jpg"
-                                class="lazy-load attachment-orginal size-orginal"
-                                alt="Prime Machinery & Equipment General Trading FZE  Slide 6d"
-                                srcset=""
-                                data-srcset="https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-6d.jpg 766w, https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-6d-600x405.jpg 600w, https://pmegtrading.com/wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-6d-593x400.jpg 593w"
-                                sizes="(max-width: 766px) 100vw, 766px" />
-                            </div>
-
-                            <style>
-                              #banner-80189344 .bg.bg-loaded {
-                                background-image: url(wp-content/uploads/2017/12/General-Trading-and-Equipment-Company-Slide-6d.jpg);
-                              }
-                              #banner-80189344 .bg {
-                                background-position: 54% 48%;
-                              }
-                            </style>
-                          </div>
-                        </div>
-
-                        <div class="loading-spin dark large centered"></div>
-                      </div>
+                      <div class="section-content relative">
+    <div class="banner-grid-wrapper">
+      <div class="slider-wrapper relative" id="slider">
+        <div class="slider" id="slider-container">
+          <!-- Slides will be added dynamically using JavaScript -->
+        </div>
+      </div>
+    </div>
+  </div>
                     </div>
                   </div>
+
+                  
                   <div class="col grid-col large-5 grid-col-1-3">
                     <div class="col-inner">
                       <div
@@ -3854,534 +3644,594 @@
             </style>
           </div>
 
-          <section class="section" id="section_1589717266">
+          
+<section class="section" id="section_1869551002">
             <div class="bg section-bg fill bg-fill bg-loaded"></div>
 
             <div class="section-content relative">
-              <div class="container section-title-container">
-                <h3 class="section-title section-title-bold-center">
-                  <b></b
-                  ><span class="section-title-main"
-                    ><i class="icon-star-o"></i>Our Partners in Experience</span
-                  ><b></b>
-                </h3>
-              </div>
-
-              <div
-                class="slider-wrapper relative hide-for-small"
-                id="slider-1988726589">
-                <div
-                  class="slider slider-nav-reveal slider-nav-large slider-nav-dark slider-nav-outside slider-style-normal slider-show-nav"
-                  data-flickity-options='{
-            "cellAlign": "center",
-            "imagesLoaded": true,
-            "lazyLoad": 1,
-            "freeScroll": true,
-            "wrapAround": true,
-            "autoPlay": 3000,
-            "pauseAutoPlayOnHover" : true,
-            "prevNextButtons": true,
-            "contain" : true,
-            "adaptiveHeight" : true,
-            "dragThreshold" : 10,
-            "percentPosition": true,
-            "pageDots": false,
-            "rightToLeft": false,
-            "draggable": true,
-            "selectedAttraction": 0.1,
-            "parallax" : 0,
-            "friction": 0.6        }'>
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/bobcat"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2016/12/Bobcat-Logo-General-Trading-Equipment-Co-195195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 160.76923076923px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/ammann"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2016/12/Ammann-Logo-General-Trading-Equipment-Co-195195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 85px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 301.22727272727px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="product-category/boge.html"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2021/03/boge-en.png"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 85px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/davino"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2016/12/Davino-Logo-General-Trading-Equipment-Co-195195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/arabian-sun"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2016/12/Arabian-Sun-Logo-General-Trading-Equipment-Co-195120.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/tennant"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2017/12/Tennant-Logo-General-Trading-Equipment-Co-195195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/green-machines"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2017/12/Green-Machine-Logo-General-Trading-Equipment-Co-300x195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/g-s-r"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2016/12/GSR-Logo-General-Trading-Equipment-Co-195195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/hy-brid-lifts"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2017/12/Hybrid-Lifts-Logo-General-Trading-Equipment-Co-300x195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/palazzani"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2017/12/Palazzani-Logo-General-Trading-Equipment-Co-300x195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/fibre-tech"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2016/12/Fibre-Technologies-Logo-General-Trading-Equipment-Co-195195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="max-width: 100% !important; width: 130px !important">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/weiler"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2022/03/MaxTruder-01.png"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/sky-climber"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2016/12/Sky-Climber-Logo-General-Trading-Equipment-Co-195195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/power-spray"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2016/12/Power-Sprays-Logo-General-Trading-Equipment-Co-195195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/polytek"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2016/12/Polytek-Logo-General-Trading-Equipment-Co-195195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/neg"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2016/12/Nippon-Electric-Glass-Co-Logo-General-Trading-Equipment-Co-195195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/croma"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2016/12/Croma-Logo-General-Trading-Equipment-Co-195195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/unique-industries"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2017/12/Unique-Industries-Logo-General-Trading-Equipment-Co-300x195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/jacobson-chemicals"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2016/12/Jacobson-Chemicals-Logo-General-Trading-Equipment-Co-195195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
-                  </div>
-
-                  <div
-                    class="ux-logo has-hover align-middle ux_logo inline-block"
-                    style="
-                      max-width: 100% !important;
-                      width: 183.84615384615px !important;
-                    ">
-                    <a
-                      class="ux-logo-link block image-zoom"
-                      title=""
-                      href="https://pmegtrading.com/product-category/jacobson-chemicals"
-                      style="padding: 15px"
-                      ><img
-                        decoding="async"
-                        src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                        data-src="https://pmegtrading.com/wp-content/uploads/2016/12/Architectural-Polymers-Logo-General-Trading-Equipment-Co-195195.jpg"
-                        title=""
-                        alt=""
-                        class="lazy-load ux-logo-image block"
-                        style="height: 100px"
-                    /></a>
+              <div class="row" id="row-1432890121">
+                <div id="col-1425304523" class="col small-12 large-12">
+                  <div class="col-inner text-center">
+                    
+                    <h2>EQUIPMENT AUTOMATION</h2>
                   </div>
                 </div>
+              </div>
+              <div class="row align-equal" id="row-823266763">
+                <div id="col-685086057" class="col small-12 large-12">
+                  <div class="col-inner">
+                    <div class="row align-middle" id="row-1295316062">
+                      <div
+                        id="col-1961229112"
+                        class="col medium-4 small-12 large-4">
+                        <div class="col-inner text-center">
+                          <div
+                            class="ux-logo has-hover align-middle ux_logo inline-block"
+                            style="
+                              max-width: 100% !important;
+                              width: 131.03092783505px !important;
+                            ">
+                            <a
+                              class="ux-logo-link block image-color"
+                              title=""
+                              href="#video"
+                              style="padding: 15px"
+                              ><img
+                                decoding="async"
+                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                data-src="./wp-content/uploads/2023/09/EXCAVATORS-ICON.png"
+                                title=""
+                                alt=""
+                                class="lazy-load ux-logo-image block"
+                                style="height: 100px"
+                            /></a>
+                          </div>
 
-                <div class="loading-spin dark large centered"></div>
+                          <h2>Excavators</h2>
+                          <div
+                            class="ux-logo has-hover align-middle ux_logo inline-block"
+                            style="
+                              max-width: 100% !important;
+                              width: auto !important;
+                            ">
+                            <div
+                              class="ux-logo-link block image-overlay-add"
+                              title=""
+                              href="#"
+                              style="padding: 15px">
+                              <img
+                                decoding="async"
+                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                data-src=""
+                                title=""
+                                alt=""
+                                class="lazy-load ux-logo-image block"
+                                style="height: 50px" />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div
+                        id="col-1713075395"
+                        class="col medium-4 small-12 large-4">
+                        <div class="col-inner text-center">
+                          <div
+                            class="ux-logo has-hover align-middle ux_logo inline-block"
+                            style="
+                              max-width: 100% !important;
+                              width: 134.08163265306px !important;
+                            ">
+                            <div
+                              class="ux-logo-link block image-color"
+                              title=""
+                              href="#"
+                              style="padding: 15px">
+                              <img
+                                decoding="async"
+                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                data-src="./wp-content/uploads/2023/09/Dozers-ICON.png"
+                                title=""
+                                alt=""
+                                class="lazy-load ux-logo-image block"
+                                style="height: 100px" />
+                            </div>
+                          </div>
+
+                          <h2>Dozers</h2>
+                          <div
+                            class="ux-logo has-hover align-middle ux_logo inline-block"
+                            style="
+                              max-width: 100% !important;
+                              width: auto !important;
+                            ">
+                            <div
+                              class="ux-logo-link block image-overlay-add"
+                              title=""
+                              href="#"
+                              style="padding: 15px">
+                              <img
+                                decoding="async"
+                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                data-src=""
+                                title=""
+                                alt=""
+                                class="lazy-load ux-logo-image block"
+                                style="height: 50px" />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div
+                        id="col-1256321684"
+                        class="col medium-4 small-12 large-4">
+                        <div class="col-inner text-center">
+                          <div
+                            class="ux-logo has-hover align-middle ux_logo inline-block"
+                            style="
+                              max-width: 100% !important;
+                              width: 137.14285714286px !important;
+                            ">
+                            <div
+                              class="ux-logo-link block image-color"
+                              title=""
+                              href="#"
+                              style="padding: 15px">
+                              <img
+                                decoding="async"
+                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                data-src="./wp-content/uploads/2023/09/Graders-ICON.png"
+                                title=""
+                                alt=""
+                                class="lazy-load ux-logo-image block"
+                                style="height: 100px" />
+                            </div>
+                          </div>
+
+                          <h2>Graders</h2>
+                          <div
+                            class="ux-logo has-hover align-middle ux_logo inline-block"
+                            style="
+                              max-width: 100% !important;
+                              width: auto !important;
+                            ">
+                            <div
+                              class="ux-logo-link block image-overlay-add"
+                              title=""
+                              href="#"
+                              style="padding: 15px">
+                              <img
+                                decoding="async"
+                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                data-src=""
+                                title=""
+                                alt=""
+                                class="lazy-load ux-logo-image block"
+                                style="height: 50px" />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div
+                        id="col-1392332401"
+                        class="col medium-3 small-12 large-3">
+                        <div class="col-inner text-center">
+                          <div
+                            class="ux-logo has-hover align-middle ux_logo inline-block"
+                            style="
+                              max-width: 100% !important;
+                              width: 130px !important;
+                            ">
+                            <div
+                              class="ux-logo-link block image-color"
+                              title=""
+                              href="#"
+                              style="padding: 15px">
+                              <img
+                                decoding="async"
+                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                data-src="./wp-content/uploads/2023/09/Milling-ICON.png"
+                                title=""
+                                alt=""
+                                class="lazy-load ux-logo-image block"
+                                style="height: 100px" />
+                            </div>
+                          </div>
+
+                          <h2>Milling</h2>
+                          <div
+                            class="ux-logo has-hover align-middle ux_logo inline-block"
+                            style="
+                              max-width: 100% !important;
+                              width: auto !important;
+                            ">
+                            <div
+                              class="ux-logo-link block image-overlay-add"
+                              title=""
+                              href="#"
+                              style="padding: 15px">
+                              <img
+                                decoding="async"
+                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                data-src=""
+                                title=""
+                                alt=""
+                                class="lazy-load ux-logo-image block"
+                                style="height: 50px" />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div
+                        id="col-217420724"
+                        class="col medium-3 small-12 large-3">
+                        <div class="col-inner text-center">
+                          <div
+                            class="ux-logo has-hover align-middle ux_logo inline-block"
+                            style="
+                              max-width: 100% !important;
+                              width: 130px !important;
+                            ">
+                            <div
+                              class="ux-logo-link block image-color"
+                              title=""
+                              href="#"
+                              style="padding: 15px">
+                              <img
+                                decoding="async"
+                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                data-src="./wp-content/uploads/2023/09/Smooth-ride-Paving-ICON.png"
+                                title=""
+                                alt=""
+                                class="lazy-load ux-logo-image block"
+                                style="height: 100px" />
+                            </div>
+                          </div>
+
+                          <h2>Smooth ride &amp; Paving</h2>
+                          <div
+                            class="ux-logo has-hover align-middle ux_logo inline-block"
+                            style="
+                              max-width: 100% !important;
+                              width: auto !important;
+                            ">
+                            <div
+                              class="ux-logo-link block image-overlay-add"
+                              title=""
+                              href="#"
+                              style="padding: 15px">
+                              <img
+                                decoding="async"
+                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                data-src=""
+                                title=""
+                                alt=""
+                                class="lazy-load ux-logo-image block"
+                                style="height: 50px" />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div
+                        id="col-1369303178"
+                        class="col medium-3 small-12 large-3">
+                        <div class="col-inner text-center">
+                          <div
+                            class="ux-logo has-hover align-middle ux_logo inline-block"
+                            style="
+                              max-width: 100% !important;
+                              width: 131.03092783505px !important;
+                            ">
+                            <div
+                              class="ux-logo-link block image-color"
+                              title=""
+                              href="#"
+                              style="padding: 15px">
+                              <img
+                                decoding="async"
+                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                data-src="./wp-content/uploads/2023/09/Compactors-ICON.png"
+                                title=""
+                                alt=""
+                                class="lazy-load ux-logo-image block"
+                                style="height: 100px" />
+                            </div>
+                          </div>
+
+                          <h2>Compactors</h2>
+                          <div
+                            class="ux-logo has-hover align-middle ux_logo inline-block"
+                            style="
+                              max-width: 100% !important;
+                              width: auto !important;
+                            ">
+                            <div
+                              class="ux-logo-link block image-overlay-add"
+                              title=""
+                              href="#"
+                              style="padding: 15px">
+                              <img
+                                decoding="async"
+                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                data-src=""
+                                title=""
+                                alt=""
+                                class="lazy-load ux-logo-image block"
+                                style="height: 50px" />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div
+                        id="col-907397431"
+                        class="col medium-3 small-12 large-3">
+                        <div class="col-inner text-center">
+                          <div
+                            class="ux-logo has-hover align-middle ux_logo inline-block"
+                            style="
+                              max-width: 100% !important;
+                              width: 130px !important;
+                            ">
+                            <div
+                              class="ux-logo-link block image-color"
+                              title=""
+                              href="#"
+                              style="padding: 15px">
+                              <img
+                                decoding="async"
+                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                data-src="./wp-content/uploads/2023/09/Weighing-ICON.png"
+                                title=""
+                                alt=""
+                                class="lazy-load ux-logo-image block"
+                                style="height: 100px" />
+                            </div>
+                          </div>
+
+                          <h2>Weighing</h2>
+                          <div
+                            class="ux-logo has-hover align-middle ux_logo inline-block"
+                            style="
+                              max-width: 100% !important;
+                              width: auto !important;
+                            ">
+                            <div
+                              class="ux-logo-link block image-overlay-add"
+                              title=""
+                              href="#"
+                              style="padding: 15px">
+                              <img
+                                decoding="async"
+                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                data-src=""
+                                title=""
+                                alt=""
+                                class="lazy-load ux-logo-image block"
+                                style="height: 50px" />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <style>
+                    #col-685086057 > .col-inner {
+                      margin: 0px 0px -130px 0px;
+                    }
+                  </style>
+                </div>
 
                 <style>
-                  #slider-1988726589 {
-                    margin-bottom: 10px;
-                  }
-                  #slider-1988726589 .flickity-slider > * {
-                    max-width: 0px !important;
+                  #row-823266763 > .col > .col-inner {
+                    padding: 25px 25px 25px 25px;
                   }
                 </style>
               </div>
             </div>
 
             <style>
-              #section_1589717266 {
-                padding-top: 1px;
-                padding-bottom: 1px;
+              #section_1869551002 {
+                padding-top: 60px;
+                padding-bottom: 60px;
+                min-height: 450px;
+                background-color: rgb(255, 255, 255);
               }
             </style>
           </section>
 
-          <div
-            id="gap-1556799376"
-            class="gap-element clearfix"
-            style="display: block; height: auto">
-            <style>
-              #gap-1556799376 {
-                padding-top: 36px;
-              }
-            </style>
-          </div>
+          <section class="section" id="section_1939347072">
+            <div class="bg section-bg fill bg-fill bg-loaded"></div>
 
-          <div
-            id="gap-2105241699"
-            class="gap-element clearfix"
-            style="display: block; height: auto">
-            <style>
-              #gap-2105241699 {
-                padding-top: 36px;
-              }
-            </style>
-          </div>
+            <div class="section-content relative">
+              <div id="text-659491692" class="text">
+                <h2 class="uppercase">Total workflow solutions</h2>
 
-          <div
-            id="gap-838296793"
-            class="gap-element clearfix"
-            style="display: block; height: auto">
+                <style>
+                  #text-659491692 {
+                    text-align: center;
+                  }
+                </style>
+              </div>
+
+              <div class="tabbed-content">
+                <ul
+                  class="nav nav-tabs nav-uppercase nav-size-xlarge nav-center"
+                  role="tablist">
+                  <li
+                    id="tab-earthmoving"
+                    class="tab active has-icon"
+                    role="presentation">
+                    <a
+                      href="#tab_earthmoving"
+                      role="tab"
+                      aria-selected="true"
+                      aria-controls="tab_earthmoving"
+                      ><span>Earthmoving</span></a
+                    >
+                  </li>
+                  <li id="tab-paving" class="tab has-icon" role="presentation">
+                    <a
+                      href="#tab_paving"
+                      tabindex="-1"
+                      role="tab"
+                      aria-selected="false"
+                      aria-controls="tab_paving"
+                      ><span>Paving</span></a
+                    >
+                  </li>
+                </ul>
+                <div class="tab-panels">
+                  <div
+                    id="tab_earthmoving"
+                    class="panel active entry-content"
+                    role="tabpanel"
+                    aria-labelledby="tab-earthmoving">
+                    <div class="banner has-hover" id="banner-560158393">
+                      <div class="banner-inner fill">
+                        <div class="banner-bg fill">
+                          <div class="bg fill bg-fill"></div>
+                          <div class="overlay"></div>
+                        </div>
+
+                        <div class="banner-layers container">
+                          <div class="fill banner-link"></div>
+
+                          <div
+                            id="text-box-557158017"
+                            class="text-box banner-layer x50 md-x50 lg-x50 y50 md-y50 lg-y50 res-text">
+                            <div class="text-box-content text dark">
+                              <div class="text-inner text-center">
+                                <h3 class="uppercase">
+                                  Take productivity into over-drive
+                                </h3>
+                                <p>
+                                  Our industry-leading machine control systems
+                                  work hand-in-glove with advanced site and
+                                  project management solutions to provide
+                                  unparalleled productivity gains across any
+                                  construction site. With dozers and graders
+                                  running at any speed you choose, we help you
+                                  accomplish more and finish on time, under
+                                  budget.
+                                </p>
+                                <a class="button white is-outline hidden">
+                                  <span>LEARN MORE</span>
+                                </a>
+                              </div>
+                            </div>
+
+                            <style>
+                              #text-box-557158017 {
+                                width: 60%;
+                              }
+                              #text-box-557158017 .text-box-content {
+                                font-size: 100%;
+                              }
+                            </style>
+                          </div>
+                        </div>
+                      </div>
+
+                      <style>
+                        #banner-560158393 {
+                          padding-top: 500px;
+                        }
+                        #banner-560158393 .bg.bg-loaded {
+                          background-image: url(wp-content/uploads/2023/09/construction-homepage-01-1400x436.png);
+                        }
+                        #banner-560158393 .overlay {
+                          background-color: rgba(0, 0, 0, 0.5);
+                        }
+                        #banner-560158393 .bg {
+                          background-position: 54% 47%;
+                        }
+                      </style>
+                    </div>
+                  </div>
+                  <div
+                    id="tab_paving"
+                    class="panel entry-content"
+                    role="tabpanel"
+                    aria-labelledby="tab-paving">
+                    <div class="banner has-hover" id="banner-1598853847">
+                      <div class="banner-inner fill">
+                        <div class="banner-bg fill">
+                          <div class="bg fill bg-fill"></div>
+                          <div class="overlay"></div>
+                        </div>
+
+                        <div class="banner-layers container">
+                          <div class="fill banner-link"></div>
+
+                          <div
+                            id="text-box-144274753"
+                            class="text-box banner-layer x50 md-x50 lg-x50 y50 md-y50 lg-y50 res-text">
+                            <div class="text-box-content text dark">
+                              <div class="text-inner text-center">
+                                <h3 class="uppercase">
+                                  Paving solutions for asphalt and concrete
+                                </h3>
+                                <p>
+                                  Topcon provides innovative paving solutions
+                                  for asphalt and concrete. Screed control is
+                                  the easy part. We also cover variable-depth
+                                  milling, intelligent compaction and
+                                  highway-speed surface scans.
+                                </p>
+                                <a class="button white is-outline hidden">
+                                  <span>LEARN MORE</span>
+                                </a>
+                              </div>
+                            </div>
+
+                            <style>
+                              #text-box-144274753 {
+                                width: 60%;
+                              }
+                              #text-box-144274753 .text-box-content {
+                                font-size: 100%;
+                              }
+                            </style>
+                          </div>
+                        </div>
+                      </div>
+
+                      <style>
+                        #banner-1598853847 {
+                          padding-top: 500px;
+                        }
+                        #banner-1598853847 .bg.bg-loaded {
+                          background-image: url(wp-content/uploads/2023/09/02-construction-illustration-1400x436.png);
+                        }
+                        #banner-1598853847 .overlay {
+                          background-color: rgba(0, 0, 0, 0.5);
+                        }
+                        #banner-1598853847 .bg {
+                          background-position: 54% 47%;
+                        }
+                      </style>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
             <style>
-              #gap-838296793 {
-                padding-top: 36px;
+              #section_1939347072 {
+                padding-top: 30px;
+                padding-bottom: 30px;
+                min-height: 450px;
               }
             </style>
-          </div>
+          </section>
+          
+ 
         </div>
       </main>
 
@@ -4878,7 +4728,7 @@
                       ><strong>Head Office</strong></span
                     >
                   </h3>
-                  <p>
+                  <h6>
                     <span style="font-size: 75%; color: #ffffff"
                       ><strong>Address:</strong> Office 235, Block E
 Commercial building, ​<br>
@@ -4892,7 +4742,7 @@ United Arab Emirates
                       ><strong>Working Days/Hours:</strong> Sun - Thu / 8:00 AM
                       - 6:00 PM</span
                     >
-                  </p>
+                  </h6>
                 </div>
               </div>
             </div>
