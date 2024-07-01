@@ -2364,7 +2364,7 @@
                             <div id="logo" class="flex-col logo">
                                 <!-- Header logo -->
                                 <a href="index.html"
-                                    title="Prime Machinery & Equipment General Trading FZE  - Construction Equipment Rentals and Sales in Saudi Arabia"
+                                    title="Prime Machinery & Equipment General Trading FZE  - Construction Equipment Rentals and Sales in United Arab Emirates"
                                     rel="home">
                                     <img width="113" height="60"
                                         src="wp-content/uploads/2022/06/White-General-Trading-Equipment-CJSC-VERTICALL.png"
